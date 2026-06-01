@@ -8,6 +8,16 @@ A growing collection of **free, no-signup** online tools and calculators for Sri
 
 > Everything runs in your browser or on free public services. No accounts, no installs.
 
+## 🔓 Open-source standalone repos
+
+Selected tools are also available as standalone open-source projects (MIT licensed):
+
+- 🔐 [**secret-chat**](https://github.com/IAshinsana/secret-chat) — E2EE self-destructing chat with browser-side AES-256
+- 🤐 [**one-time-secret**](https://github.com/IAshinsana/one-time-secret) — Privnote alternative for sharing passwords
+- 📁 [**secret-file**](https://github.com/IAshinsana/secret-file) — Self-destructing encrypted file share
+- 🗺️ [**sri-lanka-trip-planner**](https://github.com/IAshinsana/sri-lanka-trip-planner) — Open data + algorithm for SL itineraries
+- 💸 [**sri-lanka-tax-calculator**](https://github.com/IAshinsana/sri-lanka-tax-calculator) — IRD-cited tax math for 2026
+
 ## Finance
 
 - [Sri Lanka Tax Calculator](https://induwara.lk/tools/sri-lanka-tax-calculator) — Calculate your monthly and annual personal income tax (APIT) for Sri Lanka's 2025/26 year 
