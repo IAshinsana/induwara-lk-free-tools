@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-277%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-278%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -113,6 +113,10 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Text Diff Checker](https://induwara.lk/tools/text-diff-checker) — Compare two pieces of text side-by-side and see line-by-line and word-by-word differences 
 - [Reading Time Estimator](https://induwara.lk/tools/reading-time-estimator) — Estimate reading time for any article in seconds. Choose English prose (200 wpm), technica
 - [Slug Generator](https://induwara.lk/tools/slug-generator) — Turn any title into a clean, SEO-friendly URL slug. Handles Sinhala, Tamil, accented Latin
+
+## Image
+
+- [EXIF Metadata Viewer](https://induwara.lk/tools/exif-metadata-viewer) — View all EXIF and metadata of any photo or video — camera, exposure, capture date, and GPS
 
 ## Travel
 
