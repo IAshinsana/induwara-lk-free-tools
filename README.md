@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-278%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-279%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -135,6 +135,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 
 ## AI
 
+- [AI Voice Generator](https://induwara.lk/tools/ai-voice-generator) — Turn text into realistic AI speech and download the MP3 — free, no signup. 5 natural voice
 - [AI Token Counter](https://induwara.lk/tools/ai-token-counter) — Count tokens for any text against GPT-5, GPT-4o, Claude 4.x, Gemini 3, and Llama 4. See ho
 - [Sentiment Analyzer](https://induwara.lk/tools/ai-sentiment-analyzer) — Detect positive, negative, or neutral sentiment in any English text. DistilBERT-SST-2 runs
 - [Text Summarizer](https://induwara.lk/tools/ai-text-summarizer) — Summarize long articles, papers, or meeting notes into a TL;DR paragraph plus key bullet p
@@ -146,7 +147,6 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Similarity Checker](https://induwara.lk/tools/ai-text-similarity-checker) — Compare two texts and get a 0–100% semantic similarity score from sentence-transformer emb
 - [AI Question Answering](https://induwara.lk/tools/ai-question-answering) — Paste any English passage and ask a question — the tool returns the exact span that answer
 - [AI Grammar Checker](https://induwara.lk/tools/ai-grammar-checker) — Paste any English paragraph and get a corrected version side-by-side with the original — e
-- [AI Image Cost Calculator](https://induwara.lk/tools/ai-image-generation-cost-calculator) — Compare monthly cost of generating AI images across DALL-E 3, Imagen 3, Flux Pro, Stable D
 
 ---
 
