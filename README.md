@@ -1,12 +1,24 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-279%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-281%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
 🔗 **Website: [https://induwara.lk](https://induwara.lk)**
 
 > Everything runs in your browser or on free public services. No accounts, no installs.
+
+## 🔌 Free public API
+
+A free, CORS-enabled JSON API for developers — including a **free Text-to-Speech API** with AI voices, 28 languages and voice effects (whisper, laugh, pause), plus Sri Lanka data (NIC decoder, public holidays, working days, tax, VAT, loan EMI, land units, districts).
+
+```bash
+curl "https://induwara.lk/api/v1/nic/199234567890"
+```
+
+- 🗣️ **[Text-to-Speech API](https://induwara.lk/developers/voice)** — free TTS with effects (MP3/WAV)
+- 📚 **[API docs + OpenAPI](https://induwara.lk/developers)** — free keys, clean JSON
+- 📦 **JS SDK**: `import { InduwaraLK } from "https://induwara.lk/sdk/induwaralk.js"`
 
 ## 🔓 Open-source standalone repos
 
@@ -116,6 +128,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 
 ## Image
 
+- [EXIF Metadata Editor](https://induwara.lk/tools/exif-metadata-editor) — Edit the EXIF metadata of a photo — title, author, copyright, date taken, camera, and GPS 
 - [EXIF Metadata Viewer](https://induwara.lk/tools/exif-metadata-viewer) — View all EXIF and metadata of any photo or video — camera, exposure, capture date, and GPS
 
 ## Travel
