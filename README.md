@@ -1,12 +1,18 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-281%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-272%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
 🔗 **Website: [https://induwara.lk](https://induwara.lk)**
 
 > Everything runs in your browser or on free public services. No accounts, no installs.
+
+## 🛠️ Free AI Website Builder
+
+Describe a website in plain English → **Claude plans it (Opus) and builds it (Sonnet) live**, you preview it in a sandboxed iframe, **refine it by chat**, and **download the full source code**. No coding, no signup cost.
+
+→ **[Try the AI Website Builder](https://induwara.lk/build)**
 
 ## 🔌 Free public API
 
@@ -54,11 +60,11 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Exam Fees](https://induwara.lk/tools/sri-lanka-examination-fees-calculator) — Work out the official Department of Examinations fee for O/L and A/L re-correction, certif
 - [Grade 1 Age Check](https://induwara.lk/tools/sri-lanka-grade-1-admission-age-calculator) — Enter your child's date of birth and instantly see which year they're eligible for Grade 1
 - [Admission Marks](https://induwara.lk/tools/sri-lanka-grade-1-school-admission-marks-calculator) — Estimate the marks your Grade 1 government school application will score under the Ministr
-- [Grade 5 Scholarship](https://induwara.lk/tools/sri-lanka-grade-5-scholarship-cutoff-calculator) — Check the Grade 5 Scholarship (Year 5 Shishyathwa) cut-off mark for any Sri Lankan distric
 - [Mahapola Scholarship](https://induwara.lk/tools/sri-lanka-mahapola-scholarship-calculator) — Check Mahapola Merit and Bursary eligibility, the current monthly stipend, and total payou
 - [NVQ Level Lookup](https://induwara.lk/tools/sri-lanka-nvq-qualification-level-lookup) — Find your NVQ level, its academic equivalent (O/L, A/L, Diploma, Degree), the jobs it qual
 - [O/L Pass Check](https://induwara.lk/tools/sri-lanka-ol-exam-pass-calculator) — Enter your nine GCE O/L grades and instantly see whether you passed O/L, qualified for A/L
 - [School Calendar](https://induwara.lk/tools/sri-lanka-school-term-calendar) — Official Ministry of Education 2026 school term dates for Sri Lankan government schools. C
+- [University Cutoff](https://induwara.lk/tools/sri-lanka-university-cutoff-finder) — Enter your A/L Z-score, stream and district to see which Sri Lankan state-university cours
 
 ## Developer
 
@@ -144,7 +150,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [ETA Visa Fee](https://induwara.lk/tools/sri-lanka-eta-visa-fee-calculator) — Work out the exact Sri Lanka ETA visa cost in USD and LKR — tourist, business, transit — b
 - [EV Charging Cost](https://induwara.lk/tools/sri-lanka-ev-charging-cost-calculator) — Work out the monthly LKR cost of charging an EV at home in Sri Lanka on the CEB D-1 or D-T
 - [Expressway Toll](https://induwara.lk/tools/sri-lanka-expressway-toll-calculator) — Calculate the exact RDA-gazetted toll for any trip on Sri Lanka's expressway network — Sou
-- [Travel Currency Limit](https://induwara.lk/tools/sri-lanka-foreign-travel-currency-allowance-calculator) — How much USD, GBP, EUR and rupee cash a resident traveller can take out of Sri Lanka per d
+- [Fuel Cost](https://induwara.lk/tools/sri-lanka-fuel-cost-calculator) — Calculate the petrol or diesel cost of any trip in Sri Lanka using the latest Ceylon Petro
 
 ## AI
 
