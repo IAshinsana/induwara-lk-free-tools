@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-283%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-333%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -101,6 +101,10 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Blood Donation Check](https://induwara.lk/tools/sri-lanka-blood-donation-eligibility-checker) — Find out instantly whether you can donate blood in Sri Lanka. Free NBTS-aligned eligibilit
 - [Child Growth Chart](https://induwara.lk/tools/sri-lanka-child-growth-chart-calculator) — Calculate WHO Z-scores and percentiles for weight-for-age, height-for-age, weight-for-heig
 - [Vaccination Schedule](https://induwara.lk/tools/sri-lanka-child-vaccination-schedule-calculator) — Generate your child's personalised Sri Lanka EPI vaccination schedule from date of birth —
+- [Ovulation Calculator](https://induwara.lk/tools/ovulation-calculator) — Predict your ovulation day, six-day fertile window, most-fertile days, next period dates, 
+- [Heart Rate Zones](https://induwara.lk/tools/heart-rate-zone-calculator) — Find your maximum heart rate and the five training zones in exact bpm — recovery, fat-burn
+- [Calories Burned Calculator](https://induwara.lk/tools/calories-burned-calculator) — Estimate how many calories you burn walking, running, cycling, swimming, the gym, cricket,
+- [Ideal Weight Calculator](https://induwara.lk/tools/ideal-weight-calculator) — Work out your ideal body weight from height and sex using all four clinical formulas — Dev
 
 ## Documents
 
@@ -157,6 +161,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Voice Generator](https://induwara.lk/tools/ai-voice-generator) — Turn text into realistic AI speech and download the MP3 — free, no signup. 5 natural voice
 - [AI Token Counter](https://induwara.lk/tools/ai-token-counter) — Count tokens for any text against GPT-5, GPT-4o, Claude 4.x, Gemini 3, and Llama 4. See ho
 - [Sentiment Analyzer](https://induwara.lk/tools/ai-sentiment-analyzer) — Detect positive, negative, or neutral sentiment in any English text. DistilBERT-SST-2 runs
+- [Emotion Detector](https://induwara.lk/tools/ai-emotion-detector) — Detect emotion in any English text — anger, anticipation, disgust, fear, joy, sadness, sur
 - [Text Summarizer](https://induwara.lk/tools/ai-text-summarizer) — Summarize long articles, papers, or meeting notes into a TL;DR paragraph plus key bullet p
 - [Language Detector](https://induwara.lk/tools/ai-language-detector) — Detect the language of any text snippet — Sinhala, Tamil, Hindi, English, Chinese, and 100
 - [Prompt Formatter](https://induwara.lk/tools/ai-prompt-formatter) — Paste rough notes and get a well-structured AI prompt with role, task, constraints, and ou
@@ -165,7 +170,15 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Alt-Text Generator](https://induwara.lk/tools/ai-image-alt-text-generator) — Drop an image and get a concise, WCAG-friendly alt-text string plus two longer caption var
 - [AI Similarity Checker](https://induwara.lk/tools/ai-text-similarity-checker) — Compare two texts and get a 0–100% semantic similarity score from sentence-transformer emb
 - [AI Question Answering](https://induwara.lk/tools/ai-question-answering) — Paste any English passage and ask a question — the tool returns the exact span that answer
-- [AI Grammar Checker](https://induwara.lk/tools/ai-grammar-checker) — Paste any English paragraph and get a corrected version side-by-side with the original — e
+
+## Time
+
+- [Time Card Calculator](https://induwara.lk/tools/time-card-calculator) — Enter clock-in, clock-out and break times to get hours worked per day, the weekly total, a
+
+## Freelance
+
+- [SL Freelancer Tax Calculator](https://induwara.lk/tools/sri-lanka-freelancer-tax-calculator) — Calculate the income tax a Sri Lankan freelancer or remote worker owes on foreign-currency
+- [Freelance Fee Calculator](https://induwara.lk/tools/freelance-platform-fee-calculator) — See exactly what you keep after platform fees on Fiverr, Upwork, Freelancer.com and Guru. 
 
 ---
 
