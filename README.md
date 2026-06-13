@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-368%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-386%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -128,6 +128,10 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [W&OP Pension](https://induwara.lk/tools/sri-lanka-widows-orphans-pension-calculator) — Estimate the monthly survivor pension a widow or dependent child of a deceased Sri Lankan 
 - [Workmen's Compensation](https://induwara.lk/tools/sri-lanka-workmens-compensation-calculator) — Calculate statutory workmen's compensation under the Sri Lanka Workmen's Compensation Ordi
 - [Zakat Calculator](https://induwara.lk/tools/zakat-calculator) — Work out your Zakat in Sri Lankan rupees on cash, gold, silver, business stock and receiva
+- [SL Gold Price Calculator](https://induwara.lk/tools/sri-lanka-gold-price-calculator) — Work out what your gold is worth in Sri Lankan rupees today. Enter a weight in sovereigns 
+- [SL Payslip Generator](https://induwara.lk/tools/sri-lanka-payslip-generator) — Generate a print-ready Sri Lankan monthly salary slip with statutory EPF (8%/12%), ETF (3%
+- [CAGR Calculator](https://induwara.lk/tools/cagr-calculator) — Find the compound annual growth rate between two values, project a future value from a CAG
+- [CEB TOU Tariff Calculator](https://induwara.lk/tools/sri-lanka-tou-tariff-calculator) — Check if a CEB or LECO Time-of-Use electricity meter saves you money. Split your usage int
 
 ## Education
 
@@ -147,6 +151,12 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL Degree Class Predictor](https://induwara.lk/tools/sri-lanka-degree-class-predictor) — Map your cumulative GPA or average to a Sri Lankan honours class — First, Second Upper, Se
 - [Citation Generator](https://induwara.lk/tools/citation-generator) — Generate correctly formatted references and matching in-text citations in APA 7th, MLA 9th
 - [Sample Size Calculator](https://induwara.lk/tools/sample-size-calculator) — Find the minimum survey or research sample size for any confidence level, margin of error,
+- [Statistics Calculator](https://induwara.lk/tools/descriptive-statistics-calculator) — Paste a list of numbers to instantly compute mean, median, mode, range, variance, standard
+- [Confidence Interval Calc](https://induwara.lk/tools/confidence-interval-calculator) — Calculate the confidence interval and margin of error for a sample mean (z or t) or propor
+- [T-Test Calculator](https://induwara.lk/tools/t-test-calculator) — Run a Student's t-test from raw data — one-sample, paired, or independent two-sample (pool
+- [Cohen's d Calculator](https://induwara.lk/tools/cohens-d-effect-size-calculator) — Compute Cohen's d and the bias-corrected Hedges' g from means and SDs, raw data, or a t va
+- [Chi-Square Test Calculator](https://induwara.lk/tools/chi-square-test-calculator) — Run Pearson's chi-square test in your browser — goodness-of-fit or test of independence. G
+- [Normal Distribution Calc](https://induwara.lk/tools/normal-distribution-calculator) — Find normal-distribution probabilities, percentiles, z-scores and p-values for any mean an
 
 ## Developer
 
@@ -234,6 +244,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Lakhs & Crores Converter](https://induwara.lk/tools/lakhs-crores-converter) — Convert any amount between lakhs, crores, thousands, millions and billions instantly. See 
 - [Chmod Calculator](https://induwara.lk/tools/chmod-calculator) — Toggle read/write/execute for owner, group and other to get the octal code (755), symbolic
 - [Old NIC → New NIC](https://induwara.lk/tools/sri-lanka-nic-converter) — Convert a Sri Lankan old 10-character NIC to the new 12-digit number (and back) with date 
+- [Rahu Kalaya Calculator](https://induwara.lk/tools/sri-lanka-rahu-kalaya-calculator) — Calculates the daily Rahu Kalaya, Yamaganda and Gulika Kaalam time windows for any date an
+- [Moon Phase & Poya Calendar](https://induwara.lk/tools/sri-lanka-moon-phase-poya-calculator) — Find tonight's moon phase, illumination and age, see if today is a Poya, and browse the fu
 
 ## Health
 
@@ -245,6 +257,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Calories Burned Calculator](https://induwara.lk/tools/calories-burned-calculator) — Estimate how many calories you burn walking, running, cycling, swimming, the gym, cricket,
 - [Ideal Weight Calculator](https://induwara.lk/tools/ideal-weight-calculator) — Work out your ideal body weight from height and sex using all four clinical formulas — Dev
 - [A1C Calculator](https://induwara.lk/tools/a1c-calculator) — Convert HbA1c to estimated average blood glucose in mg/dL and mmol/L (and back) using the 
+- [eGFR Kidney Function Calc](https://induwara.lk/tools/egfr-calculator) — Estimate kidney function (eGFR) from serum creatinine, age and sex using the race-free CKD
+- [BSA Calculator](https://induwara.lk/tools/body-surface-area-calculator) — Calculate body surface area in m² from height and weight using all five published formulas
 
 ## Documents
 
@@ -396,6 +410,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Voice Agent Cost](https://induwara.lk/tools/ai-voice-agent-cost-calculator) — Estimate the real per-minute and monthly cost of a cascaded AI voice agent — chaining spee
 - [AI Cost Per Word](https://induwara.lk/tools/ai-cost-per-word-calculator) — Convert AI token pricing into cost per word, per page, and per article for GPT-4o, Claude,
 - [BLEU Score Calculator](https://induwara.lk/tools/bleu-score-calculator) — Calculate the BLEU score for a candidate translation against one or more references, entir
+- [METEOR Score Calculator](https://induwara.lk/tools/meteor-score-calculator) — Calculate the METEOR score for a candidate translation against a reference, entirely in yo
 - [Regression Metrics Calculator](https://induwara.lk/tools/ai-regression-metrics-calculator) — Paste your model's predicted values and the actual values to instantly get MAE, MSE, RMSE,
 - [ROUGE Score Calculator](https://induwara.lk/tools/rouge-score-calculator) — Calculate ROUGE-1, ROUGE-2, ROUGE-L and ROUGE-Lsum precision, recall and F1 between a gene
 - [Cohen's Kappa Calculator](https://induwara.lk/tools/cohens-kappa-calculator) — Enter a two-rater agreement matrix and get Cohen's kappa (κ) with observed vs chance agree
@@ -430,6 +445,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Temperature Calc](https://induwara.lk/tools/ai-temperature-calculator) — Interactive visualizer for LLM temperature, top-p (nucleus), and top-k sampling. Drag the 
 - [Manhattan Distance Calc](https://induwara.lk/tools/manhattan-distance-calculator) — Compute the Manhattan (L1 / taxicab / city-block) distance between two points or two numer
 - [Minkowski Distance Calc](https://induwara.lk/tools/minkowski-distance-calculator) — Compute the Minkowski distance (the generalized Lₚ metric) between two numeric vectors of 
+- [AI Presentation Maker](https://induwara.lk/tools/ai-presentation-maker) — Describe your topic and get a designed, editable presentation: AI plans it slide by slide,
+- [AI Model Size Calculator](https://induwara.lk/tools/ai-model-size-calculator) — Calculate the exact on-disk file size of any LLM at FP32, FP16, 8-bit, 4-bit, or GGUF quan
+- [AI Knowledge Cutoff](https://induwara.lk/tools/ai-knowledge-cutoff-lookup) — Look up any major LLM's training-data knowledge cutoff and release date, straight from the
 
 ## Time
 
