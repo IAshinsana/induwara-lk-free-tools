@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-438%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-875%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -42,6 +42,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Sri Lanka Tax Calculator](https://induwara.lk/tools/sri-lanka-tax-calculator) — Calculate your monthly and annual personal income tax (APIT) for Sri Lanka's 2025/26 year 
 - [Sri Lanka EPF Calculator](https://induwara.lk/tools/sri-lanka-epf-calculator) — Project your EPF and ETF balance at retirement using statutory contribution rates and the 
 - [Sri Lanka EMI Calculator](https://induwara.lk/tools/sri-lanka-loan-emi-calculator) — Calculate monthly EMI, total interest, and a full amortisation schedule for housing, vehic
+- [SL Loan Settlement Calc](https://induwara.lk/tools/sri-lanka-loan-early-settlement-calculator) — Find the exact capital balance to settle a housing, vehicle or personal loan early in Sri 
 - [Sri Lanka FD Calculator](https://induwara.lk/tools/sri-lanka-fixed-deposit-calculator) — Calculate maturity value, interest earned, and net-of-WHT return on Sri Lankan rupee fixed
 - [Discount Calc](https://induwara.lk/tools/discount-percentage-calculator) — Quick math for sale prices, tip percentages, percentage increase or decrease, and tax-incl
 - [EMI Calculator](https://induwara.lk/tools/emi-calculator) — Calculate monthly EMI for any home, car, personal, or education loan. Standard reducing-ba
@@ -100,6 +101,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Marriage Reg Fee](https://induwara.lk/tools/sri-lanka-marriage-registration-fee-calculator) — Add up the exact rupee cost to legally register your marriage in Sri Lanka — General, Kand
 - [Maternity Leave](https://induwara.lk/tools/sri-lanka-maternity-leave-calculator) — Work out exactly how many paid working days of maternity leave you are entitled to in Sri 
 - [Minimum Wage](https://induwara.lk/tools/sri-lanka-minimum-wage-calculator) — Check whether your pay meets Sri Lanka's legal minimum wage. Covers the national minimum a
+- [Laptop Import Tax](https://induwara.lk/tools/sri-lanka-laptop-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a laptop into Sri Lanka — PAL, V
+- [Tablet Import Tax](https://induwara.lk/tools/sri-lanka-tablet-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a tablet or iPad into Sri Lanka 
 - [Insurance Premium](https://induwara.lk/tools/sri-lanka-motor-insurance-premium-calculator) — Calculate the IRCSL statutory minimum third-party motor insurance premium for any Sri Lank
 - [Net to Gross Salary](https://induwara.lk/tools/sri-lanka-net-to-gross-salary-calculator) — Find the gross monthly salary you need to take home a target net in Sri Lanka — reverses A
 - [NIC Fee](https://induwara.lk/tools/sri-lanka-nic-fee-calculator) — Find the exact rupee cost of any Sri Lankan NIC service — first NIC, lost or damaged repla
@@ -137,12 +140,107 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL Loan Eligibility Calc](https://induwara.lk/tools/sri-lanka-loan-eligibility-calculator) — Find the maximum housing, vehicle, personal or education loan you qualify for in Sri Lanka
 - [SL Withholding Tax (WHT)](https://induwara.lk/tools/sri-lanka-withholding-tax-calculator) — Calculate the withholding tax / Advance Income Tax (AIT) deducted at source on Sri Lankan 
 - [Govt Salary Increase 2025/27](https://induwara.lk/tools/sri-lanka-government-salary-increase-calculator) — See how your public-sector basic salary rises across the three phases of Public Administra
+- [Govt Salary Scale Finder](https://induwara.lk/tools/sri-lanka-public-service-salary-scale-finder) — Look up the official Sri Lankan public-service salary scale for any salary code (MN-1, MA-
 - [SL Bank SWIFT Code Finder](https://induwara.lk/tools/sri-lanka-bank-swift-code-finder) — Find the official SWIFT/BIC code for any licensed Sri Lankan bank to receive money from ab
 - [Motorcycle Import Tax](https://induwara.lk/tools/sri-lanka-motorcycle-import-tax-calculator) — Estimate the landed cost and every tax line — CID, excise, PAL, SSCL and VAT — for importi
 - [Retirement Age Calculator](https://induwara.lk/tools/sri-lanka-retirement-age-calculator) — Find the exact dates you become eligible to retire (age 60), withdraw your full EPF (55 fo
 - [Employee Cost Calculator](https://induwara.lk/tools/sri-lanka-employee-cost-calculator) — Work out the true cost-to-company of an employee in Sri Lanka — gross salary plus employer
 - [TIN Registration Checker](https://induwara.lk/tools/sri-lanka-tin-registration-checker) — Check in seconds whether you must register for a TIN, register for income tax, and file a 
 - [Customs Duty Calculator](https://induwara.lk/tools/sri-lanka-customs-duty-calculator) — Calculate the full Sri Lanka import levy stack — CID, PAL, CESS, Surcharge, SSCL and VAT —
+- [Agrahara Insurance Calc](https://induwara.lk/tools/sri-lanka-agrahara-insurance-calculator) — Work out exactly what the Agrahara scheme (NITF) reimburses for a hospital stay, surgery, 
+- [Company Annual Return Fee](https://induwara.lk/tools/sri-lanka-company-annual-return-fee-calculator) — Itemise the exact Registrar of Companies fees for a Sri Lankan company's annual return (Fo
+- [Attestation Fee Calculator](https://induwara.lk/tools/sri-lanka-document-attestation-fee-calculator) — Calculate the exact cost to attest certificates at Sri Lanka's Ministry of Foreign Affairs
+- [NPV & IRR Calculator](https://induwara.lk/tools/npv-irr-calculator) — Evaluate whether a project is worth it: enter the initial outlay, your required return and
+- [SL Vehicle Import Eligibility](https://induwara.lk/tools/sri-lanka-vehicle-import-eligibility-checker) — Check if the car, van, cab, lorry, bus or motorcycle you want to import into Sri Lanka is 
+- [Patent Fee](https://induwara.lk/tools/sri-lanka-patent-registration-fee-calculator) — Work out the full NIPO government fee to patent an invention in Sri Lanka — filing, examin
+- [Income Tax Refund](https://induwara.lk/tools/sri-lanka-income-tax-refund-calculator) — Reconcile the APIT (PAYE) your employer deducted over the year against your actual liabili
+- [Flat ↔ Reducing Calculator](https://induwara.lk/tools/sri-lanka-flat-vs-reducing-interest-calculator) — Convert an advertised flat (add-on) interest rate into the true reducing-balance and effec
+- [Gem License Fee](https://induwara.lk/tools/sri-lanka-gem-license-fee-calculator) — Work out the National Gem & Jewellery Authority (NGJA) fee for a gem mining, dealer, cutti
+- [IBAN Validator](https://induwara.lk/tools/iban-validator) — Paste any International Bank Account Number to check it instantly: verifies the ISO 7064 M
+- [SL EV Import Tax Calculator](https://induwara.lk/tools/sri-lanka-ev-import-tax-calculator) — Estimate the full import tax on an electric car in Sri Lanka — CID, 50% surcharge, per-kW 
+- [Business Name Reg Fee](https://induwara.lk/tools/sri-lanka-business-name-registration-fee-calculator) — Work out the exact fee to register a sole-proprietor business name in Sri Lanka by initial
+- [EV vs Petrol Cost Calc](https://induwara.lk/tools/sri-lanka-ev-vs-petrol-cost-calculator) — Compare the running cost of an electric vehicle against a petrol car in Sri Lanka and find
+- [Console Import Tax](https://induwara.lk/tools/sri-lanka-gaming-console-import-tax-calculator) — Calculate the total import tax and landed cost of a PS5, Xbox, or Nintendo Switch brought 
+- [Take-Home Salary Calc](https://induwara.lk/tools/sri-lanka-take-home-salary-calculator) — Enter your gross monthly salary and see your net take-home pay in Sri Lanka after the 8% E
+- [Drone Import Tax](https://induwara.lk/tools/sri-lanka-drone-import-tax-calculator) — Estimate the landed cost of importing a drone to Sri Lanka — VAT and SSCL on the CIF value
+- [TV Import Tax](https://induwara.lk/tools/sri-lanka-tv-import-tax-calculator) — Calculate the total import tax and landed cost of bringing a television into Sri Lanka — C
+- [Tyre Import Tax](https://induwara.lk/tools/sri-lanka-tyre-import-tax-calculator) — Calculate the total import tax and landed cost of bringing car, SUV, motorcycle or three-w
+- [Camera Import Tax](https://induwara.lk/tools/sri-lanka-camera-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a DSLR, mirrorless or video came
+- [Headphone Import Tax](https://induwara.lk/tools/sri-lanka-headphone-import-tax-calculator) — Estimate the total import tax and landed cost of bringing headphones, earbuds or AirPods i
+- [Speaker Import Tax](https://induwara.lk/tools/sri-lanka-bluetooth-speaker-import-tax-calculator) — Work out the total import tax and landed cost of bringing a Bluetooth speaker, portable sp
+- [Graphics Card Import Tax](https://induwara.lk/tools/sri-lanka-graphics-card-import-tax-calculator) — Estimate the Sri Lanka import tax and landed cost of a graphics card or PC part — the CID,
+- [SL Smartwatch Import Tax](https://induwara.lk/tools/sri-lanka-smartwatch-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a smartwatch or fitness band int
+- [SL Power Bank Import Tax](https://induwara.lk/tools/sri-lanka-power-bank-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a lithium-ion power bank into Sr
+- [SL AC Import Tax](https://induwara.lk/tools/sri-lanka-air-conditioner-import-tax-calculator) — Estimate the total import tax and landed cost of bringing an air conditioner into Sri Lank
+- [SL Fridge Import Tax](https://induwara.lk/tools/sri-lanka-refrigerator-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a refrigerator or freezer into S
+- [SL Air Fryer Import Tax](https://induwara.lk/tools/sri-lanka-air-fryer-import-tax-calculator) — Estimate the total import tax and landed cost of bringing an air fryer into Sri Lanka befo
+- [SL Washing Machine Import Tax](https://induwara.lk/tools/sri-lanka-washing-machine-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a washing machine into Sri Lanka
+- [AWPLR Loan Rate Calculator](https://induwara.lk/tools/sri-lanka-awplr-loan-calculator) — Work out the all-in interest rate and monthly instalment of a Sri Lankan floating-rate loa
+- [SL Monitor Import Tax](https://induwara.lk/tools/sri-lanka-monitor-import-tax-calculator) — Calculate Customs Duty, PAL, VAT and SSCL on a computer monitor imported into Sri Lanka (H
+- [SL Printer Import Tax](https://induwara.lk/tools/sri-lanka-printer-import-tax-calculator) — Calculate Customs Duty, PAL, VAT and SSCL on a printer imported into Sri Lanka (HS 8443), 
+- [ROI & ROAS Calculator](https://induwara.lk/tools/roi-calculator) — Calculate return on investment two ways: net profit, simple ROI and annualized ROI for an 
+- [SL Microwave Import Tax](https://induwara.lk/tools/sri-lanka-microwave-oven-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a microwave oven into Sri Lanka 
+- [SL Partnership Tax Calculator](https://induwara.lk/tools/sri-lanka-partnership-tax-calculator) — Work out a Sri Lankan partnership's income tax — a flat 6% on divisible profit plus other 
+- [Korea EPS Salary (Rs)](https://induwara.lk/tools/sri-lanka-korea-eps-salary-calculator) — See what a Sri Lankan EPS (E-9) worker is paid in South Korea: the 2026 Korean minimum wag
+- [SL Second Job Tax](https://induwara.lk/tools/sri-lanka-secondary-employment-tax-calculator) — Work out the exact APIT your second employer withholds on a side salary, retainer, or visi
+- [Payment Gateway Fees](https://induwara.lk/tools/sri-lanka-payment-gateway-fee-calculator) — Work out exactly what you keep after PayHere, WebXPay and Onepay fees. Enter a sale amount
+- [Sole Trader vs Company Tax](https://induwara.lk/tools/sri-lanka-sole-proprietor-vs-company-tax-calculator) — Compare the total Sri Lankan tax you pay as a sole proprietor (personal income-tax slabs) 
+- [SL Deposit Insurance Cover](https://induwara.lk/tools/sri-lanka-deposit-insurance-calculator) — Shows how much of your bank and finance-company deposits are protected under the Central B
+- [EPF Retirement Projection](https://induwara.lk/tools/sri-lanka-epf-retirement-projection-calculator) — Project how big your Sri Lanka EPF balance will grow by retirement. Compounds the statutor
+- [Generator Import Tax](https://induwara.lk/tools/sri-lanka-generator-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a petrol or diesel generator int
+- [Vehicle Down Payment Calc](https://induwara.lk/tools/sri-lanka-vehicle-down-payment-calculator) — Work out the minimum down payment and the maximum a bank may legally lend for any vehicle 
+- [FD Interest Tax Calculator](https://induwara.lk/tools/sri-lanka-fixed-deposit-interest-tax-calculator) — Work out the 10% Advance Income Tax (AIT / withholding tax) your bank deducts from fixed-d
+- [SL Final Settlement Calculator](https://induwara.lk/tools/sri-lanka-final-settlement-calculator) — Work out your final settlement when you leave a private-sector job in Sri Lanka — salary i
+- [SL Tax Deadline Calendar](https://induwara.lk/tools/sri-lanka-tax-deadline-calendar) — Pick the taxes you pay — income tax, VAT, SSCL, APIT/PAYE or WHT — and instantly see every
+- [CCTV Import Tax](https://induwara.lk/tools/sri-lanka-cctv-import-tax-calculator) — Estimate the total import tax and landed cost of a CCTV or IP security camera or a full su
+- [Savings Interest Calculator](https://induwara.lk/tools/sri-lanka-savings-account-interest-calculator) — Calculate the real monthly and annual interest a Sri Lankan savings account earns using th
+- [SL Special Commodity Levy](https://induwara.lk/tools/sri-lanka-special-commodity-levy-calculator) — Calculate the Special Commodity Levy on imported essentials — sugar, dhal, canned fish, bi
+- [PC Build Import Tax](https://induwara.lk/tools/sri-lanka-pc-build-import-tax-calculator) — Add up the total Sri Lankan import tax (Customs Duty, Cess, PAL, VAT and SSCL) on a comple
+- [SL YouTube Tax Calculator](https://induwara.lk/tools/sri-lanka-youtube-tax-calculator) — See how much US tax Google withholds from your YouTube/AdSense earnings as a Sri Lankan cr
+- [Dividend Tax Calculator](https://induwara.lk/tools/sri-lanka-dividend-tax-calculator) — Work out the 15% withholding tax deducted from a Sri Lankan share dividend and the net cas
+- [Faraid Inheritance Calc](https://induwara.lk/tools/sri-lanka-faraid-inheritance-calculator) — Divide a Muslim estate in Sri Lanka among spouse, parents, sons and daughters by the fixed
+- [SL Projector Import Tax](https://induwara.lk/tools/sri-lanka-projector-import-tax-calculator) — Calculate Customs Duty, PAL, VAT and SSCL on a data/office/home projector imported into Sr
+- [Generator Running Cost](https://induwara.lk/tools/sri-lanka-generator-running-cost-calculator) — Work out what a diesel or petrol standby generator really costs to run in Sri Lanka — litr
+- [SL Trade License Fee](https://induwara.lk/tools/sri-lanka-trade-license-fee-calculator) — Estimate the annual local-authority trade/business license fee for a Sri Lankan shop from 
+- [Foreign Job Minimum Wage](https://induwara.lk/tools/sri-lanka-foreign-employment-minimum-wage-calculator) — Look up the SLBFE statutory minimum monthly wage for a housemaid or migrant job in Saudi A
+- [Debt Payoff Calculator](https://induwara.lk/tools/sri-lanka-debt-payoff-calculator) — Enter every debt — credit card, personal loan, lease, pawning — with its balance, rate and
+- [Bicycle Import Tax](https://induwara.lk/tools/sri-lanka-bicycle-import-tax-calculator) — Work out the full landed cost of importing a non-motorized bicycle into Sri Lanka — CID, C
+- [SL CESS Levy Calculator](https://induwara.lk/tools/sri-lanka-cess-levy-calculator) — Calculate the CESS levy on Sri Lankan imports — ad-valorem % of CIF or Rs-per-unit, whiche
+- [Credit Card Stamp Duty](https://induwara.lk/tools/sri-lanka-credit-card-stamp-duty-calculator) — Calculate the government stamp duty on a Sri Lankan credit-card transaction — Rs 25 per Rs
+- [Festival Advance Calculator](https://induwara.lk/tools/sri-lanka-festival-advance-calculator) — Work out the interest-free festival advance (උත්සව අත්තිකාරම්) a Sri Lankan public officer
+- [Gym Equipment Import Tax](https://induwara.lk/tools/sri-lanka-gym-equipment-import-tax-calculator) — Estimate the total import tax and landed cost of bringing gym equipment into Sri Lanka — C
+- [PAL Import Levy Calculator](https://induwara.lk/tools/sri-lanka-ports-airports-development-levy-calculator) — Calculate the Ports and Airports Development Levy (PAL) payable on imported goods from CIF
+- [Electric Scooter Import Tax](https://induwara.lk/tools/sri-lanka-electric-scooter-import-tax-calculator) — Estimate the total import tax and landed cost of an electric scooter, e-moped or electric 
+- [Online Transfer Limit Check](https://induwara.lk/tools/sri-lanka-online-transfer-limit-checker) — Check which interbank rail — CEFTS, SLIPS, RTGS or JustPay — can carry a given rupee amoun
+- [Paddy Income Calculator](https://induwara.lk/tools/sri-lanka-paddy-income-calculator) — See the current certified (guaranteed) paddy price for Nadu, Samba and Keeri Samba, then e
+- [Solar Payback Calculator](https://induwara.lk/tools/sri-lanka-solar-panel-payback-calculator) — Work out how many years your rooftop solar takes to pay back in Sri Lanka and its 20-year 
+- [SL Induction Cooker Import Tax](https://induwara.lk/tools/sri-lanka-induction-cooker-import-tax-calculator) — Work out the full landed cost of importing an induction cooker, cooktop or portable hob in
+- [Vehicle Transfer Fee](https://induwara.lk/tools/sri-lanka-vehicle-transfer-fee-calculator) — Calculate the exact Department of Motor Traffic (RMV) cost to transfer a vehicle in Sri La
+- [Terminal Benefits Tax](https://induwara.lk/tools/sri-lanka-terminal-benefits-tax-calculator) — Calculate the APIT withheld from a Sri Lankan retirement or resignation lump sum — retirin
+- [CRIB Score Checker](https://induwara.lk/tools/sri-lanka-crib-score-checker) — See where your CRIB score sits on the official 250–900 scale and the exact fee, documents,
+- [Shoe Import Tax](https://induwara.lk/tools/sri-lanka-shoe-import-tax-calculator) — Estimate the total import tax and landed cost of bringing shoes or sneakers into Sri Lanka
+- [SL Bank Holidays 2026](https://induwara.lk/tools/sri-lanka-bank-holidays-calendar) — The official Central Bank of Sri Lanka list of 2026 bank holidays, with a badge for bank-o
+- [Zakat al-Fitr Calculator](https://induwara.lk/tools/sri-lanka-zakat-al-fitr-calculator) — Work out your household's Zakat al-Fitr (Fitrah) for Sri Lanka — the total rice weight and
+- [Overdraft (OD) Interest](https://induwara.lk/tools/sri-lanka-overdraft-interest-calculator) — Work out the interest on a Sri Lankan bank overdraft the way banks charge it — on the dail
+- [EPL Fee Calculator](https://induwara.lk/tools/sri-lanka-environmental-protection-license-fee-calculator) — Estimate the total cost of a Sri Lanka Environmental Protection Licence (EPL) — CEA licenc
+- [Salary Increment Calculator](https://induwara.lk/tools/sri-lanka-salary-increment-calculator) — See how much of your pay rise you actually keep after APIT tax and 8% EPF in Sri Lanka. Be
+- [Employer EPF/ETF Calculator](https://induwara.lk/tools/sri-lanka-epf-etf-employer-contribution-calculator) — Work out an employer's monthly EPF (8% + 12%) and ETF (3%) on staff salaries in Sri Lanka,
+- [SLTDA Registration Fee](https://induwara.lk/tools/sri-lanka-tourism-registration-fee-calculator) — Calculate the exact SLTDA registration and renewal fee — Registration, License and Admin f
+- [Industrial Electricity Bill](https://induwara.lk/tools/sri-lanka-industrial-electricity-bill-calculator) — Estimate the monthly CEB/LECO bill for a factory, workshop or commercial premises on a dem
+- [Green Tea Leaf Price](https://induwara.lk/tools/sri-lanka-green-tea-leaf-price-calculator) — Work out the fair reasonable price a factory should pay per kg of green tea leaf, using th
+- [SL Poverty Line Calculator](https://induwara.lk/tools/sri-lanka-poverty-line-calculator) — Check a Sri Lankan household against the government's Official Poverty Line by district — 
+- [HS Code & Import Tax Finder](https://induwara.lk/tools/sri-lanka-hs-code-import-tax-finder) — Search a product to find its Sri Lanka Customs HS heading and the full stack of import lev
+- [Vacuum Import Tax LK](https://induwara.lk/tools/sri-lanka-vacuum-cleaner-import-tax-calculator) — Estimate the total Sri Lanka Customs import tax (CID, CESS, PAL, SSCL and VAT) and final l
+- [SL Assessment Tax Calc](https://induwara.lk/tools/sri-lanka-assessment-tax-calculator) — Calculate your Sri Lankan property assessment tax (rates) from the annual value and counci
+- [SL Furniture Import Tax](https://induwara.lk/tools/sri-lanka-furniture-import-tax-calculator) — Estimate the total import tax and landed cost of bringing furniture into Sri Lanka — sofas
+- [SL Cosmetics Import Tax](https://induwara.lk/tools/sri-lanka-cosmetics-import-tax-calculator) — Estimate the total import tax and landed cost of bringing make-up, skincare and perfume in
+- [Easy Payment Plan Calculator](https://induwara.lk/tools/sri-lanka-credit-card-installment-plan-calculator) — Reveal the true annual cost (AER) of any Sri Lankan credit-card easy payment / installment
+- [SL Termination Compensation](https://induwara.lk/tools/sri-lanka-termination-compensation-calculator) — Calculate the statutory compensation owed on a non-disciplinary termination in Sri Lanka u
+- [Debenture Return Calculator](https://induwara.lk/tools/sri-lanka-debenture-calculator) — Calculate gross and after-tax returns, current yield and approximate YTM on Sri Lankan lis
+- [SL Farmers' Pension Calc](https://induwara.lk/tools/sri-lanka-farmers-pension-calculator) — Estimate your AAIB Farmers' Pension: the fixed contribution by enrolment age and tier, the
+- [Income Percentile](https://induwara.lk/tools/sri-lanka-income-percentile-calculator) — See what percentage of Sri Lankan households you out-earn. Enter your monthly income and g
+- [Suraksha Insurance Calculator](https://induwara.lk/tools/sri-lanka-suraksha-student-insurance-calculator) — Work out the exact rupee amount a Sri Lankan school child can claim under the free Suraksh
+- [SL Sewing Machine Import Tax](https://induwara.lk/tools/sri-lanka-sewing-machine-import-tax-calculator) — Estimate the total Sri Lanka import tax (Customs Duty, Cess, PAL, VAT, SSCL) and landed co
 
 ## Education
 
@@ -165,11 +263,42 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Statistics Calculator](https://induwara.lk/tools/descriptive-statistics-calculator) — Paste a list of numbers to instantly compute mean, median, mode, range, variance, standard
 - [Confidence Interval Calc](https://induwara.lk/tools/confidence-interval-calculator) — Calculate the confidence interval and margin of error for a sample mean (z or t) or propor
 - [T-Test Calculator](https://induwara.lk/tools/t-test-calculator) — Run a Student's t-test from raw data — one-sample, paired, or independent two-sample (pool
+- [Mann-Whitney U Test](https://induwara.lk/tools/mann-whitney-u-test-calculator) — Run the Mann-Whitney U test (Wilcoxon rank-sum) on two independent samples from raw number
+- [K-S Test Calculator](https://induwara.lk/tools/kolmogorov-smirnov-test-calculator) — Run one-sample and two-sample Kolmogorov–Smirnov tests from raw numbers: the D statistic, 
+- [Wilcoxon Signed-Rank Test](https://induwara.lk/tools/wilcoxon-signed-rank-test-calculator) — Run the Wilcoxon signed-rank test on paired samples (before/after) or one sample against a
 - [Cohen's d Calculator](https://induwara.lk/tools/cohens-d-effect-size-calculator) — Compute Cohen's d and the bias-corrected Hedges' g from means and SDs, raw data, or a t va
 - [Chi-Square Test Calculator](https://induwara.lk/tools/chi-square-test-calculator) — Run Pearson's chi-square test in your browser — goodness-of-fit or test of independence. G
 - [Normal Distribution Calc](https://induwara.lk/tools/normal-distribution-calculator) — Find normal-distribution probabilities, percentiles, z-scores and p-values for any mean an
 - [SL University Bursary Check](https://induwara.lk/tools/sri-lanka-university-bursary-calculator) — Check if you qualify for the UGC university bursary in Sri Lanka and estimate the annual p
 - [Grade 5 Scholarship Cut-Off](https://induwara.lk/tools/sri-lanka-grade-5-scholarship-cutoff-marks) — Check whether a Grade 5 Scholarship mark clears your district's official cut-off, by year 
+- [Permutation & Combination](https://induwara.lk/tools/permutation-combination-calculator) — Compute permutations (nPr) and combinations (nCr) for any whole numbers, with or without r
+- [Accountancy Cost Calculator](https://induwara.lk/tools/sri-lanka-accountancy-qualification-cost-calculator) — Add up the total official body fees to qualify as an accountant in Sri Lanka — CA Sri Lank
+- [University District Quota](https://induwara.lk/tools/sri-lanka-university-district-quota-calculator) — See how any Sri Lankan state-university course intake is split under the UGC 40% merit / 5
+- [One-Way ANOVA Calculator](https://induwara.lk/tools/one-way-anova-calculator) — Compare the means of three or more groups from raw data and get a full one-way ANOVA table
+- [Binomial Distribution Calc](https://induwara.lk/tools/binomial-distribution-calculator) — Compute the exact binomial probability P(X=k) plus every cumulative form (at most, at leas
+- [Poisson Distribution Calc](https://induwara.lk/tools/poisson-distribution-calculator) — Compute the exact Poisson probability P(X=k) plus every cumulative form (at most, at least
+- [English Test Converter](https://induwara.lk/tools/english-test-score-converter) — Convert a score on one English proficiency test into its official equivalents on the other
+- [SLQF Level Checker](https://induwara.lk/tools/sri-lanka-slqf-level-checker) — Look up the official SLQF level (1–12) of any Sri Lankan qualification — Certificate, Dipl
+- [R-Squared Calculator](https://induwara.lk/tools/r-squared-calculator) — Compute R² (coefficient of determination) and adjusted R² by fitting a linear regression t
+- [Cramér's V Calculator](https://induwara.lk/tools/cramers-v-calculator) — Compute Cramér's V, the effect size for association between two nominal variables, from a 
+- [SAT to ACT Converter](https://induwara.lk/tools/sat-act-score-converter) — Convert an SAT total (400–1600) to its equivalent ACT composite (1–36) and back, using the
+- [A/L & O/L Grade Calculator](https://induwara.lk/tools/sri-lanka-exam-grade-calculator) — Convert G.C.E. Advanced Level or Ordinary Level subject marks (0–100) into official Sri La
+- [Fisher's Exact Test](https://induwara.lk/tools/fisher-exact-test-calculator) — Run Fisher's exact test on a 2×2 table in your browser. Enter the four cell counts to get 
+- [Kruskal-Wallis Test](https://induwara.lk/tools/kruskal-wallis-test-calculator) — Run the Kruskal-Wallis H test online on 2+ groups: pooled ranks, tie-corrected H statistic
+- [Attendance Calculator](https://induwara.lk/tools/sri-lanka-attendance-calculator) — Work out your class-attendance percentage and see exactly how many lectures you can still 
+- [ICC Calculator](https://induwara.lk/tools/intraclass-correlation-calculator) — Compute all six Shrout & Fleiss ICC forms from a subjects × raters grid — one-way, two-way
+- [SL Student Loan Calc](https://induwara.lk/tools/sri-lanka-interest-free-student-loan-calculator) — Work out your monthly repayment, total repayment and timeline under Sri Lanka's government
+- [Cronbach's Alpha Calculator](https://induwara.lk/tools/cronbachs-alpha-calculator) — Compute Cronbach's alpha internal-consistency reliability from a respondents × items score
+- [Required GPA Calculator](https://induwara.lk/tools/sri-lanka-required-gpa-calculator) — Find the exact GPA you need on your remaining university credits to graduate with a First 
+- [Statistical Power Calc](https://induwara.lk/tools/statistical-power-calculator) — Compute the statistical power (1 − β) of a two-group study — two means (Cohen's d) or two 
+- [SL O/L Grade Calculator](https://induwara.lk/tools/sri-lanka-ol-grade-calculator) — Convert GCE O/L marks into official A/B/C/S/W grades, count credit passes, and check GCE A
+- [Resistor Color Code](https://induwara.lk/tools/resistor-color-code-calculator) — Decode 4-, 5-, and 6-band resistor color bands into resistance, tolerance, and temperature
+- [Z-Test Calculator](https://induwara.lk/tools/z-test-calculator) — Run a z-test from summary statistics — one-sample mean, two-sample means, one-proportion, 
+- [Final Grade Calculator](https://induwara.lk/tools/final-grade-calculator) — Find the exact mark you need on a final exam to hit a target course grade, or compute your
+- [Standard Deviation Calc](https://induwara.lk/tools/standard-deviation-calculator) — Paste a list of numbers and instantly get population and sample standard deviation, varian
+- [A/L Stream Eligibility Check](https://induwara.lk/tools/sri-lanka-al-stream-eligibility-checker) — Enter your O/L grades to check if you qualify to sit GCE A/L and which streams — Physical 
+- [UK Student Visa Funds](https://induwara.lk/tools/uk-student-visa-maintenance-funds-calculator) — Calculates the exact bank balance a Sri Lankan must hold for a UK Student visa — 9 months 
+- [IELTS to CLB Calculator](https://induwara.lk/tools/ielts-to-clb-calculator) — Convert IELTS General Training, CELPIP or PTE Core scores into Canadian Language Benchmark
 
 ## Developer
 
@@ -190,9 +319,35 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Contrast Checker](https://induwara.lk/tools/color-contrast-checker) — Check the contrast ratio between a text color and background against WCAG 2.1 AA and AAA. 
 - [PSNR Calculator](https://induwara.lk/tools/psnr-calculator) — Calculate Peak Signal-to-Noise Ratio (PSNR) in decibels for image and video quality — from
 - [.gitignore Generator](https://induwara.lk/tools/gitignore-generator) — Generate a clean, deduplicated .gitignore from GitHub's official templates — pick your lan
+- [TOML ⇄ JSON Converter](https://induwara.lk/tools/toml-to-json-converter) — Convert TOML to JSON and JSON to TOML in your browser with validation, type-mapping notes,
+- [AI API Error Code Lookup](https://induwara.lk/tools/ai-api-error-code-lookup) — Decode any OpenAI, Anthropic (Claude), or Google Gemini API error code — 429, 529, insuffi
+- [YAML ⇄ JSON Converter](https://induwara.lk/tools/yaml-to-json-converter) — Convert YAML to JSON and JSON to YAML entirely in your browser. Auto-detects direction, ex
+- [Meta Tag Generator](https://induwara.lk/tools/meta-tag-generator) — Turn a short form into a ready-to-paste <head> block of SEO, Open Graph and Twitter/X Card
+- [SSIM Calculator](https://induwara.lk/tools/ai-ssim-calculator) — Calculate the Structural Similarity Index (SSIM) between two images, or from two pixel-val
+- [R Compiler](https://induwara.lk/tools/online-r-compiler) — Write and run R online, free, no signup. Real R 4.x via WebAssembly runs entirely in your 
+- [HTTP Status Code Lookup](https://induwara.lk/tools/http-status-code-lookup) — Search every HTTP status code (100–599) with RFC 9110 / IANA-cited meanings and cacheable,
+- [MIME Type Lookup](https://induwara.lk/tools/mime-type-lookup) — Two-way MIME type lookup backed by the IANA Media Types registry: get the Content-Type for
+- [AI Tool Schema Generator](https://induwara.lk/tools/ai-function-calling-schema-generator) — Turn a named function and its typed parameters into a ready-to-paste tool / function-calli
+- [llms.txt Generator](https://induwara.lk/tools/llms-txt-generator) — Create a valid llms.txt file for your website — the markdown manifest that tells ChatGPT, 
+- [MCP Config Generator](https://induwara.lk/tools/ai-mcp-config-generator) — Generate valid Model Context Protocol (MCP) server config for Claude Desktop, Claude Code,
+- [XML to JSON Converter](https://induwara.lk/tools/xml-to-json-converter) — Convert XML to clean, well-formed JSON instantly and entirely in your browser. Handles att
+- [cURL to Code Converter](https://induwara.lk/tools/curl-to-code-converter) — Paste any curl command and instantly get the equivalent HTTP request code in JavaScript (f
+- [Structured Output Schema](https://induwara.lk/tools/ai-structured-output-schema-generator) — Define the JSON shape you want an LLM to return once, then copy provider-correct structure
+- [px to rem Converter](https://induwara.lk/tools/px-to-rem-converter) — Convert CSS lengths between px, rem, em, and pt instantly, with a configurable root font-s
+- [AI Agent Rules Generator](https://induwara.lk/tools/ai-agent-rules-generator) — Generate a clean coding-agent instructions file from one short form — AGENTS.md, CLAUDE.md
+- [Port Number Lookup](https://induwara.lk/tools/port-number-lookup) — Search any TCP/UDP port number or service name and get the assigned service, transport pro
+- [JSON Schema Validator](https://induwara.lk/tools/json-schema-validator) — Paste a JSON document and a JSON Schema and instantly see whether it is valid — with the e
+- [API Key Validator](https://induwara.lk/tools/api-key-validator) — Paste any API key, token, or secret and identify which service issued it (OpenAI, Anthropi
+- [JSON Diff Checker](https://induwara.lk/tools/json-diff-checker) — Paste two JSON documents and get a structural, key-aware diff — every added, removed, and 
+- [Schema Markup Generator](https://induwara.lk/tools/schema-markup-generator) — Turn a simple form into Google-valid JSON-LD structured data for the rich-result types peo
+- [Markdown Table Generator](https://induwara.lk/tools/markdown-table-generator) — Build a table in a spreadsheet-like grid and get clean, valid GitHub Flavored Markdown you
+- [SMAPE Calculator](https://induwara.lk/tools/smape-calculator) — Compute the Symmetric Mean Absolute Percentage Error between actual and forecast values, w
+- [MASE Calculator](https://induwara.lk/tools/mase-calculator) — Compute the Mean Absolute Scaled Error (MASE) for forecasts, scaled against the in-sample 
+- [.htaccess Generator](https://induwara.lk/tools/htaccess-generator) — Build a valid Apache .htaccess file from toggles — force HTTPS, www/non-www canonicalisati
 
 ## Utility
 
+- [JSON to TypeScript](https://induwara.lk/tools/json-to-typescript-converter) — Paste any JSON and instantly get clean TypeScript interfaces or type aliases — nested obje
 - [Sri Lanka NIC Decoder](https://induwara.lk/tools/sri-lanka-nic-decoder) — Decode any Sri Lankan NIC (old 9-digit + V/X or new 12-digit) to its date of birth, age, g
 - [SL Working Days Calculator](https://induwara.lk/tools/sri-lanka-working-days-calculator) — Count working days in Sri Lanka with all 2026 public holidays built in. For leave planning
 - [Meta Tag Preview](https://induwara.lk/tools/meta-tag-preview) — See exactly how your page will look when shared on Google, X (Twitter), Facebook, LinkedIn
@@ -239,6 +394,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL Land Area Converter](https://induwara.lk/tools/sri-lanka-land-area-converter) — Convert Sri Lankan land area between perches, square feet, square metres, roods, acres, he
 - [Branch Code Finder](https://induwara.lk/tools/sri-lanka-bank-branch-code-finder) — Look up the LankaPay branch code, SLIPS routing, and SWIFT BIC for any Sri Lankan bank bra
 - [DS Division Finder](https://induwara.lk/tools/sri-lanka-divisional-secretariat-finder) — Find any Divisional Secretariat in Sri Lanka by province and district, or search all 331 D
+- [SL House Building Cost](https://induwara.lk/tools/sri-lanka-house-construction-cost-calculator) — Estimate the cost to build a house in Sri Lanka from floor area and finish grade — a low–m
 - [LP Gas Price](https://induwara.lk/tools/sri-lanka-lp-gas-price-calculator) — Look up the current CAA max retail price for Litro and Laugfs LP gas cylinders in Sri Lank
 - [Medicine Price](https://induwara.lk/tools/sri-lanka-medicine-price-lookup) — Look up the legal Maximum Retail Price (MRP) of essential medicines in Sri Lanka. Type a b
 - [Reload Tax](https://induwara.lk/tools/sri-lanka-mobile-reload-tax-calculator) — Find out exactly how much of your Dialog, Mobitel, Hutch, or Airtel reload becomes airtime
@@ -267,6 +423,61 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Speech Time Calculator](https://induwara.lk/tools/speech-time-calculator) — Convert words to spoken minutes and back at slow, conversational, average or fast pace. Fi
 - [Long Weekend Planner 2026](https://induwara.lk/tools/sri-lanka-long-weekend-planner) — Find every long weekend in Sri Lanka's gazetted 2026 holiday calendar and the smartest day
 - [Content Moderation Checker](https://induwara.lk/tools/ai-content-moderation-checker) — Paste any comment, review, or message and check it for toxicity, profanity, threats, insul
+- [htpasswd Generator](https://induwara.lk/tools/htpasswd-generator) — Generate Apache/Nginx .htpasswd credential lines (bcrypt, APR1-MD5, SHA-1) entirely in you
+- [CSV to JSON Converter](https://induwara.lk/tools/csv-to-json-converter) — Paste or upload CSV/TSV and get clean JSON instantly — quoted fields, custom delimiters, a
+- [Cron Expression Generator](https://induwara.lk/tools/cron-expression-generator) — Build a valid cron expression from plain-English choices (every N minutes, daily at a time
+- [.lk Domain Price](https://induwara.lk/tools/sri-lanka-lk-domain-price-calculator) — Find the exact official LK Domain Registry price to register or renew a .lk, .com.lk, .org
+- [Birth Star Name Letters](https://induwara.lk/tools/sri-lanka-nakshatra-name-letter-finder) — Enter a baby's date and time of birth in Sri Lanka time to find the janma nakshatra (birth
+- [Porondam Matching](https://induwara.lk/tools/sri-lanka-porondam-matching) — Enter both birth dates and times to score the eight porondam and the 36-guna Ashtakoota ho
+- [SL Sunrise & Sunset Times](https://induwara.lk/tools/sri-lanka-sunrise-sunset-time) — Exact sunrise, sunset, solar noon, day length, twilight and golden-hour times for any Sri 
+- [XML Sitemap Generator](https://induwara.lk/tools/xml-sitemap-generator) — Turn a list of page URLs into a valid, standards-compliant sitemap.xml with optional lastm
+- [CSS clamp() Generator](https://induwara.lk/tools/css-clamp-generator) — Generate a copy-paste CSS clamp() value for fluid, responsive font sizes. Enter min/max si
+- [Paddy Fertilizer Calculator](https://induwara.lk/tools/sri-lanka-paddy-fertilizer-calculator) — Work out exactly how much Urea, TSP, MOP and zinc sulphate to buy and apply for your paddy
+- [Cricket NRR Calculator](https://induwara.lk/tools/cricket-net-run-rate-calculator) — Compute a cricket team's Net Run Rate from its matches using the official ICC formula — wi
+- [Duckworth-Lewis Calculator](https://induwara.lk/tools/duckworth-lewis-calculator) — Work out the revised target or live par score in a rain-hit ODI or T20 with the official I
+- [Cricket Average Calculator](https://induwara.lk/tools/cricket-batting-bowling-average-calculator) — Work out batting average, batting strike rate, bowling average, economy rate and bowling s
+- [SL Fuel Price Today](https://induwara.lk/tools/sri-lanka-fuel-price-today) — Today's Sri Lanka retail fuel prices for every grade — Petrol 92 & 95 Octane, Auto Diesel,
+- [Required Run Rate Calc](https://induwara.lk/tools/cricket-required-run-rate-calculator) — Work out the live chase numbers in one entry — required run rate (asking rate), current ru
+- [SL Area Code Finder](https://induwara.lk/tools/sri-lanka-telephone-area-code-finder) — Two-way lookup for Sri Lankan landline area codes — type a city to get its code (Kandy → 0
+- [Percentage Calculator](https://induwara.lk/tools/percentage-calculator) — All-in-one percentage calculator — what is X% of Y, X is what % of Y, X is Y% of what, per
+- [Aspect Ratio Calculator](https://induwara.lk/tools/aspect-ratio-calculator) — Solve any missing width or height while holding an aspect ratio fixed, and reduce any reso
+- [SL Birth Chart & Lagna](https://induwara.lk/tools/sri-lanka-birth-chart-calculator) — Enter a birth date, time and place in Sri Lanka for a full sidereal (Lahiri) Rasi chart — 
+- [Qibla Direction Finder](https://induwara.lk/tools/sri-lanka-qibla-direction-finder) — Find the exact Qibla direction toward the Kaaba in Makkah from any city in Sri Lanka — tru
+- [Solar Panel Size Calc](https://induwara.lk/tools/sri-lanka-solar-panel-size-calculator) — Find the rooftop solar system size you need in Sri Lanka from your monthly CEB units — rec
+- [AI Chatbots in Sri Lanka](https://induwara.lk/tools/ai-chatbots-in-sri-lanka) — Check whether ChatGPT, Claude, Gemini, Copilot, Perplexity, Meta AI, DeepSeek and Grok are
+- [Roman Numeral Converter](https://induwara.lk/tools/roman-numeral-converter) — Convert any number to Roman numerals and any valid Roman numeral back to a number, instant
+- [ASCII Table & Converter](https://induwara.lk/tools/ascii-table) — A complete, searchable ASCII chart (0–127) with decimal, hex, octal, binary, glyph, HTML e
+- [SL Voter Eligibility Checker](https://induwara.lk/tools/sri-lanka-voter-eligibility-checker) — Check whether you can register to vote in Sri Lanka: citizenship, your exact age on the 1 
+- [HTML to Markdown](https://induwara.lk/tools/html-to-markdown-converter) — Paste HTML or rich text and get clean, spec-compliant Markdown back instantly — headings, 
+- [SL Hijri Date Converter](https://induwara.lk/tools/sri-lanka-hijri-date-converter) — Convert any Gregorian date to the Islamic (Hijri) date and back, see today's Hijri date fo
+- [SL Heat Index Calculator](https://induwara.lk/tools/sri-lanka-heat-index-calculator) — Enter temperature and humidity to get the heat index — the 'feels like' temperature — usin
+- [Steel Bar Weight Calculator](https://induwara.lk/tools/sri-lanka-steel-bar-weight-calculator) — Convert reinforcement bar length into weight (kg), the number of standard bars to order, a
+- [Concrete Mix Calculator](https://induwara.lk/tools/sri-lanka-concrete-mix-calculator) — Work out cement bags, cubes of sand and metal, water and cost for any concrete pour in Sri
+- [Inverter & Battery Calculator](https://induwara.lk/tools/sri-lanka-inverter-battery-calculator) — Size the inverter and battery bank needed to run your home appliances through a Sri Lankan
+- [PPI & Pixel Density Calc](https://induwara.lk/tools/ppi-pixel-density-calculator) — Compute pixel density (PPI/PPCM), dot pitch, physical size, megapixels and a Retina-sharpn
+- [SL Inheritance Calculator](https://induwara.lk/tools/sri-lanka-intestate-inheritance-calculator) — Work out who legally inherits when someone dies without a will in Sri Lanka under the Gene
+- [AC Size (BTU) Calculator](https://induwara.lk/tools/sri-lanka-air-conditioner-size-calculator) — Find the right air conditioner size in BTU and tons for any room in Sri Lanka's hot-humid 
+- [Wall Material Calculator](https://induwara.lk/tools/sri-lanka-wall-material-calculator) — Estimate exactly how many cement blocks or bricks, 50 kg cement bags, and cubes of sand a 
+- [Roofing Sheet Calculator](https://induwara.lk/tools/sri-lanka-roofing-sheet-calculator) — Work out how many roofing sheets, ridge caps, purlins and screws a roof needs from its pla
+- [Buddhist Era Converter](https://induwara.lk/tools/sri-lanka-buddhist-era-year-converter) — Convert any Gregorian date to the Sri Lankan Buddhist Era (BE) year and back, applying the
+- [SL Paint Calculator](https://induwara.lk/tools/sri-lanka-paint-calculator) — Work out exactly how many litres of paint and how many tins (20 L / 4 L / 1 L) you need to
+- [Septic Tank Size Calc](https://induwara.lk/tools/sri-lanka-septic-tank-size-calculator) — Size a domestic septic tank for a Sri Lankan house from the number of occupants, wastewate
+- [Subtitle Speed Checker](https://induwara.lk/tools/subtitle-reading-speed-calculator) — Paste a subtitle cue and its on-screen duration to get characters-per-second (CPS) and wor
+- [SL Tile Calculator](https://induwara.lk/tools/sri-lanka-tile-calculator) — Work out how many floor or wall tiles and sealed boxes you need for any room in Sri Lanka.
+- [TOTP / 2FA Generator](https://induwara.lk/tools/totp-authenticator-generator) — Turn a Base32 secret into the live 6- or 8-digit TOTP an authenticator app would show righ
+- [Syllable Counter](https://induwara.lk/tools/syllable-counter) — Count the syllables in any word, sentence, or poem with a per-word breakdown, hyphenated b
+- [Hora Nakath Calculator](https://induwara.lk/tools/sri-lanka-hora-calculator) — Shows all 24 planetary Horas (Subha Hora) for any date and Sri Lankan city — each hour's r
+- [Mobile Network Finder](https://induwara.lk/tools/sri-lanka-mobile-number-operator-finder) — Paste any Sri Lankan mobile number to instantly find its network (Dialog, Mobitel, Hutch),
+- [SL Rainwater Harvesting Calc](https://induwara.lk/tools/sri-lanka-rainwater-harvesting-calculator) — Estimate how many litres of rainwater your roof can collect per year in Sri Lanka from roo
+- [Presidential Preference Calc](https://induwara.lk/tools/sri-lanka-presidential-election-preference-calculator) — Work out who wins a Sri Lankan presidential election under the contingent-vote rules: test
+- [AI Chatbot Age Checker](https://induwara.lk/tools/ai-chatbot-age-requirement-checker) — Enter an age and country to see which AI chatbots — ChatGPT, Claude, Gemini, Copilot, Perp
+- [SL Emission Test Standards](https://induwara.lk/tools/sri-lanka-vehicle-emission-standards-checker) — The exact legal CO, HC and diesel-smoke limits a Sri Lankan vehicle must meet to pass its 
+- [Soundex Calculator](https://induwara.lk/tools/soundex-calculator) — Convert any name to its American Soundex code (e.g. Robert → R163) using the official U.S.
+- [Singapore COMPASS Calculator](https://induwara.lk/tools/singapore-employment-pass-compass-calculator) — Score a Singapore Employment Pass application under MOM's COMPASS framework — the four fou
+- [JSON to Code](https://induwara.lk/tools/json-to-code-generator) — Paste any JSON sample and instantly generate typed data structures — Go structs, Python da
+- [Plastering Calculator](https://induwara.lk/tools/sri-lanka-plastering-calculator) — Work out how many 50 kg cement bags and cubes of sand you need to plaster a wall or ceilin
+- [Interlock Paving Calc](https://induwara.lk/tools/sri-lanka-interlock-paving-calculator) — Estimate how many interlock paving blocks, cubes of bedding sand and jointing-sand bags a 
+- [JSONPath Tester](https://induwara.lk/tools/jsonpath-tester) — Paste a JSON document and a JSONPath expression and instantly see every matched value plus
 
 ## Health
 
@@ -281,8 +492,50 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [eGFR Kidney Function Calc](https://induwara.lk/tools/egfr-calculator) — Estimate kidney function (eGFR) from serum creatinine, age and sex using the race-free CKD
 - [BSA Calculator](https://induwara.lk/tools/body-surface-area-calculator) — Calculate body surface area in m² from height and weight using all five published formulas
 - [Waist-to-Height Ratio](https://induwara.lk/tools/waist-to-height-ratio-calculator) — Calculate your waist-to-height ratio (WHtR) and risk band using the NICE 'keep your waist 
+- [Waist-to-Hip Ratio](https://induwara.lk/tools/waist-to-hip-ratio-calculator) — Calculate your waist-to-hip ratio (WHR) and health-risk band using the WHO 0.90 (men) / 0.
 - [Blood Pressure Checker](https://induwara.lk/tools/blood-pressure-category-checker) — Classify a systolic/diastolic reading into the correct blood-pressure category under both 
 - [Odds Ratio & Relative Risk](https://induwara.lk/tools/odds-ratio-relative-risk-calculator) — Compute the odds ratio, relative risk, ARR, RRR and number needed to treat or harm from a 
+- [LDL Cholesterol Calculator](https://induwara.lk/tools/ldl-cholesterol-calculator) — Calculate LDL ('bad') cholesterol from your lipid panel using the Friedewald and Sampson-N
+- [Diabetes Risk Score](https://induwara.lk/tools/diabetes-risk-calculator) — Estimate your 10-year risk of type 2 diabetes from eight no-blood-test questions using the
+- [SL Food Calorie Counter](https://induwara.lk/tools/sri-lanka-food-calorie-counter) — Count the calories and protein/carb/fat in Sri Lankan meals — rice & curry, kottu, string 
+- [Cardiovascular Risk](https://induwara.lk/tools/sri-lanka-cardiovascular-risk-calculator) — No-blood-test 10-year heart attack and stroke risk screen using the WHO/ISH SEAR-B chart t
+- [Blood Alcohol Calculator](https://induwara.lk/tools/sri-lanka-blood-alcohol-bac-calculator) — Estimate your blood alcohol concentration from drinks, weight and time using the Widmark f
+- [Blood Type Calculator](https://induwara.lk/tools/blood-type-compatibility-calculator) — Predict a child's possible blood types from both parents (ABO + Rh Mendelian genetics), an
+- [Sri Lanka BMI Calculator](https://induwara.lk/tools/sri-lanka-bmi-calculator) — Calculate your BMI and read it on both the Sri Lankan / Asian cut-offs (overweight from 23
+- [Child Height Predictor](https://induwara.lk/tools/child-height-predictor) — Predict a child's adult height from the parents' heights (mid-parental method) plus an opt
+- [Creatinine Clearance Calc](https://induwara.lk/tools/creatinine-clearance-calculator) — Estimate creatinine clearance (CrCl, mL/min) with the Cockcroft-Gault equation from age, s
+- [VO2 Max Calculator](https://induwara.lk/tools/vo2-max-calculator) — Estimate your VO2 max — the best lab-free measure of aerobic fitness — from a 12-minute ru
+- [Diagnostic Test Calc](https://induwara.lk/tools/diagnostic-test-statistics-calculator) — Enter a 2×2 diagnostic test table (or type sensitivity + specificity directly) and get sen
+- [Protein Intake Calculator](https://induwara.lk/tools/protein-intake-calculator) — Work out how many grams of protein to eat per day from your body weight, age, life stage a
+- [Glasgow Coma Scale Calc](https://induwara.lk/tools/glasgow-coma-scale-calculator) — Score consciousness on the Glasgow Coma Scale from Eye, Verbal and Motor responses — get t
+- [Bland-Altman Calculator](https://induwara.lk/tools/bland-altman-calculator) — Paste two columns of paired measurements to get the Bland-Altman method-comparison analysi
+- [Blood Sugar Converter](https://induwara.lk/tools/blood-sugar-converter) — Convert a blood glucose reading between mg/dL and mmol/L and classify it against the ADA/W
+- [CHA2DS2-VASc Score](https://induwara.lk/tools/cha2ds2-vasc-score-calculator) — Calculate the CHA2DS2-VASc score to estimate annual stroke risk in non-valvular atrial fib
+- [HAS-BLED Score](https://induwara.lk/tools/has-bled-score-calculator) — Calculate the HAS-BLED score to estimate 1-year major-bleeding risk on oral anticoagulatio
+- [CURB-65 Pneumonia Score](https://induwara.lk/tools/curb-65-score-calculator) — Score community-acquired pneumonia severity with CURB-65 from five bedside findings — Conf
+- [Wells Score for PE](https://induwara.lk/tools/wells-score-pulmonary-embolism-calculator) — Score the 7 Wells criteria for suspected pulmonary embolism and get both the three-tier (l
+- [QTc Calculator](https://induwara.lk/tools/qtc-calculator) — Correct a measured QT interval for heart rate using all four standard formulas — Bazett, F
+- [NNT Calculator](https://induwara.lk/tools/number-needed-to-treat-calculator) — Compute the number needed to treat (NNT) and number needed to harm (NNH) from a trial's co
+- [PHQ-9 Depression Test](https://induwara.lk/tools/phq-9-depression-test) — Take the validated PHQ-9 depression screening test online. Score the nine standard items (
+- [SL Life Expectancy Calculator](https://induwara.lk/tools/sri-lanka-life-expectancy-calculator) — Estimate how many more years you can expect to live in Sri Lanka from your age and sex, us
+- [GAD-7 Anxiety Test](https://induwara.lk/tools/gad-7-anxiety-test) — Take the validated GAD-7 anxiety screening test online. Score the seven standard items (0–
+- [MELD 3.0 Score Calculator](https://induwara.lk/tools/meld-score-calculator) — Compute the MELD 3.0 score — the 2023 UNOS/OPTN liver-transplant allocation standard — fro
+- [Child-Pugh Score Calculator](https://induwara.lk/tools/child-pugh-score-calculator) — Compute the Child-Pugh (Child-Turcotte-Pugh) score for chronic liver disease from bilirubi
+- [HEART Score (Chest Pain)](https://induwara.lk/tools/heart-score-calculator) — Calculate the HEART score to risk-stratify chest pain in the emergency department. Score H
+- [Postnatal Depression Test](https://induwara.lk/tools/epds-postnatal-depression-test) — Take the 10-question Edinburgh Postnatal Depression Scale (EPDS) online. Score your mood o
+- [Wells Score for DVT](https://induwara.lk/tools/wells-score-dvt-calculator) — Score the 10 modified Wells criteria for suspected deep-vein thrombosis and get both the t
+- [NIH Stroke Scale (NIHSS)](https://induwara.lk/tools/nihss-stroke-scale-calculator) — Score the 15 standardised NIH Stroke Scale items to get the total (0–42), the severity ban
+- [Centor / McIsaac Score](https://induwara.lk/tools/centor-mcisaac-score-calculator) — Calculate the modified Centor (McIsaac) score for a sore throat from age and four clinical
+- [APGAR Score](https://induwara.lk/tools/apgar-score-calculator) — Score a newborn's condition with the five APGAR signs — Appearance, Pulse, Grimace, Activi
+- [FIB-4 Liver Fibrosis Score](https://induwara.lk/tools/fib-4-index-calculator) — Calculate the FIB-4 (Fibrosis-4) Index from age, AST, ALT and platelet count to estimate t
+- [NEWS2 Score Calculator](https://induwara.lk/tools/news2-early-warning-score-calculator) — Calculate the National Early Warning Score 2 (NEWS2) from seven bedside vitals — respirati
+- [HbA1c → Avg Glucose](https://induwara.lk/tools/hba1c-to-average-blood-glucose-calculator) — Convert HbA1c (%) to estimated average blood glucose in mg/dL and mmol/L — and back — usin
+- [STOP-BANG Score](https://induwara.lk/tools/stop-bang-score-calculator) — Score the validated 8-item STOP-BANG questionnaire and get your obstructive sleep apnea ri
+- [Ideal Body Weight](https://induwara.lk/tools/ideal-body-weight-calculator) — Work out ideal body weight from height and sex using the four clinical formulas (Devine, R
+- [Pack-Year Calculator](https://induwara.lk/tools/pack-year-calculator) — Convert cigarettes per day and years smoked into pack-years — the standard clinical measur
+- [SOFA Score Calculator](https://induwara.lk/tools/sofa-score-calculator) — Calculate the SOFA (Sequential Organ Failure Assessment) score from six organ systems — re
+- [Metabolic Syndrome Checker](https://induwara.lk/tools/metabolic-syndrome-calculator) — Checks the 2009 Harmonized (IDF/NCEP) 3-of-5 criteria for metabolic syndrome using South A
+- [IV Drip Rate Calculator](https://induwara.lk/tools/iv-drip-rate-calculator) — Calculate IV gravity infusion drip rate in drops per minute from fluid volume, time and dr
 
 ## Documents
 
@@ -334,8 +587,12 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Random Text Generator](https://induwara.lk/tools/random-text-generator) — Generate random English words, sentences, paragraphs, names, or writing prompts in one cli
 - [Readability Checker](https://induwara.lk/tools/readability-checker) — Paste any text and score its readability with six standard formulas — Flesch Reading Ease,
 - [Sinhala Unicode Converter](https://induwara.lk/tools/sinhala-unicode-converter) — Convert Sinhala text between legacy fonts (FM-Abhaya family) and proper Sinhala Unicode, b
+- [Tamil Unicode Converter](https://induwara.lk/tools/tamil-unicode-converter) — Convert Tamil text between legacy fonts (Bamini, TSCII) and proper Tamil Unicode, both dir
 - [Singlish to Sinhala](https://induwara.lk/tools/singlish-to-sinhala-converter) — Convert phonetic English (Singlish) into correct Sinhala Unicode in real time, entirely in
 - [Morse Code Translator](https://induwara.lk/tools/morse-code-translator) — Translate text to International Morse code and decode Morse back to text in your browser, 
+- [Keyword Density Checker](https://induwara.lk/tools/keyword-density-checker) — Paste any article to instantly see word and phrase frequency, keyword density percentages,
+- [N-gram Generator](https://induwara.lk/tools/ai-n-gram-generator) — Generate word or character n-grams (unigrams to 5-grams) from any text with a ranked frequ
+- [Lexical Diversity Calculator](https://induwara.lk/tools/lexical-diversity-calculator) — Paste any text and score its vocabulary richness with the standard linguistics measures — 
 
 ## Image
 
@@ -356,6 +613,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [EV Charging Cost](https://induwara.lk/tools/sri-lanka-ev-charging-cost-calculator) — Work out the monthly LKR cost of charging an EV at home in Sri Lanka on the CEB D-1 or D-T
 - [Expressway Toll](https://induwara.lk/tools/sri-lanka-expressway-toll-calculator) — Calculate the exact RDA-gazetted toll for any trip on Sri Lanka's expressway network — Sou
 - [Fuel Cost](https://induwara.lk/tools/sri-lanka-fuel-cost-calculator) — Calculate the petrol or diesel cost of any trip in Sri Lanka using the latest Ceylon Petro
+- [Fuel Efficiency](https://induwara.lk/tools/sri-lanka-fuel-efficiency-calculator) — Work out your vehicle's real fuel economy from fill-up data in km/l, L/100km and mpg, then
 - [Phone Import Tax](https://induwara.lk/tools/sri-lanka-mobile-phone-import-tax-calculator) — Estimate the all-in landed cost of importing a phone to Sri Lanka — Customs Duty, Cess, PA
 - [National Park Fee](https://induwara.lk/tools/sri-lanka-national-park-entry-fee-calculator) — Work out the all-in gate cost for Sri Lanka's national parks — per-person, vehicle, servic
 - [Parcel Import Duty](https://induwara.lk/tools/sri-lanka-parcel-import-duty-calculator) — Estimate Sri Lanka Customs Duty, Cess, PAL, Surcharge, VAT and SSCL on parcels from Amazon
@@ -369,13 +627,35 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Transfer Fee](https://induwara.lk/tools/sri-lanka-vehicle-ownership-transfer-fee-calculator) — Work out the exact DMT bill when buying a used car, motorbike, tuk or lorry in Sri Lanka —
 - [Visa Extension Fee](https://induwara.lk/tools/sri-lanka-visa-extension-fee-calculator) — Estimate the USD and LKR cost of extending a Sri Lankan tourist, business or residence vis
 - [Visa-Free Finder](https://induwara.lk/tools/sri-lanka-visa-free-countries-finder) — Look up every country a Sri Lankan ordinary passport holder can enter visa-free, on visa-o
+- [SL Visa Requirement Checker](https://induwara.lk/tools/sri-lanka-visa-requirement-checker) — Do you need a visa for Sri Lanka? Pick your passport country and trip purpose to see the E
 - [Trip Planner](https://induwara.lk/tools/trip-planner) — Hand-curated Sri Lanka itineraries with day-by-day stops, interactive maps, real budget ra
 - [SL Number Plate Year Checker](https://induwara.lk/tools/sri-lanka-number-plate-year-checker) — Estimate a Sri Lankan vehicle's registration year, province, and class from its number pla
 - [SL Road Distance Calc](https://induwara.lk/tools/sri-lanka-road-distance-calculator) — Find the road distance and estimated drive time between any two major Sri Lankan towns. Co
 - [SL Tourist VAT Refund](https://induwara.lk/tools/sri-lanka-tourist-vat-refund-calculator) — Estimate the cash VAT refund a tourist can claim at Colombo airport under Sri Lanka's Tour
+- [Intl Driving Permit (IDP) Fee](https://induwara.lk/tools/sri-lanka-international-driving-permit-fee-calculator) — Find the AA Ceylon cost of an International Driving Permit, whether it is recognised in yo
+- [Train Timetable](https://induwara.lk/tools/sri-lanka-train-timetable) — Pick two Sri Lanka Railways stations and see every direct train between them — departure a
+- [SL Speed Limit Finder](https://induwara.lk/tools/sri-lanka-speed-limit-finder) — Find the legal speed limit in Sri Lanka for your vehicle and road type — expressway, open 
+- [SL Visa Overstay Fine](https://induwara.lk/tools/sri-lanka-visa-overstay-penalty-calculator) — Work out exactly what you owe the Sri Lanka Department of Immigration for overstaying your
+- [US Green Card Lottery Check](https://induwara.lk/tools/sri-lanka-us-green-card-lottery-eligibility-checker) — Check whether you qualify for the US Diversity Visa (green card lottery) from Sri Lanka — 
+- [SL Drone Permit Calculator](https://induwara.lk/tools/sri-lanka-drone-registration-fee-calculator) — Find your CAASL weight category, whether registration and third-party insurance are requir
+- [Travel Currency Allowance](https://induwara.lk/tools/sri-lanka-travel-currency-allowance-checker) — Check how much foreign currency cash, travel-card funds and Sri Lankan rupee notes you can
+- [Express Entry CRS Calculator](https://induwara.lk/tools/canada-express-entry-crs-calculator) — Calculate your Canada Express Entry Comprehensive Ranking System (CRS) score from age, edu
+- [SL Weather by Month](https://induwara.lk/tools/sri-lanka-weather-by-month) — Pick any Sri Lankan region and month to see the long-term average rainfall, rain days and 
+- [Residence Visa Fee LK](https://induwara.lk/tools/sri-lanka-residence-visa-fee-calculator) — Work out the total Sri Lanka residence visa fee for any category — employment, investor, s
+- [Australia PR Points Calculator](https://induwara.lk/tools/australia-skilled-migration-points-calculator) — Calculate your Australia skilled migration points for the subclass 189, 190 and 491 visas 
+- [Germany Opportunity Card](https://induwara.lk/tools/germany-opportunity-card-points-calculator) — Score the German Opportunity Card (Chancenkarte) points system — qualification recognition
+- [UK Skilled Worker Points](https://induwara.lk/tools/uk-skilled-worker-visa-points-calculator) — Check whether your job offer scores the 70 points needed for a UK Skilled Worker visa unde
+- [NZ Skilled Migrant Points](https://induwara.lk/tools/new-zealand-skilled-migrant-points-calculator) — Check whether you clear New Zealand's 6-point Skilled Migrant Category threshold — claim y
+- [Japan HSP Points Calculator](https://induwara.lk/tools/japan-highly-skilled-professional-points-calculator) — Score yourself against Japan's official Highly Skilled Professional points table — categor
+- [Austria RWR Card Points](https://induwara.lk/tools/austria-red-white-red-card-points-calculator) — Score your Austria Red-White-Red Card eligibility with the official migration.gv.at points
+- [Canada Study Funds](https://induwara.lk/tools/canada-study-permit-proof-of-funds-calculator) — Calculate the exact funds a Sri Lankan student must prove for a Canada study permit — IRCC
+- [UAE Golden Visa Checker](https://induwara.lk/tools/uae-golden-visa-eligibility-checker) — Check whether you qualify for the UAE 10-year Golden Visa and through which route — proper
+- [Schengen 90/180 Calculator](https://induwara.lk/tools/schengen-90-180-day-calculator) — Track how many of your 90 permitted Schengen-area days remain in any rolling 180-day windo
 
 ## AI
 
+- [Spec Decoding Speedup](https://induwara.lk/tools/ai-speculative-decoding-calculator) — Compute the expected LLM inference speedup from speculative decoding from acceptance rate,
+- [Exact Match & F1 Calculator](https://induwara.lk/tools/ai-exact-match-f1-calculator) — Compute SQuAD-style Exact Match and token-level F1 between predicted and gold answers — si
 - [AI Voice Generator](https://induwara.lk/tools/ai-voice-generator) — Turn text into realistic AI speech and download the MP3 — free, no signup. 5 natural voice
 - [AI Token Counter](https://induwara.lk/tools/ai-token-counter) — Count tokens for any text against GPT-5, GPT-4o, Claude 4.x, Gemini 3, and Llama 4. See ho
 - [Sentiment Analyzer](https://induwara.lk/tools/ai-sentiment-analyzer) — Detect positive, negative, or neutral sentiment in any English text. DistilBERT-SST-2 runs
@@ -403,6 +683,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Prompt Library](https://induwara.lk/tools/ai-prompt-library) — 48 structured, source-cited prompt templates for ChatGPT, Claude, Gemini, and Llama. Categ
 - [AI Model Compare](https://induwara.lk/tools/ai-model-comparison) — Compare the latest LLMs side by side — GPT-5, Claude 4.5, Gemini 2.5, Llama 4, DeepSeek, G
 - [LLM VRAM Calculator](https://induwara.lk/tools/ai-llm-vram-calculator) — Estimate the GPU VRAM needed to run or fine-tune any open LLM (Llama 3, Mistral, Qwen, Gem
+- [Image Model VRAM Calc](https://induwara.lk/tools/ai-image-model-vram-calculator) — Estimate the GPU VRAM needed to run image-generation models (Stable Diffusion 1.5, SDXL, S
 - [AI Inference Speed Calculator](https://induwara.lk/tools/ai-inference-speed-calculator) — Estimate how fast an LLM will run on a given GPU — decode tokens/second, prefill throughpu
 - [AI GPU Comparison](https://induwara.lk/tools/ai-gpu-comparison) — Compare the NVIDIA GPUs people use to run and fine-tune LLMs (RTX 3060/3090/4090/5090, L40
 - [AI Video Cost Calculator](https://induwara.lk/tools/ai-video-generation-cost-calculator) — Compare the cost of generating AI video across Sora 2, Veo 3, Runway Gen-4, Kling, Luma, a
@@ -427,9 +708,11 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Confusion Matrix Calculator](https://induwara.lk/tools/confusion-matrix-calculator) — Enter the four cells of a binary confusion matrix (TP, FP, FN, TN) and instantly get accur
 - [Realtime Voice API Cost](https://induwara.lk/tools/ai-realtime-api-cost-calculator) — Estimate the per-session, monthly and annual cost of a speech-to-speech voice agent on the
 - [AI Image Prompt Gen](https://induwara.lk/tools/ai-image-prompt-generator) — Build copy-ready image-generation prompts for Midjourney, Stable Diffusion (SDXL), and DAL
+- [AI Video Prompt Gen](https://induwara.lk/tools/ai-video-prompt-generator) — A free browser-only builder that turns simple fields into copy-ready cinematic prompts for
 - [Context Window Calculator](https://induwara.lk/tools/ai-context-window-calculator) — Pick an LLM (GPT, Claude, Gemini, Llama, DeepSeek), enter your text in words, characters, 
 - [Self-Hosting Cost Calc](https://induwara.lk/tools/ai-self-hosting-cost-calculator) — Find the monthly token volume where renting a cloud GPU to self-host an open LLM (Llama, M
 - [LLM Training Compute Calc](https://induwara.lk/tools/ai-training-compute-calculator) — Estimate the FLOPs, petaFLOP/s-days, GPU-hours, and dollar cost to train a transformer LLM
+- [Compute-Optimal Calculator](https://induwara.lk/tools/ai-compute-optimal-calculator) — Split a training-compute budget into the Chinchilla compute-optimal model size and token c
 - [AI Music Cost Calculator](https://induwara.lk/tools/ai-music-generation-cost-calculator) — Compare what it costs to generate AI music each month across Suno, Udio, ElevenLabs Music,
 - [RAG Cost Calculator](https://induwara.lk/tools/ai-rag-cost-calculator) — Estimate the full one-time and monthly cost of a Retrieval-Augmented Generation pipeline —
 - [AI Hashtag Generator](https://induwara.lk/tools/ai-hashtag-generator) — Generate ranked, copy-ready, platform-aware hashtags from any caption or topic — extracted
@@ -443,6 +726,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [ROUGE Score Calculator](https://induwara.lk/tools/rouge-score-calculator) — Calculate ROUGE-1, ROUGE-2, ROUGE-L and ROUGE-Lsum precision, recall and F1 between a gene
 - [Cohen's Kappa Calculator](https://induwara.lk/tools/cohens-kappa-calculator) — Enter a two-rater agreement matrix and get Cohen's kappa (κ) with observed vs chance agree
 - [Fleiss' Kappa Calculator](https://induwara.lk/tools/fleiss-kappa-calculator) — Compute Fleiss' kappa for three or more raters from a subject-by-category count matrix. Ge
+- [Weighted Kappa Calculator](https://induwara.lk/tools/ai-weighted-kappa-calculator) — Compute Cohen's weighted kappa (κw) — quadratic (QWK) or linear — from a confusion matrix 
 - [Softmax Calculator](https://induwara.lk/tools/softmax-calculator) — Convert a list of logits into a probability distribution with the softmax function. Adjust
 - [Perplexity Calculator](https://induwara.lk/tools/ai-perplexity-calculator) — Compute language-model perplexity from token probabilities, cross-entropy loss, or log-lik
 - [Cosine Similarity Calc](https://induwara.lk/tools/cosine-similarity-calculator) — Compute the cosine similarity, cosine distance, and angle between two numeric vectors or t
@@ -450,29 +734,39 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Cross-Entropy Loss Calc](https://induwara.lk/tools/cross-entropy-loss-calculator) — Compute cross-entropy (log) loss for binary and multi-class classification from labels and
 - [IoU Calculator](https://induwara.lk/tools/ai-iou-calculator) — Compute Intersection over Union for two bounding boxes or two label sets. Returns IoU, the
 - [Euclidean Distance Calc](https://induwara.lk/tools/euclidean-distance-calculator) — Compute the Euclidean (L2) distance between two points or two numeric vectors of any dimen
+- [Mahalanobis Distance](https://induwara.lk/tools/mahalanobis-distance-calculator) — Compute the Mahalanobis distance of a point from a multivariate dataset (or between two po
+- [Chebyshev Distance Calc](https://induwara.lk/tools/chebyshev-distance-calculator) — Compute the Chebyshev (L∞) distance between two points or two numeric vectors of any dimen
 - [KL Divergence Calc](https://induwara.lk/tools/ai-kl-divergence-calculator) — Compute the Kullback–Leibler divergence D(P‖Q) between two discrete probability distributi
 - [Pearson Correlation Calc](https://induwara.lk/tools/pearson-correlation-calculator) — Paste two columns to get the Pearson correlation r, r², covariance, a t-test with two-tail
 - [Spearman Correlation](https://induwara.lk/tools/spearman-correlation-calculator) — Paste two columns to get Spearman's ρ (rho), a t-test with two-tailed p-value, a strength 
+- [Kendall's Tau Calculator](https://induwara.lk/tools/kendall-tau-correlation-calculator) — Paste two columns to get Kendall's τ-a and τ-b (rank correlation), the concordant/discorda
 - [Hamming Distance Calc](https://induwara.lk/tools/hamming-distance-calculator) — Compute the Hamming distance between two equal-length binary strings, text strings, or num
 - [Sigmoid Calculator](https://induwara.lk/tools/sigmoid-function-calculator) — Compute the logistic sigmoid σ(x) = 1/(1+e⁻ˣ) for one or more values, plus its derivative 
 - [TF-IDF Calculator](https://induwara.lk/tools/tf-idf-calculator) — Compute the full TF-IDF weighting for a small corpus — the term-frequency table, the IDF p
 - [Jaccard Similarity Calc](https://induwara.lk/tools/jaccard-similarity-calculator) — Compute the Jaccard similarity coefficient and distance between two sets, text snippets, o
+- [Jaro-Winkler Calculator](https://induwara.lk/tools/jaro-winkler-similarity-calculator) — Compute the Jaro similarity, Jaro distance and Jaro–Winkler score between two strings, wit
 - [Dot Product Calculator](https://induwara.lk/tools/dot-product-calculator) — Compute the dot product (scalar product) of two vectors with the full element-wise breakdo
 - [Gini Impurity Calculator](https://induwara.lk/tools/gini-impurity-calculator) — Compute the Gini impurity of a decision-tree node from class counts or proportions, with t
 - [F1 Score Calculator](https://induwara.lk/tools/f1-score-calculator) — Calculate the F1 score, precision, recall and F-beta of a binary classifier from confusion
 - [ROC AUC Calculator](https://induwara.lk/tools/ai-roc-auc-calculator) — Paste binary labels and predicted scores to get the ROC curve, AUC, Gini coefficient, and 
 - [NDCG Calculator](https://induwara.lk/tools/ndcg-calculator) — Compute DCG, IDCG and NDCG@k for a ranked list of relevance scores, with every position's 
 - [Mean Reciprocal Rank](https://induwara.lk/tools/ai-mean-reciprocal-rank-calculator) — Compute the Mean Reciprocal Rank (MRR) of a search, QA, recommender or RAG retrieval syste
+- [AI Citation Generator](https://induwara.lk/tools/ai-citation-generator) — Generate correctly formatted references and in-text citations for ChatGPT, Claude and Gemi
 - [Brier Score Calculator](https://induwara.lk/tools/ai-brier-score-calculator) — Compute the Brier score and Brier Skill Score for probabilistic predictions. Paste forecas
+- [PSI Drift Calculator](https://induwara.lk/tools/ai-population-stability-index-calculator) — Compute the Population Stability Index (PSI) between an expected and an actual distributio
 - [mAP Calculator](https://induwara.lk/tools/ai-mean-average-precision-calculator) — Compute Average Precision (AP) and mean Average Precision (mAP) from a ranked TP/FP detect
 - [Bayes' Theorem Calculator](https://induwara.lk/tools/bayes-theorem-calculator) — Compute the posterior probability P(A|B) from a prior and the true-positive and false-posi
 - [AI Diagram Generator](https://induwara.lk/tools/ai-diagram-generator) — Describe your system, database or process in plain English and an AI agent draws a profess
 - [Adjusted Rand Index Calc](https://induwara.lk/tools/adjusted-rand-index-calculator) — Compares two clusterings (or a clustering against ground-truth labels) and computes the Ad
 - [Silhouette Score Calc](https://induwara.lk/tools/silhouette-score-calculator) — Compute the silhouette score (silhouette coefficient) of a clustering from raw data points
+- [Davies-Bouldin Index Calc](https://induwara.lk/tools/davies-bouldin-index-calculator) — Compute the Davies–Bouldin Index (DBI) of a clustering from raw data points and labels. Ge
+- [Calinski-Harabasz Index Calc](https://induwara.lk/tools/calinski-harabasz-index-calculator) — Compute the Calinski–Harabasz index (variance ratio criterion) of a clustering from raw da
 - [A/B Test Significance](https://induwara.lk/tools/ab-test-significance-calculator) — Check whether the difference between your control and variant is statistically significant
 - [AI Parameter Count Calc](https://induwara.lk/tools/ai-parameter-count-calculator) — Compute the exact parameter count of a decoder-only (GPT-style) transformer from its archi
 - [AI Temperature Calc](https://induwara.lk/tools/ai-temperature-calculator) — Interactive visualizer for LLM temperature, top-p (nucleus), and top-k sampling. Drag the 
+- [AI Min-p Sampling Calc](https://induwara.lk/tools/ai-min-p-sampling-calculator) — Interactive calculator for LLM min-p and locally-typical sampling. Drag min_p or typical_p
 - [Manhattan Distance Calc](https://induwara.lk/tools/manhattan-distance-calculator) — Compute the Manhattan (L1 / taxicab / city-block) distance between two points or two numer
+- [Canberra Distance Calc](https://induwara.lk/tools/canberra-distance-calculator) — Compute the Canberra distance — a weighted L1 metric that divides each coordinate differen
 - [Minkowski Distance Calc](https://induwara.lk/tools/minkowski-distance-calculator) — Compute the Minkowski distance (the generalized Lₚ metric) between two numeric vectors of 
 - [AI Presentation Maker](https://induwara.lk/tools/ai-presentation-maker) — Describe your topic and get a designed, editable presentation: AI plans it slide by slide,
 - [AI Model Size Calculator](https://induwara.lk/tools/ai-model-size-calculator) — Calculate the exact on-disk file size of any LLM at FP32, FP16, 8-bit, 4-bit, or GGUF quan
@@ -487,6 +781,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Shannon Entropy Calc](https://induwara.lk/tools/shannon-entropy-calculator) — Compute Shannon entropy H(X) for any discrete distribution — from counts or probabilities 
 - [MCC Calculator](https://induwara.lk/tools/matthews-correlation-coefficient-calculator) — Compute the Matthews Correlation Coefficient from a confusion matrix or two label columns,
 - [AI LLM License Checker](https://induwara.lk/tools/ai-llm-license-checker) — Check in plain English whether Llama, Mistral, Gemma, Qwen, DeepSeek, Command R, GPT, Clau
+- [AI Content Rights Checker](https://induwara.lk/tools/ai-content-ownership-checker) — Find out who owns what you generate with AI — and whether you can use or sell it commercia
 - [ECE Calculator](https://induwara.lk/tools/ai-expected-calibration-error-calculator) — Compute Expected Calibration Error and Maximum Calibration Error from prediction confidenc
 - [Tool-Use Token Cost](https://induwara.lk/tools/ai-tool-use-token-cost-calculator) — Estimate the hidden token cost of re-sending tool/function definitions on every LLM API ca
 - [AI Embedding Compare](https://induwara.lk/tools/ai-embedding-model-comparison) — Compare popular text-embedding models (OpenAI, Cohere, Voyage, Google, Mistral, and open-s
@@ -500,6 +795,139 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Web Search Cost](https://induwara.lk/tools/ai-web-search-cost-calculator) — Estimate the true monthly cost of LLM web search — the per-search/grounding tool fee plus 
 - [AI Hallucination Rates](https://induwara.lk/tools/ai-hallucination-rate-comparison) — Compare how often leading LLMs hallucinate using the published Vectara HHEM factual-consis
 - [AI Data Privacy Compare](https://induwara.lk/tools/ai-data-privacy-comparison) — Does ChatGPT, Claude, Gemini, Copilot, Meta AI, Grok, DeepSeek or Mistral train on your da
+- [LLM Speed Comparison](https://induwara.lk/tools/ai-llm-speed-comparison) — Compare the real-world response speed of hosted LLM APIs — GPT, Claude, Gemini, Llama, Dee
+- [Fine-Tuning JSONL Validator](https://induwara.lk/tools/ai-fine-tuning-dataset-validator) — Validate an OpenAI chat fine-tuning .jsonl dataset against the documented format rules — m
+- [AI Bot Blocker (robots.txt)](https://induwara.lk/tools/ai-robots-txt-generator) — Generate ready-to-paste robots.txt rules to block AI crawlers — GPTBot, ClaudeBot, Google-
+- [AI Agent Framework Compare](https://induwara.lk/tools/ai-agent-framework-comparison) — Compare the major LLM agent-building frameworks — LangGraph, LlamaIndex, CrewAI, AutoGen, 
+- [AI Note-Taker Comparison](https://induwara.lk/tools/ai-meeting-note-taker-comparison) — Compare the major AI meeting note-takers (Otter, Fireflies, Fathom, Granola, tl;dv and mor
+- [EU AI Act Risk Classifier](https://induwara.lk/tools/ai-eu-ai-act-risk-classifier) — Classify any AI system into the EU AI Act's risk tiers — prohibited, high-risk, limited-ri
+- [AI Reasoning Model Compare](https://induwara.lk/tools/ai-reasoning-model-comparison) — Side-by-side comparison of the major AI reasoning models — OpenAI o3 & GPT-5 thinking, Cla
+- [Subscription vs API Cost](https://induwara.lk/tools/ai-subscription-vs-api-calculator) — Find out whether a flat AI subscription (ChatGPT Plus, Claude Pro, Gemini Advanced) or pay
+- [Translation API Compare](https://induwara.lk/tools/ai-translation-comparison) — Side-by-side comparison of the major machine-translation and LLM-as-translator APIs — Deep
+- [AI Model ID Cheat Sheet](https://induwara.lk/tools/ai-model-id-cheatsheet) — The exact API model identifier strings for OpenAI, Anthropic, Google Gemini, Meta Llama, M
+- [AI Audio Token Cost Calc](https://induwara.lk/tools/ai-audio-token-cost-calculator) — Convert an audio clip's duration (or a measured audio_tokens count) into the exact audio i
+- [OpenAI → Anthropic Converter](https://induwara.lk/tools/ai-openai-to-anthropic-converter) — Convert an OpenAI Chat Completions request into the equivalent Anthropic Messages API requ
+- [Anthropic → OpenAI Converter](https://induwara.lk/tools/ai-anthropic-to-openai-converter) — Convert an Anthropic Messages API request or response into the equivalent OpenAI Chat Comp
+- [OpenAI → Gemini Converter](https://induwara.lk/tools/ai-openai-to-gemini-converter) — Convert an OpenAI Chat Completions request into the equivalent Google Gemini generateConte
+- [Gemini → OpenAI Converter](https://induwara.lk/tools/ai-gemini-to-openai-converter) — Convert a Google Gemini generateContent request or response into the equivalent OpenAI Cha
+- [Claude → Gemini Converter](https://induwara.lk/tools/ai-anthropic-to-gemini-converter) — Convert an Anthropic (Claude) Messages API request into the equivalent Google Gemini gener
+- [AI Chat Template Generator](https://induwara.lk/tools/ai-chat-template-generator) — Wrap a system prompt and a multi-turn conversation in the exact special tokens an open mod
+- [AI API Cost Calculator](https://induwara.lk/tools/ai-api-cost-calculator) — Estimate the monthly and per-request USD and LKR bill for any major LLM API. Pick a model,
+- [AI Search Compare](https://induwara.lk/tools/ai-search-engine-comparison) — Compare the major consumer AI answer engines — Perplexity, ChatGPT Search, Google Gemini, 
+- [pass@k Calculator](https://induwara.lk/tools/ai-pass-at-k-calculator) — Compute the unbiased pass@k metric for evaluating code-generation LLMs from samples (n), c
+- [Mixture-of-Experts Calc](https://induwara.lk/tools/ai-mixture-of-experts-calculator) — Work out an MoE LLM's active parameters per token, active %, and weights-only VRAM at FP16
+- [AI Model Card Generator](https://induwara.lk/tools/ai-model-card-generator) — Generate a complete, Hub-valid Hugging Face model card (README.md) from a form — correctly
+- [AI Budget Calculator](https://induwara.lk/tools/ai-token-budget-calculator) — Enter a dollar budget, pick a model, and describe an average request — this tool inverts t
+- [LLM KV Cache Calculator](https://induwara.lk/tools/ai-kv-cache-calculator) — Calculate the GPU KV-cache memory an LLM uses per token, per sequence, and in total from i
+- [Prompt Injection Tester](https://induwara.lk/tools/ai-prompt-injection-tester) — Scan any prompt or user message against a categorised ruleset of known prompt-injection an
+- [AI JSON Repair](https://induwara.lk/tools/ai-json-repair) — Paste the malformed JSON an LLM returned — Markdown fences, trailing commas, single quotes
+- [LoRA Parameter Calculator](https://induwara.lk/tools/ai-lora-calculator) — Compute exactly how many trainable parameters a LoRA/QLoRA fine-tune adds to Llama 3, Mist
+- [AI robots.txt Generator](https://induwara.lk/tools/robots-txt-ai-crawler-generator) — Generate a ready-to-paste robots.txt block that allows or blocks specific AI crawlers — GP
+- [AI Context Windows](https://induwara.lk/tools/ai-context-window-comparison) — Compare the input context window of every current LLM — GPT-5, Claude, Gemini, Llama 4, De
+- [Local LLM Runtime Comparison](https://induwara.lk/tools/ai-local-llm-runtime-comparison) — Compare Ollama, LM Studio, llama.cpp, vLLM, Jan, GPT4All, KoboldCpp and text-generation-we
+- [AI Multimodal Compare](https://induwara.lk/tools/ai-multimodal-model-comparison) — See which AI models support vision, audio, video and PDF input through their documented AP
+- [AI Inference Providers](https://induwara.lk/tools/ai-inference-provider-comparison) — Compare the serverless open-model LLM API hosts — Together AI, Fireworks AI, DeepInfra, Gr
+- [System Prompt Generator](https://induwara.lk/tools/ai-system-prompt-generator) — Turn a short form into a structured system prompt — role, task, tone, output format, guard
+- [Effective Batch Size Calc](https://induwara.lk/tools/ai-effective-batch-size-calculator) — Compute the effective (global) batch size of an LLM fine-tune from per-device batch, gradi
+- [CNN Output Size Calc](https://induwara.lk/tools/cnn-output-size-calculator) — Compute the exact output size, tensor shape, parameter count and FLOPs of a Conv2d, poolin
+- [AI Message Limit Calculator](https://induwara.lk/tools/ai-chat-message-limit-calculator) — Work out how many messages you can send on ChatGPT, Claude, Gemini, Grok or Perplexity bef
+- [WhatsApp Chatbot Cost](https://induwara.lk/tools/whatsapp-chatbot-cost-calculator) — Estimate the true monthly cost of a WhatsApp AI chatbot by combining Meta's per-message Wh
+- [AI Video Token Cost Calc](https://induwara.lk/tools/ai-video-token-cost-calculator) — Estimate how many input tokens a video costs when you send it into a multimodal LLM — Gemi
+- [AI Deep Research Compare](https://induwara.lk/tools/ai-deep-research-comparison) — Compare the five agentic AI deep-research modes — ChatGPT Deep Research, Gemini Deep Resea
+- [GGUF Quant Size Calculator](https://induwara.lk/tools/ai-gguf-quantization-calculator) — Estimate the on-disk size of any LLM in GGUF format from its parameter count and quant typ
+- [Precision@K & Recall@K](https://induwara.lk/tools/ai-precision-recall-at-k-calculator) — Compute Precision@K, Recall@K, F1@K and Hit Rate@K for a retriever, search ranker or RAG p
+- [AI Subscription Price (LKR)](https://induwara.lk/tools/sri-lanka-ai-subscription-price-calculator) — Find the real Sri Lankan rupee price of ChatGPT Plus, Claude Pro, Gemini Advanced, GitHub 
+- [AI Website Builder Compare](https://induwara.lk/tools/ai-website-builder-comparison) — Compare 8 leading AI website builders — v0, Bolt.new, Lovable, Framer, Durable, Wix, Hosti
+- [Confusion Matrix Calc](https://induwara.lk/tools/ai-confusion-matrix-calculator) — Enter the four counts of a binary classifier's confusion matrix (TP, FP, FN, TN) and insta
+- [LR Scheduler Calculator](https://induwara.lk/tools/ai-learning-rate-scheduler-calculator) — Compute and plot the exact per-step learning rate for the common deep-learning schedules —
+- [WER Calculator](https://induwara.lk/tools/ai-word-error-rate-calculator) — Compare a reference transcript against a model hypothesis and get the exact Word Error Rat
+- [Elo Rating Calculator](https://induwara.lk/tools/ai-elo-rating-calculator) — Compute Elo the way LLM leaderboards do: win probability from two ratings, updated ratings
+- [AI Cost Per User](https://induwara.lk/tools/ai-cost-per-user-calculator) — Turn model token prices into LLM cost per active user, break-even subscription price, and 
+- [AI Model Release Timeline](https://induwara.lk/tools/ai-model-release-timeline) — Filterable timeline of every major AI model launch — GPT, Claude, Gemini, Llama, Mistral, 
+- [Grammar Checker Compare](https://induwara.lk/tools/ai-grammar-checker-comparison) — Compare Grammarly, QuillBot, LanguageTool, ProWritingAid, Ginger and Microsoft Editor on f
+- [LLM Serving Sizing Calc](https://induwara.lk/tools/ai-llm-serving-concurrency-calculator) — Estimate how many concurrent requests one GPU can serve, its sustainable QPS and per-reque
+- [AI Reranker Cost Calc](https://induwara.lk/tools/ai-reranker-cost-calculator) — Estimate the monthly API cost of a RAG reranker — Cohere Rerank, Voyage rerank-2 / rerank-
+- [OpenAI-Compatible Base URLs](https://induwara.lk/tools/ai-openai-compatible-base-url-cheatsheet) — Copy-paste the exact base_url, auth header and a working OpenAI SDK snippet (Python, Node,
+- [Character Error Rate (CER)](https://induwara.lk/tools/character-error-rate-calculator) — Compute the Character Error Rate between a reference and a predicted transcription or OCR 
+- [MFU Calculator](https://induwara.lk/tools/ai-mfu-calculator) — Calculate the Model FLOPs Utilization (MFU) of an LLM training or inference run from model
+- [Receptive Field Calc](https://induwara.lk/tools/cnn-receptive-field-calculator) — Compute the receptive field, jump (effective stride) and output size at every layer of a C
+- [AI Detector Comparison](https://induwara.lk/tools/ai-content-detector-comparison) — Compare GPTZero, Turnitin, Originality.ai, Copyleaks, Winston AI, QuillBot, ZeroGPT and Sc
+- [RAG Chunk Size Calculator](https://induwara.lk/tools/ai-rag-chunk-size-calculator) — Plan a RAG embedding pipeline before you spend a cent: enter a document length, chunk size
+- [Sinhala/Tamil AI Cost](https://induwara.lk/tools/sinhala-tamil-ai-cost-calculator) — Measure the token tax: Sinhala and Tamil fragment into far more tokens than English, so LL
+- [AI File Upload Limits](https://induwara.lk/tools/ai-file-upload-limit-lookup) — Compare the exact file-upload limits of every major AI assistant — max file size, PDF page
+- [Dice Coefficient Calc](https://induwara.lk/tools/dice-coefficient-calculator) — Compute the Dice similarity coefficient (Sørensen–Dice index) from two sets, two binary se
+- [AI Credits Calculator](https://induwara.lk/tools/ai-credits-calculator) — Turn Midjourney, Runway, Suno, ElevenLabs and HeyGen credits into real money. See a job's 
+- [AI Presentation Compare](https://induwara.lk/tools/ai-presentation-maker-comparison) — Compare 9 AI presentation makers — Gamma, Canva, Beautiful.ai, Tome, Plus AI, SlidesAI, De
+- [Train-Test Split Calc](https://induwara.lk/tools/ai-train-test-split-calculator) — Turn a dataset size and split ratio into the exact integer sample counts for a train/test 
+- [AI API Request Builder](https://induwara.lk/tools/ai-api-request-builder) — Build a ready-to-run curl, Python and Node.js request for the OpenAI, Anthropic and Gemini
+- [Roofline Calculator](https://induwara.lk/tools/ai-roofline-calculator) — Plot a GPU kernel on the Roofline model: enter peak compute and memory bandwidth (or pick 
+- [Krippendorff's Alpha](https://induwara.lk/tools/krippendorff-alpha-calculator) — Compute Krippendorff's alpha from a ratings grid for nominal, ordinal, interval or ratio d
+- [chrF Score Calculator](https://induwara.lk/tools/chrf-score-calculator) — Calculate the chrF (character n-gram F-score) of a candidate translation against one or mo
+- [Ollama Modelfile Generator](https://induwara.lk/tools/ai-ollama-modelfile-generator) — Turn a base model, system prompt and sampling parameters into a valid Ollama Modelfile, pl
+- [Mac LLM RAM Calculator](https://induwara.lk/tools/ai-apple-silicon-llm-calculator) — Check whether an open LLM (Llama, Mistral, Qwen, Gemma, DeepSeek, Phi) runs on your Apple 
+- [TER Score Calculator](https://induwara.lk/tools/ter-score-calculator) — Calculate the Translation Edit Rate (TER) between a machine hypothesis and one or more ref
+- [AI Flashcard Generator](https://induwara.lk/tools/ai-flashcard-generator) — Turn pasted notes or any passage into study flashcards (Q&A, term–definition, or cloze) wi
+- [Logprob → Probability](https://induwara.lk/tools/ai-logprob-to-probability-calculator) — Convert OpenAI/vLLM logprobs into token confidence %, top-alternative probabilities, joint
+- [RoPE Context Extension Calc](https://induwara.lk/tools/ai-rope-context-extension-calculator) — Compute the exact RoPE scaling parameters to extend an LLM's context window — Linear Posit
+- [Mutual Information Calc](https://induwara.lk/tools/ai-mutual-information-calculator) — Compute the mutual information I(X;Y) between two discrete variables from a count or joint
+- [AI Penalty Calculator](https://induwara.lk/tools/ai-repetition-penalty-calculator) — See exactly how OpenAI's frequency_penalty and presence_penalty (subtractive) and HuggingF
+- [Linear Regression Calc](https://induwara.lk/tools/linear-regression-calculator) — Paste two columns to fit the ordinary-least-squares line of best fit ŷ = a + bx: slope, in
+- [GLEU Score Calculator](https://induwara.lk/tools/ai-gleu-score-calculator) — Calculate the GLEU score (Google-BLEU, Wu et al. 2016) between a reference and a model hyp
+- [AI API Usage Tier Lookup](https://induwara.lk/tools/ai-api-usage-tier-lookup) — Look up the OpenAI and Anthropic paid usage-tier ladders — the cumulative spend/deposit (a
+- [AI Training Steps Calc](https://induwara.lk/tools/ai-training-steps-calculator) — Compute optimizer steps per epoch, total training steps for max_steps, global batch size, 
+- [AI Quiz Generator](https://induwara.lk/tools/ai-quiz-generator) — Paste notes, a passage, or a transcript and get a multiple-choice quiz — stems, plausible 
+- [JS Divergence Calc](https://induwara.lk/tools/ai-jensen-shannon-divergence-calculator) — Compute the Jensen–Shannon divergence and distance between two discrete probability distri
+- [Presence & Frequency Penalty](https://induwara.lk/tools/ai-presence-frequency-penalty-calculator) — See exactly how OpenAI's presence_penalty and frequency_penalty reshape next-token logits 
+- [BM25 Score Calculator](https://induwara.lk/tools/bm25-score-calculator) — Compute and rank Okapi BM25 relevance scores between a query and a corpus in your browser,
+- [Long-Context Cost Calc](https://induwara.lk/tools/ai-long-context-pricing-calculator) — Calculate the true API cost of large prompts on models with a long-context premium — Gemin
+- [POS Tagger](https://induwara.lk/tools/ai-part-of-speech-tagger) — Paste any English sentence and label every word with its part of speech — noun, verb, adje
+- [Fill-Mask Predictor](https://induwara.lk/tools/ai-fill-mask-predictor) — Put a [MASK] blank in any English sentence and a BERT masked language model predicts the m
+- [Computer-Use Cost Calc](https://induwara.lk/tools/ai-computer-use-cost-calculator) — Estimate the token cost of a Claude or OpenAI computer-use / browser-agent run, where ever
+- [McNemar Test Calculator](https://induwara.lk/tools/mcnemar-test-calculator) — Run McNemar's test on a 2×2 table of paired binary outcomes to check whether two measures 
+- [Logit Bias Calc](https://induwara.lk/tools/ai-logit-bias-calculator) — Interactive visualizer for OpenAI's logit_bias parameter. Set a bias from −100 to +100 on 
+- [AI Image Upscaler Compare](https://induwara.lk/tools/ai-image-upscaler-comparison) — Compare the main AI image upscalers — Topaz Gigapixel, Upscayl, Magnific, Let's Enhance, B
+- [Top-p & Top-k Calc](https://induwara.lk/tools/ai-top-p-top-k-sampling-calculator) — Interactive calculator for LLM top-k and top-p (nucleus) sampling. Drag top_k or top_p on 
+- [AI Chat Cost Calculator](https://induwara.lk/tools/ai-conversation-cost-calculator) — Estimate the real API cost of a multi-turn LLM chat. Because the whole conversation histor
+- [AI Image to Prompt](https://induwara.lk/tools/ai-image-to-prompt) — Upload any image and get copy-ready text-to-image prompts for Midjourney, Stable Diffusion
+- [AI Browser Compare](https://induwara.lk/tools/ai-browser-comparison) — Filterable comparison of agentic AI browsers — ChatGPT Atlas, Perplexity Comet, Dia, Gemin
+- [AI Parameter Support](https://induwara.lk/tools/ai-model-parameter-support-checker) — Check whether an LLM accepts a given API parameter — temperature, top_p, penalties, logpro
+- [Document Token Cost Calc](https://induwara.lk/tools/ai-document-token-cost-calculator) — Upload a PDF, Word, text, Markdown or code file and count its exact input tokens in your b
+- [AI Face Blur](https://induwara.lk/tools/ai-face-blur) — Detect and blur, pixelate, or black out every face in a photo — entirely in your browser. 
+- [AI Avatar Video Compare](https://induwara.lk/tools/ai-avatar-video-generator-comparison) — Compare AI talking-avatar / spokesperson video generators — HeyGen, Synthesia, D-ID, Colos
+- [V-Measure Score Calc](https://induwara.lk/tools/ai-v-measure-calculator) — Paste two label columns — ground-truth classes and predicted cluster IDs — to get the homo
+- [Zero-Shot Image Classifier](https://induwara.lk/tools/ai-zero-shot-image-classifier) — Upload an image and type your own list of labels — CLIP ranks how well the picture matches
+- [AI Language Support](https://induwara.lk/tools/ai-model-language-support-checker) — See which AI models officially support Sinhala, Tamil or any of 100+ languages — for chat,
+- [Information Gain Calc](https://induwara.lk/tools/information-gain-calculator) — Compute the information gain and gain ratio of a decision-tree split from class counts, wi
+- [MCC Calculator](https://induwara.lk/tools/ai-matthews-correlation-coefficient-calculator) — Compute the Matthews Correlation Coefficient (MCC / phi coefficient) for a binary classifi
+- [Balanced Accuracy Calc](https://induwara.lk/tools/balanced-accuracy-calculator) — Compute balanced accuracy (the macro-average of per-class recall) from a binary confusion 
+- [Gemini → Claude Converter](https://induwara.lk/tools/ai-gemini-to-anthropic-converter) — Convert a Google Gemini generateContent request or response into the equivalent Anthropic 
+- [Focal Loss Calculator](https://induwara.lk/tools/ai-focal-loss-calculator) — Compute focal loss FL(p_t) = −α_t(1 − p_t)^γ ln(p_t) for binary and multiclass predictions
+- [Huber Loss Calculator](https://induwara.lk/tools/ai-huber-loss-calculator) — Compute Huber loss L_δ(a) = 0.5·a² if |a| ≤ δ, else δ·(|a| − 0.5·δ), and the PyTorch Smoot
+- [Hinge Loss Calculator](https://induwara.lk/tools/ai-hinge-loss-calculator) — Compute hinge loss max(0, 1 − y·f(x)) and squared hinge loss from true labels and decision
+- [Multiclass F1 Calculator](https://induwara.lk/tools/multiclass-f1-calculator) — Enter a multiclass confusion matrix (up to 10 classes) and get per-class precision, recall
+- [NIST Score Calculator](https://induwara.lk/tools/nist-score-calculator) — Calculate the NIST machine-translation score for a candidate translation against one or mo
+- [Tversky Index Calculator](https://induwara.lk/tools/tversky-index-calculator) — Compute the Tversky index and Tversky loss from TP/FP/FN with tunable α (false-positive we
+- [Fowlkes-Mallows Index](https://induwara.lk/tools/fowlkes-mallows-index-calculator) — Compute the Fowlkes-Mallows Index (FMI) — a clustering-quality score in [0, 1] — by compar
+- [Service Tier Cost Calc](https://induwara.lk/tools/ai-service-tier-cost-calculator) — Compare the monthly cost of OpenAI's Standard, Flex, and Priority service tiers for any mo
+- [Quantization Comparison](https://induwara.lk/tools/ai-quantization-method-comparison) — Compare the main LLM quantization methods — GGUF k-quants, GPTQ, AWQ, bitsandbytes (INT8/N
+- [AI Embedding Generator](https://induwara.lk/tools/ai-embedding-generator) — Turn any text into its 384-dimension embedding vector with all-MiniLM-L6-v2 — no API key, 
+- [Feature Scaling Calculator](https://induwara.lk/tools/ai-feature-scaling-calculator) — Paste a column of numbers and rescale it four ways — Min-Max normalization, Z-score standa
+- [F-beta Score Calculator](https://induwara.lk/tools/ai-fbeta-score-calculator) — Compute the F-beta score of a binary classifier from precision & recall or from raw confus
+- [Youden's J Index Calculator](https://induwara.lk/tools/ai-youden-j-index-calculator) — Compute Youden's J statistic (J = Sensitivity + Specificity − 1) for a binary classifier o
+- [Toxicity Detector](https://induwara.lk/tools/ai-toxicity-detector) — Score any English comment or message across the six Jigsaw toxicity categories — toxic, se
+- [Top-k Accuracy Calculator](https://induwara.lk/tools/ai-top-k-accuracy-calculator) — Compute classification top-1 through top-k accuracy from a pasted table of ranked predicti
+- [C-index Calculator](https://induwara.lk/tools/ai-concordance-index-calculator) — Compute Harrell's Concordance Index (C-index / C-statistic) for binary or right-censored s
+- [One-Hot Encoder](https://induwara.lk/tools/ai-one-hot-encoder) — Browser-only one-hot encoder that converts a categorical column into a 0/1 matrix matching
+- [Activation Function Calc](https://induwara.lk/tools/ai-activation-function-calculator) — Compute the common neural-network activation functions — ReLU, Leaky ReLU, GELU (exact and
+- [GPU Buy vs Rent Calculator](https://induwara.lk/tools/ai-gpu-buy-vs-rent-calculator) — Work out whether it's cheaper to buy a GPU (RTX 4090/5090, A100, H100) or rent one from th
+- [AI Code Execution Cost](https://induwara.lk/tools/ai-code-execution-cost-calculator) — Compare the server-side code execution (code interpreter / sandbox container) fee that Ant
+- [Wasserstein Distance Calc](https://induwara.lk/tools/ai-wasserstein-distance-calculator) — Compute the Wasserstein-1 distance (Earth Mover's Distance) between two 1-D distributions 
+- [Hellinger Distance Calc](https://induwara.lk/tools/ai-hellinger-distance-calculator) — Compute the Hellinger distance, Bhattacharyya coefficient and Bhattacharyya distance betwe
+- [GPU PSU Wattage Calculator](https://induwara.lk/tools/ai-gpu-power-supply-calculator) — Size the PSU for a single- or multi-GPU AI, local-LLM or Stable-Diffusion rig: recommended
+- [AI Headshot Generators](https://induwara.lk/tools/ai-headshot-generator-comparison) — Compare the major AI headshot generators (Aragon AI, HeadshotPro, BetterPic, Secta, PhotoA
+- [AI Voice Agent Comparison](https://induwara.lk/tools/ai-voice-agent-comparison) — Compare AI voice-agent platforms — Vapi, Retell, Bland, ElevenLabs, LiveKit, Synthflow, Pl
+- [AI Image Edit Cost Calc](https://induwara.lk/tools/ai-image-editing-cost-calculator) — Estimate the API cost of editing images with Gemini 2.5 Flash Image (Nano Banana), GPT Ima
+- [AI Feature Support Matrix](https://induwara.lk/tools/ai-model-feature-support-matrix) — A caniuse-style capability matrix for LLM APIs: filter which production AI models support 
 
 ## Time
 
@@ -507,8 +935,17 @@ Selected tools are also available as standalone open-source projects (MIT licens
 
 ## Freelance
 
+- [Quotation Generator](https://induwara.lk/tools/quotation-generator) — Create a professional price quotation or estimate, then download a clean A4 PDF. Line item
 - [SL Freelancer Tax Calculator](https://induwara.lk/tools/sri-lanka-freelancer-tax-calculator) — Calculate the income tax a Sri Lankan freelancer or remote worker owes on foreign-currency
 - [Freelance Fee Calculator](https://induwara.lk/tools/freelance-platform-fee-calculator) — See exactly what you keep after platform fees on Fiverr, Upwork, Freelancer.com and Guru. 
+- [AI Cover Letter Generator](https://induwara.lk/tools/ai-cover-letter-generator) — Generate a tailored, one-page professional cover letter for Sri Lankan job seekers from a 
+- [App Store Fee Calculator](https://induwara.lk/tools/app-store-commission-calculator) — See exactly how much you keep after Apple's App Store or Google Play takes its cut. Applie
+- [Fiverr Fee Calculator (SL)](https://induwara.lk/tools/sri-lanka-fiverr-fee-calculator) — See what a Fiverr order really leaves in your Sri Lankan bank after the 20% seller service
+- [Upwork Fee Calculator](https://induwara.lk/tools/sri-lanka-upwork-fee-calculator) — See exactly what you keep from an Upwork contract after the 10% freelancer service fee and
+- [Payoneer Fee Calculator](https://induwara.lk/tools/sri-lanka-payoneer-fee-calculator) — See exactly what reaches your Sri Lankan bank after Payoneer's receiving fee, currency-con
+- [Wise Fee Calculator (SL)](https://induwara.lk/tools/sri-lanka-wise-transfer-fee-calculator) — Calculate the exact Wise fee to send money to a Sri Lankan bank account and the rupees the
+- [Skrill Fee Calculator](https://induwara.lk/tools/sri-lanka-skrill-fee-calculator) — See exactly what reaches your Sri Lankan bank after Skrill's currency-conversion markup an
+- [KDP Royalty Calculator](https://induwara.lk/tools/amazon-kdp-royalty-calculator) — Work out your exact per-sale Amazon KDP royalty. Compare the 35% and 70% Kindle eBook plan
 
 ---
 
