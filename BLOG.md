@@ -1,11 +1,48 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-163-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-200-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-163 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+200 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-17 | [What GitHub's Repo Ownership Fix Teaches Small Teams](https://induwara.lk/blog/2026-07-17-how-github-gave-every-repository-a-durable-owner) | Opinion |
+| 2026-07-17 | [Why Subagent Observability Is the Real AI Agent Story](https://induwara.lk/blog/2026-07-17-agent-runs-now-show-subagent-activity-on-eve-proje) | Opinion |
+| 2026-07-17 | [Vercel Deployment Policies: Who Gets to Ship to Prod](https://induwara.lk/blog/2026-07-17-configure-which-sources-can-create-deployments-wit) | Opinion |
+| 2026-07-16 | [GitHub for beginners: what SL learners should ignore first](https://induwara.lk/blog/2026-07-16-github-for-beginners-your-roadmap-to-mastering-the) | Opinion |
+| 2026-07-12 | [Google's AI Ad Label Is a Checkbox, Not a Fact-Check](https://induwara.lk/blog/2026-07-12-google-will-now-disclose-which-ads-are-made-with-a) | Opinion |
+| 2026-07-12 | [OpenAI Copyright Lawsuit: Why Provenance Now Matters](https://induwara.lk/blog/2026-07-12-new-york-times-says-openai-hid-evidence-in-chatgpt) | Opinion |
+| 2026-07-11 | [CISA Wrote Its Incident Plan Mid-Breach. Write Yours Now.](https://induwara.lk/blog/2026-07-11-us-cyber-agency-cisa-had-to-build-its-incident-pla) | Opinion |
+| 2026-07-11 | [Disney+ Free Tier: What 'Free' Really Costs Builders](https://induwara.lk/blog/2026-07-11-disney-is-considering-a-free-streaming-tier-report) | Opinion |
+| 2026-07-11 | [Apple sues OpenAI: trade-secret lessons for small teams](https://induwara.lk/blog/2026-07-11-apple-sues-openai-over-alleged-trade-secret-theft) | Opinion |
+| 2026-07-11 | [What Meta Pulling an Instagram AI Feature Teaches Builders](https://induwara.lk/blog/2026-07-11-meta-removes-controversial-ai-feature-on-instagram) | Opinion |
+| 2026-07-10 | [The $3 Trillion AI ROI Question, Read From Colombo](https://induwara.lk/blog/2026-07-10-can-ai-answer-the-3-trillion-question) | Opinion |
+| 2026-07-09 | [Google Photos' AI Video Remix, and cheaper ways to do it](https://induwara.lk/blog/2026-07-09-google-photos-adds-a-new-ai-video-remix-tool) | Opinion |
+| 2026-07-09 | [Robotics' ChatGPT Moment: What It Means If You Can't Afford a Lab](https://induwara.lk/blog/2026-07-09-this-startup-thinks-robotics-is-about-to-have-its-) | Opinion |
+| 2026-07-09 | [When 'Edge Case' Becomes an Excuse: Lessons From the AV Crackdown](https://induwara.lk/blog/2026-07-09-feds-demand-autonomous-vehicle-companies-stop-inte) | Opinion |
+| 2026-07-06 | [What the UK Tobacco Ban Teaches Builders About Norms](https://induwara.lk/blog/2026-07-06-the-uk-s-generational-tobacco-ban-might-not-work-i) | Opinion |
+| 2026-07-06 | [Vercel CLI dry-run: check a deploy before you ship it](https://induwara.lk/blog/2026-07-06-dry-run-deployments-with-vercel-cli) | News |
+| 2026-07-06 | [Resend on the Vercel Marketplace: what it means for solo builders](https://induwara.lk/blog/2026-07-06-resend-joins-the-vercel-marketplace) | Opinion |
+| 2026-07-06 | [Vercel's Security Dashboard: what solo builders should copy](https://induwara.lk/blog/2026-07-06-vercel-security-dashboard-is-in-private-beta) | Opinion |
+| 2026-07-06 | [Claude Fable 5 Is Back on AI Gateway: What It Means](https://induwara.lk/blog/2026-07-06-claude-fable-5-access-restored-on-ai-gateway) | Opinion |
+| 2026-07-06 | [Uber cut 7 launches to 2: a focus lesson for builders](https://induwara.lk/blog/2026-07-06-uber-s-european-expansion-plans-may-have-hit-a-spe) | Opinion |
+| 2026-07-05 | [Midjourney vs Hollywood: why AI provenance now matters](https://induwara.lk/blog/2026-07-05-midjourney-wants-hollywood-studios-to-reveal-the-d) | Opinion |
+| 2026-07-04 | [Rivian's EV forecast bump is a pricing lesson, not a car story](https://induwara.lk/blog/2026-07-04-rivian-raises-ev-sales-forecast-as-q2-production-r) | Opinion |
+| 2026-07-04 | [Vercel Agent Runs in the MCP + CLI: why it matters](https://induwara.lk/blog/2026-07-04-eve-agent-runs-now-available-in-the-vercel-mcp-and) | Opinion |
+| 2026-07-04 | [Vercel Sandbox Adds FUSE: Mount S3 Without Copying](https://induwara.lk/blog/2026-07-04-vercel-sandbox-now-supports-fuse-based-filesystems) | News |
+| 2026-07-03 | [TV Time is shutting down: back up your data before it's gone](https://induwara.lk/blog/2026-07-03-popular-tv-tracking-app-tv-time-is-shutting-down-a) | Opinion |
+| 2026-07-03 | [OpenAI's 5% Equity Idea: Who Really Owns the AI Boom?](https://induwara.lk/blog/2026-07-03-openai-proposed-donating-5-of-its-equity-to-a-us-s) | Opinion |
+| 2026-07-03 | [Anthropic's Samsung chip talks: what it means for us](https://induwara.lk/blog/2026-07-03-anthropic-is-discussing-a-new-custom-chip-with-sam) | Opinion |
+| 2026-07-03 | [Meta's Pocket and the Quiet Rise of Vibe-Coded Apps](https://induwara.lk/blog/2026-07-03-meta-quietly-launches-vibe-coded-gaming-app-pocket) | Opinion |
+| 2026-07-03 | [AI's Real Cost Isn't Your API Bill — It's Carbon](https://induwara.lk/blog/2026-07-03-a-warning-sign-about-ai-s-real-cost-courtesy-of-go) | Opinion |
+| 2026-07-03 | [Startup Battlefield Australia: What a Deadline Means for Us](https://induwara.lk/blog/2026-07-03-last-chance-to-apply-startup-battlefield-australia) | Opinion |
+| 2026-07-02 | [Cloudflare's AI Crawler Rule: What It Means for SL Builders](https://induwara.lk/blog/2026-07-02-cloudflare-s-new-policy-pushes-ai-companies-to-pay) | Opinion |
+| 2026-07-02 | [SpaceX's AI Device: The Real Play Is the Network](https://induwara.lk/blog/2026-07-02-spacex-has-an-ai-device-prototype-and-it-sure-soun) | Opinion |
+| 2026-07-02 | [Minimizing Luck: The Bending Spoons Playbook for Small Teams](https://induwara.lk/blog/2026-07-02-after-18b-ipo-bending-spoons-founder-says-success-) | Opinion |
+| 2026-07-01 | [Etched hits $5B and $1B in orders: why inference chips matter](https://induwara.lk/blog/2026-07-01-nvidia-competitor-etched-hits-5b-valuation-1b-in-s) | Opinion |
+| 2026-07-01 | [Nano Banana 2 Lite: Cheap AI Images for SL Builders](https://induwara.lk/blog/2026-07-01-google-introduces-a-faster-cheaper-image-generator) | News |
+| 2026-07-01 | [OpenClaw on Android and iOS: agents in your pocket](https://induwara.lk/blog/2026-07-01-openclaw-is-finally-available-on-android-and-ios) | Opinion |
+| 2026-07-01 | [Startup Battlefield Australia 2026: Why It's a Free Bet](https://induwara.lk/blog/2026-07-01-startup-battlefield-australia-application-closes-i) | Opinion |
 | 2026-06-29 | [Amazon's $13B India AI bet: what it means for Sri Lanka](https://induwara.lk/blog/2026-06-29-amazon-ups-india-bet-with-fresh-13b-ai-infrastruct) | Opinion |
 | 2026-06-29 | [UPI's AI bet: why payment data beats fancy models](https://induwara.lk/blog/2026-06-29-indian-payments-chief-thinks-ai-will-be-heavily-in) | Opinion |
 | 2026-06-29 | [Micron's RAM boom: what RAMageddon means for SL builders](https://induwara.lk/blog/2026-06-29-why-wall-street-thinks-us-memory-maker-micron-is-t) | Opinion |
