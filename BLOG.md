@@ -1,11 +1,14 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-200-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-203-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-200 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+203 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-18 | [Vercel Redacts Secrets in Build Logs: What It Misses](https://induwara.lk/blog/2026-07-18-build-logs-now-redact-sensitive-environment-variab) | Opinion |
+| 2026-07-18 | [Agentic Coding Is Fast. Your Judgment Is the Moat](https://induwara.lk/blog/2026-07-18-developers-who-move-fast-still-need-to-do-it-toget) | Opinion |
+| 2026-07-18 | [AI Made Code Cheap. Owning It Is Still Expensive](https://induwara.lk/blog/2026-07-18-the-cost-of-saying-yes-has-changed) | Opinion |
 | 2026-07-17 | [What GitHub's Repo Ownership Fix Teaches Small Teams](https://induwara.lk/blog/2026-07-17-how-github-gave-every-repository-a-durable-owner) | Opinion |
 | 2026-07-17 | [Why Subagent Observability Is the Real AI Agent Story](https://induwara.lk/blog/2026-07-17-agent-runs-now-show-subagent-activity-on-eve-proje) | Opinion |
 | 2026-07-17 | [Vercel Deployment Policies: Who Gets to Ship to Prod](https://induwara.lk/blog/2026-07-17-configure-which-sources-can-create-deployments-wit) | Opinion |
