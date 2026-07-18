@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-926%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-927%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -978,6 +978,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Model Download Time](https://induwara.lk/tools/ai-model-download-time-calculator) — Estimate how long it takes to download a local AI model (LLM GGUF quant or full-precision 
 - [Language Token Tax Calc](https://induwara.lk/tools/ai-language-token-tax-calculator) — See how many extra tokens Sinhala, Tamil and 20+ languages cost on the OpenAI API compared
 - [LLM Training Time Calc](https://induwara.lk/tools/ai-training-time-calculator) — Estimate the wall-clock days, GPU-hours, and cloud cost to train a language model from its
+- [AI Resume Builder Compare](https://induwara.lk/tools/ai-resume-builder-comparison) — Compare the major AI resume builders — Rezi, Teal, Kickresume, Enhancv, Zety, Novoresume, 
 
 ## Time
 
