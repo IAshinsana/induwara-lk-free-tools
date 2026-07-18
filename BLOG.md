@@ -1,11 +1,12 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-203-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-204-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-203 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+204 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-18 | [Lovable Now Deploys to Vercel: What It Means for You](https://induwara.lk/blog/2026-07-18-you-can-now-deploy-lovable-apps-to-vercel) | Opinion |
 | 2026-07-18 | [Vercel Redacts Secrets in Build Logs: What It Misses](https://induwara.lk/blog/2026-07-18-build-logs-now-redact-sensitive-environment-variab) | Opinion |
 | 2026-07-18 | [Agentic Coding Is Fast. Your Judgment Is the Moat](https://induwara.lk/blog/2026-07-18-developers-who-move-fast-still-need-to-do-it-toget) | Opinion |
 | 2026-07-18 | [AI Made Code Cheap. Owning It Is Still Expensive](https://induwara.lk/blog/2026-07-18-the-cost-of-saying-yes-has-changed) | Opinion |
