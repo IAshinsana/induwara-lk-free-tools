@@ -1,11 +1,13 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-205-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-207-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-205 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+207 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-20 | [What's Left for Infrastructure as Code After AI Writes It?](https://induwara.lk/blog/2026-07-20-what-s-left-for-infrastructure-as-code-after-ai-mo) | Opinion |
+| 2026-07-20 | [Kevin Weil joins Stoke Space: why AI money is chasing rockets](https://induwara.lk/blog/2026-07-19-former-openai-exec-kevin-weil-is-now-on-the-board-) | Opinion |
 | 2026-07-19 | [Zero DNS setup with Copilot: what it means for SL devs](https://induwara.lk/blog/2026-07-19-how-github-copilot-enables-zero-dns-configuration-) | Opinion |
 | 2026-07-18 | [Lovable Now Deploys to Vercel: What It Means for You](https://induwara.lk/blog/2026-07-18-you-can-now-deploy-lovable-apps-to-vercel) | Opinion |
 | 2026-07-18 | [Vercel Redacts Secrets in Build Logs: What It Misses](https://induwara.lk/blog/2026-07-18-build-logs-now-redact-sensitive-environment-variab) | Opinion |
