@@ -1,11 +1,13 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-208-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-210-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-208 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+210 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-22 | [Why a Free USB-C Guide Beats Buying a Textbook](https://induwara.lk/blog/2026-07-22-an-engineer-s-guide-to-usb-type-c-pdf) | Opinion |
+| 2026-07-22 | [Bidbus flips the used-car sale into a reverse auction](https://induwara.lk/blog/2026-07-21-this-startup-pits-dealerships-against-each-other-t) | Opinion |
 | 2026-07-21 | [GitHub Sponsors Hit $100M: What It Means in Sri Lanka](https://induwara.lk/blog/2026-07-21-100-million-for-open-source-a-milestone-built-by-t) | Opinion |
 | 2026-07-20 | [What's Left for Infrastructure as Code After AI Writes It?](https://induwara.lk/blog/2026-07-20-what-s-left-for-infrastructure-as-code-after-ai-mo) | Opinion |
 | 2026-07-20 | [Kevin Weil joins Stoke Space: why AI money is chasing rockets](https://induwara.lk/blog/2026-07-19-former-openai-exec-kevin-weil-is-now-on-the-board-) | Opinion |
