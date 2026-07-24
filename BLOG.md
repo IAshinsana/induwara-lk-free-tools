@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-210-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-214-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-210 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+214 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-24 | [Dependabot's 3-Day Cooldown: Why Waiting Is Now Safer](https://induwara.lk/blog/2026-07-24-the-case-for-a-cooldown-why-dependabot-now-waits-b) | Opinion |
+| 2026-07-24 | [Vercel Buys Better Auth: What It Means for Your Stack](https://induwara.lk/blog/2026-07-23-vercel-acquires-better-auth-to-accelerate-open-sou) | Opinion |
+| 2026-07-24 | [Vibe Coding vs Agentic Engineering: The Full-Stack Shift](https://induwara.lk/blog/2026-07-23-the-future-of-development-is-full-stack) | Opinion |
+| 2026-07-24 | [Gemini 3.6 Flash & 3.5 Flash-Lite: the token math](https://induwara.lk/blog/2026-07-23-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cybe) | Opinion |
 | 2026-07-22 | [Why a Free USB-C Guide Beats Buying a Textbook](https://induwara.lk/blog/2026-07-22-an-engineer-s-guide-to-usb-type-c-pdf) | Opinion |
 | 2026-07-22 | [Bidbus flips the used-car sale into a reverse auction](https://induwara.lk/blog/2026-07-21-this-startup-pits-dealerships-against-each-other-t) | Opinion |
 | 2026-07-21 | [GitHub Sponsors Hit $100M: What It Means in Sri Lanka](https://induwara.lk/blog/2026-07-21-100-million-for-open-source-a-milestone-built-by-t) | Opinion |
