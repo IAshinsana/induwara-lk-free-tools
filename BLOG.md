@@ -1,11 +1,16 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-216-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-221-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-216 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+221 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-30 | [An LLM wrote a decompiler that nearly matches IDA Pro](https://induwara.lk/blog/2026-07-30-kuna-decompiler-development-in-the-age-of-coding-a) | Opinion |
+| 2026-07-30 | [The Kinney Drugs AI Bot Failed for a Boring Reason](https://induwara.lk/blog/2026-07-30-a-pharmacy-chain-in-vermont-implemented-ai-for-eff) | Opinion |
+| 2026-07-30 | [The LLM honeypot joke points at a real agent gap](https://induwara.lk/blog/2026-07-30-llm-honeypot) | Opinion |
+| 2026-07-30 | [A local merge queue for parallel AI agents, and why it matters](https://induwara.lk/blog/2026-07-30-show-hn-a-local-merge-queue-for-parallel-claude-co) | Opinion |
+| 2026-07-30 | [Microsoft MAI models vs OpenAI and Anthropic: what changes](https://induwara.lk/blog/2026-07-30-microsoft-is-openly-competing-with-openai-anthropi) | Opinion |
 | 2026-07-25 | [The AI Prompt a Canadian MLA Read Out Loud — And What It Teaches](https://induwara.lk/blog/2026-07-25-canadian-legislator-reads-out-apparent-llm-respons) | Opinion |
 | 2026-07-25 | [Context Engineering: The Real AI Bottleneck Explained](https://induwara.lk/blog/2026-07-25-no-dumb-questions-what-is-the-ai-bottleneck-how-do) | Opinion |
 | 2026-07-24 | [Dependabot's 3-Day Cooldown: Why Waiting Is Now Safer](https://induwara.lk/blog/2026-07-24-the-case-for-a-cooldown-why-dependabot-now-waits-b) | Opinion |
