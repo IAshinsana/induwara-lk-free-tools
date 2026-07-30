@@ -1,11 +1,12 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-221-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-222-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-221 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+222 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-30 | [Claude outage: models failed one at a time, not all at once](https://induwara.lk/blog/2026-07-30-claude-is-down-for-2nd-consecutive-day) | Opinion |
 | 2026-07-30 | [An LLM wrote a decompiler that nearly matches IDA Pro](https://induwara.lk/blog/2026-07-30-kuna-decompiler-development-in-the-age-of-coding-a) | Opinion |
 | 2026-07-30 | [The Kinney Drugs AI Bot Failed for a Boring Reason](https://induwara.lk/blog/2026-07-30-a-pharmacy-chain-in-vermont-implemented-ai-for-eff) | Opinion |
 | 2026-07-30 | [The LLM honeypot joke points at a real agent gap](https://induwara.lk/blog/2026-07-30-llm-honeypot) | Opinion |
