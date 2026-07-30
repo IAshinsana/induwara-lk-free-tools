@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-927%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-929%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -323,6 +323,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 
 ## Developer
 
+- [LaTeX Editor](https://induwara.lk/tools/latex-editor) — Write LaTeX in the browser and see the compiled PDF as you type. Runs a real TeX engine in
 - [Python Compiler](https://induwara.lk/tools/online-python-compiler) — Write and run Python 3 online, free, no signup. Real CPython via WebAssembly runs entirely
 - [JavaScript Playground](https://induwara.lk/tools/online-javascript-compiler) — Write and run JavaScript online, free, no signup. Code runs in a sandboxed worker in your 
 - [TypeScript Playground](https://induwara.lk/tools/online-typescript-compiler) — Write, compile and run TypeScript online, free. The TypeScript compiler runs in your brows
@@ -569,6 +570,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 
 ## Documents
 
+- [LaTeX CV Maker](https://induwara.lk/tools/latex-cv-maker) — Fill in a form, pick a template, and get a real LaTeX-typeset CV as a PDF — plus the .tex 
 - [PDF to Word](https://induwara.lk/tools/pdf-to-word) — Inspect a PDF locally in your browser and get routed to the best free, no-signup converter
 - [Word to PDF](https://induwara.lk/tools/word-to-pdf) — Inspect a Word (.docx) document locally in your browser and get routed to the best free, n
 - [PDF to JPG](https://induwara.lk/tools/pdf-to-jpg) — Inspect a PDF locally in your browser, count its pages, and get routed to the best free, n
