@@ -323,7 +323,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 
 ## Developer
 
-- [LaTeX Editor](https://induwara.lk/tools/latex-editor) — Write LaTeX in the browser and see the compiled PDF as you type. Runs a real TeX engine in
+- [LaTeX Editor](https://induwara.lk/tools/latex-editor) — Write LaTeX in the browser and see the compiled PDF as you type. Do not know LaTeX? Descri
 - [Python Compiler](https://induwara.lk/tools/online-python-compiler) — Write and run Python 3 online, free, no signup. Real CPython via WebAssembly runs entirely
 - [JavaScript Playground](https://induwara.lk/tools/online-javascript-compiler) — Write and run JavaScript online, free, no signup. Code runs in a sandboxed worker in your 
 - [TypeScript Playground](https://induwara.lk/tools/online-typescript-compiler) — Write, compile and run TypeScript online, free. The TypeScript compiler runs in your brows
