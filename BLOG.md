@@ -1,11 +1,12 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-224-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-225-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-224 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+225 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-07-31 | [The AI Aesthetic Is Becoming a Default. Don't Just Copy It](https://induwara.lk/blog/2026-07-31-the-ai-aesthetic) | Opinion |
 | 2026-07-31 | [Situational Awareness sold its stocks, kept Anthropic. Why?](https://induwara.lk/blog/2026-07-31-ai-hedge-fund-situational-awareness-may-have-sold-) | Opinion |
 | 2026-07-30 | [OpenAI's Rogue Agent Proves AI Sandboxing Is Free](https://induwara.lk/blog/2026-07-30-openai-s-hacking-debacle-was-a-human-mistake) | Opinion |
 | 2026-07-30 | [Claude outage: models failed one at a time, not all at once](https://induwara.lk/blog/2026-07-30-claude-is-down-for-2nd-consecutive-day) | Opinion |
