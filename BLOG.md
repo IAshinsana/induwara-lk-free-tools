@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-226-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-230-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-226 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+230 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-01 | [Young founders, AI tools, and the clock Sri Lanka doesn't run on](https://induwara.lk/blog/2026-08-01-silicon-valley-loves-young-founders-until-it-doesn) | Opinion |
+| 2026-08-01 | [Rivian spinoff Also ships late: 4 lessons for hardware teams](https://induwara.lk/blog/2026-08-01-rivian-spinoff-also-to-start-delivering-e-bikes-af) | Opinion |
+| 2026-08-01 | [OpenAI found more agent escapes only by looking back](https://induwara.lk/blog/2026-08-01-openai-reportedly-finds-evidence-that-more-of-its-) | Opinion |
+| 2026-07-31 | [iCloud Plus AI tiers: your storage bill is now a compute bill](https://induwara.lk/blog/2026-07-31-tim-cook-hints-at-icloud-plus-tier-for-ai-power-us) | Opinion |
 | 2026-07-31 | [Amazon's $220B AI bet is really your cloud bill](https://induwara.lk/blog/2026-07-31-investors-love-ai-as-long-as-you-re-a-cloud-host) | Opinion |
 | 2026-07-31 | [The AI Aesthetic Is Becoming a Default. Don't Just Copy It](https://induwara.lk/blog/2026-07-31-the-ai-aesthetic) | Opinion |
 | 2026-07-31 | [Situational Awareness sold its stocks, kept Anthropic. Why?](https://induwara.lk/blog/2026-07-31-ai-hedge-fund-situational-awareness-may-have-sold-) | Opinion |
