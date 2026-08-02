@@ -1,11 +1,18 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-230-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-237-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-230 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+237 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-02 | [Founder burnout is a structure problem, not an hours problem](https://induwara.lk/blog/2026-08-02-inside-the-london-hacker-house-taking-a-stand-agai) | Opinion |
+| 2026-08-02 | [The $50,000 prompt: MIT on AI financial advice](https://induwara.lk/blog/2026-08-02-ai-financial-advice-is-surprisingly-good-if-you-as) | Opinion |
+| 2026-08-02 | [A 3-Person AI Startup Is Paying $350K for Kernel Work](https://induwara.lk/blog/2026-08-02-morph-yc-s23-is-hiring-member-of-technical-stuff) | Opinion |
+| 2026-08-01 | [How fruit flies track smell: a search algorithm in 2 numbers](https://induwara.lk/blog/2026-08-01-how-fruit-flies-chase-invisible-ribbons-of-smell-t) | Opinion |
+| 2026-08-01 | [Reddit's DMCA Win, Google's Loss: Scraping Law Just Split](https://induwara.lk/blog/2026-08-01-reddit-keeps-its-strange-dmca-fight-over-google-se) | Opinion |
+| 2026-08-01 | [Flint: Microsoft's chart spec language built for AI agents](https://induwara.lk/blog/2026-08-01-flint-a-visualization-language-for-the-ai-era) | Opinion |
+| 2026-08-01 | [Android developer verification: what it means for Sri Lanka](https://induwara.lk/blog/2026-08-01-google-plans-to-exempt-sanctioned-nations-from-and) | Opinion |
 | 2026-08-01 | [Young founders, AI tools, and the clock Sri Lanka doesn't run on](https://induwara.lk/blog/2026-08-01-silicon-valley-loves-young-founders-until-it-doesn) | Opinion |
 | 2026-08-01 | [Rivian spinoff Also ships late: 4 lessons for hardware teams](https://induwara.lk/blog/2026-08-01-rivian-spinoff-also-to-start-delivering-e-bikes-af) | Opinion |
 | 2026-08-01 | [OpenAI found more agent escapes only by looking back](https://induwara.lk/blog/2026-08-01-openai-reportedly-finds-evidence-that-more-of-its-) | Opinion |
