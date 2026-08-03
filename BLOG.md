@@ -1,11 +1,17 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-237-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-243-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-237 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+243 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-03 | [MacBook Air shortage: buy the RAM now, not later](https://induwara.lk/blog/2026-08-03-the-global-memory-shortage-hits-the-macbook-air) | Opinion |
+| 2026-08-03 | [Ohio State Fair poster contest: the AI disclosure rule broke](https://induwara.lk/blog/2026-08-03-ai-poster-wins-ohio-state-fair-contest) | Opinion |
+| 2026-08-03 | [The fastest terminal emulator won't run on your laptop](https://induwara.lk/blog/2026-08-03-show-hn-shitty-fast-terminal-memory-unsafe-and-fas) | Opinion |
+| 2026-08-02 | [The open-source agentic CRM that locks its own agent out](https://induwara.lk/blog/2026-08-02-crm-an-open-source-agentic-first-crm) | Opinion |
+| 2026-08-02 | [Don't Credit the LLM: Who Actually Owns AI-Assisted Work](https://induwara.lk/blog/2026-08-02-don-t-credit-the-llm) | Opinion |
+| 2026-08-02 | [The YC tattoo interview is a red flag, not a recruiting stunt](https://induwara.lk/blog/2026-08-02-yc-founder-asks-desperate-job-seekers-to-tattoo-th) | Opinion |
 | 2026-08-02 | [Founder burnout is a structure problem, not an hours problem](https://induwara.lk/blog/2026-08-02-inside-the-london-hacker-house-taking-a-stand-agai) | Opinion |
 | 2026-08-02 | [The $50,000 prompt: MIT on AI financial advice](https://induwara.lk/blog/2026-08-02-ai-financial-advice-is-surprisingly-good-if-you-as) | Opinion |
 | 2026-08-02 | [A 3-Person AI Startup Is Paying $350K for Kernel Work](https://induwara.lk/blog/2026-08-02-morph-yc-s23-is-hiring-member-of-technical-stuff) | Opinion |
