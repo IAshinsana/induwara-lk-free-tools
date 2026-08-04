@@ -1,11 +1,17 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-243-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-249-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-243 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+249 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-04 | [Snap Specs: what a 2029 timeline means for builders](https://induwara.lk/blog/2026-08-04-snap-ceo-sidesteps-specs-preorder-questions-on-q2-) | Opinion |
+| 2026-08-04 | [Ukraine's autonomous drones run AI on an $18 chip](https://induwara.lk/blog/2026-08-04-us-company-s-ai-lets-ukraine-s-cheap-kamikaze-dron) | Opinion |
+| 2026-08-04 | [MCP vs REST: your API needs a second door, not a rewrite](https://induwara.lk/blog/2026-08-04-sponsor-mcp-vs-rest-the-right-way-to-connect-agent) | Opinion |
+| 2026-08-04 | [Karp calls AI labs 'Marxist'. What builders should hear](https://induwara.lk/blog/2026-08-04-after-killer-quarter-palantir-ceo-alex-karp-calls-) | Opinion |
+| 2026-08-03 | [AI COBOL to Java migration: the bugs come with it](https://induwara.lk/blog/2026-08-03-ai-migrated-legacy-cobol-programs-to-java-bugs-inc) | Opinion |
+| 2026-08-03 | [Agent Fone: the AI phone that writes its own apps](https://induwara.lk/blog/2026-08-03-agent-fone) | Opinion |
 | 2026-08-03 | [MacBook Air shortage: buy the RAM now, not later](https://induwara.lk/blog/2026-08-03-the-global-memory-shortage-hits-the-macbook-air) | Opinion |
 | 2026-08-03 | [Ohio State Fair poster contest: the AI disclosure rule broke](https://induwara.lk/blog/2026-08-03-ai-poster-wins-ohio-state-fair-contest) | Opinion |
 | 2026-08-03 | [The fastest terminal emulator won't run on your laptop](https://induwara.lk/blog/2026-08-03-show-hn-shitty-fast-terminal-memory-unsafe-and-fas) | Opinion |
