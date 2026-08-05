@@ -1,11 +1,12 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-256-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-257-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-256 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+257 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-05 | [Korea capped 2x leverage. Retail bought 3x instead.](https://induwara.lk/blog/2026-08-05-after-losses-retail-investors-flock-to-3x-leverage) | Opinion |
 | 2026-08-05 | [A SIMD Viterbi decoder in Rust: reading the benchmarks properly](https://induwara.lk/blog/2026-08-05-show-hn-simd-viterbi-decoder-in-rust) | Opinion |
 | 2026-08-05 | [FIPS 140-3 is a procurement checkbox, not a security outcome](https://induwara.lk/blog/2026-08-05-fips-140-3-is-not-a-security-guarantee-and-auditor) | Opinion |
 | 2026-08-05 | [Passkey security: what the \"Pass the Passkey\" attack really means](https://induwara.lk/blog/2026-08-05-pass-the-passkey-a-novel-attack-surface-in-passwor) | Opinion |
