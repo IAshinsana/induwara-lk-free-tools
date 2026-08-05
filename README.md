@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-929%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-933%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -48,6 +48,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [EMI Calculator](https://induwara.lk/tools/emi-calculator) — Calculate monthly EMI for any home, car, personal, or education loan. Standard reducing-ba
 - [Mortgage Calculator](https://induwara.lk/tools/mortgage-calculator) — Full mortgage calculator with principal, interest, taxes, insurance, and PMI. Year-by-year
 - [Compound Interest](https://induwara.lk/tools/compound-interest-calculator) — Project the future value of a deposit with periodic contributions, any compounding frequen
+- [LKR Exchange Rate](https://induwara.lk/tools/lkr-exchange-rate) — Live Sri Lankan Rupee exchange rates for USD, AED, EUR, GBP, AUD, QAR and more. Free conve
 - [Currency Converter](https://induwara.lk/tools/currency-converter) — Convert between 60+ currencies at the live mid-market rate. USD-base cross-rate identity, 
 - [Salary Calculator](https://induwara.lk/tools/salary-calculator) — Convert any salary between hourly, daily, weekly, bi-weekly, semi-monthly, monthly, and an
 - [Income Tax (Global)](https://induwara.lk/tools/tax-calculator-global) — Estimate personal income tax in the US, UK, India, Australia, and Canada using each countr
@@ -69,6 +70,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Sri Lanka VAT Calculator](https://induwara.lk/tools/sri-lanka-vat-calculator) — Add or remove 18% Value Added Tax from any LKR amount, with a clear base / VAT / total bre
 - [Annual Leave](https://induwara.lk/tools/sri-lanka-annual-leave-calculator) — Compute your statutory annual, casual, and medical leave entitlement in Sri Lanka under Sh
 - [APIT Calculator](https://induwara.lk/tools/sri-lanka-apit-calculator) — Free Sri Lanka APIT calculator using the IRD's official Table 01 for Y/A 2025/26. Monthly 
+- [Family Benefits Checker](https://induwara.lk/tools/sri-lanka-expat-family-benefit-checker) — Find out which government welfare programmes your family in Sri Lanka qualifies for — Aswe
 - [Aswesuma Benefit](https://induwara.lk/tools/sri-lanka-aswesuma-welfare-benefit-calculator) — Estimate the monthly and lifetime Aswesuma payment your household qualifies for across all
 - [Bank Transfer Fee](https://induwara.lk/tools/sri-lanka-bank-transfer-fee-calculator) — Find the cheapest rail and exact fee for any interbank transfer in Sri Lanka. Compares CEF
 - [Birth Certificate Fee](https://induwara.lk/tools/sri-lanka-birth-certificate-fee-calculator) — Work out the exact rupee cost of a Sri Lankan birth certificate — certified copies, search
@@ -147,6 +149,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Employee Cost Calculator](https://induwara.lk/tools/sri-lanka-employee-cost-calculator) — Work out the true cost-to-company of an employee in Sri Lanka — gross salary plus employer
 - [TIN Registration Checker](https://induwara.lk/tools/sri-lanka-tin-registration-checker) — Check in seconds whether you must register for a TIN, register for income tax, and file a 
 - [Customs Duty Calculator](https://induwara.lk/tools/sri-lanka-customs-duty-calculator) — Calculate the full Sri Lanka import levy stack — CID, PAL, CESS, Surcharge, SSCL and VAT —
+- [Agrahara Registration Guide](https://induwara.lk/tools/agrahara-registration-guide) — Step-by-step guide to register for Agrahara insurance online at nitf.lk. Who is eligible, 
 - [Agrahara Insurance Calc](https://induwara.lk/tools/sri-lanka-agrahara-insurance-calculator) — Work out exactly what the Agrahara scheme (NITF) reimburses for a hospital stay, surgery, 
 - [Company Annual Return Fee](https://induwara.lk/tools/sri-lanka-company-annual-return-fee-calculator) — Itemise the exact Registrar of Companies fees for a Sri Lankan company's annual return (Fo
 - [Attestation Fee Calculator](https://induwara.lk/tools/sri-lanka-document-attestation-fee-calculator) — Calculate the exact cost to attest certificates at Sri Lanka's Ministry of Foreign Affairs
@@ -719,6 +722,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AI Zero-Shot Classifier](https://induwara.lk/tools/ai-zero-shot-classifier) — Classify any text into your own custom labels — no training data, no API key on your side,
 - [AI Prompt Library](https://induwara.lk/tools/ai-prompt-library) — 48 structured, source-cited prompt templates for ChatGPT, Claude, Gemini, and Llama. Categ
 - [AI Model Compare](https://induwara.lk/tools/ai-model-comparison) — Compare the latest LLMs side by side — GPT-5, Claude 4.5, Gemini 2.5, Llama 4, DeepSeek, G
+- [SLBFE Contract Checker](https://induwara.lk/tools/slbfe-employment-contract-checker) — AI-powered employment contract checker for Sri Lankan migrant workers. Paste your contract
 - [LLM VRAM Calculator](https://induwara.lk/tools/ai-llm-vram-calculator) — Estimate the GPU VRAM needed to run or fine-tune any open LLM (Llama 3, Mistral, Qwen, Gem
 - [Image Model VRAM Calc](https://induwara.lk/tools/ai-image-model-vram-calculator) — Estimate the GPU VRAM needed to run image-generation models (Stable Diffusion 1.5, SDXL, S
 - [AI Inference Speed Calculator](https://induwara.lk/tools/ai-inference-speed-calculator) — Estimate how fast an LLM will run on a given GPU — decode tokens/second, prefill throughpu
