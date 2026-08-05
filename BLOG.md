@@ -1,11 +1,18 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-249-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-256-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-249 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+256 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-05 | [A SIMD Viterbi decoder in Rust: reading the benchmarks properly](https://induwara.lk/blog/2026-08-05-show-hn-simd-viterbi-decoder-in-rust) | Opinion |
+| 2026-08-05 | [FIPS 140-3 is a procurement checkbox, not a security outcome](https://induwara.lk/blog/2026-08-05-fips-140-3-is-not-a-security-guarantee-and-auditor) | Opinion |
+| 2026-08-05 | [Passkey security: what the \"Pass the Passkey\" attack really means](https://induwara.lk/blog/2026-08-05-pass-the-passkey-a-novel-attack-surface-in-passwor) | Opinion |
+| 2026-08-04 | [Apple v. OpenAI: the leak was offboarding, not espionage](https://induwara.lk/blog/2026-08-04-apple-says-more-ex-employees-may-have-taken-confid) | Opinion |
+| 2026-08-04 | [Airtable sold for $1.28B: what it means for tools you rely on](https://induwara.lk/blog/2026-08-04-bending-spoons-to-buy-airtable-for-1-28b) | Opinion |
+| 2026-08-04 | [Voice AI Beat Human Debt Collectors. Sinhala Is Wide Open](https://induwara.lk/blog/2026-08-04-collectwise-yc-f24-is-hiring) | Opinion |
+| 2026-08-04 | [Apple's Next CEO Rehired a Scheduler. That's the Signal](https://induwara.lk/blog/2026-08-04-john-ternus-has-rehired-former-hardware-vp-laura-l) | Opinion |
 | 2026-08-04 | [Snap Specs: what a 2029 timeline means for builders](https://induwara.lk/blog/2026-08-04-snap-ceo-sidesteps-specs-preorder-questions-on-q2-) | Opinion |
 | 2026-08-04 | [Ukraine's autonomous drones run AI on an $18 chip](https://induwara.lk/blog/2026-08-04-us-company-s-ai-lets-ukraine-s-cheap-kamikaze-dron) | Opinion |
 | 2026-08-04 | [MCP vs REST: your API needs a second door, not a rewrite](https://induwara.lk/blog/2026-08-04-sponsor-mcp-vs-rest-the-right-way-to-connect-agent) | Opinion |
