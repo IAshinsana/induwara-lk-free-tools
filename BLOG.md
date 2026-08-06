@@ -1,11 +1,18 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-258-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-265-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-258 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+265 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-06 | [Nashville Seized a Data Center Site. Your API Bill Is Next.](https://induwara.lk/blog/2026-08-06-nashville-uses-eminent-domain-to-block-data-center) | Opinion |
+| 2026-08-06 | [Grokipedia froze in April: the real cost of unmaintained AI](https://induwara.lk/blog/2026-08-06-elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been) | Opinion |
+| 2026-08-06 | [Anthropic's cryptanalysis results: verification is now the job](https://induwara.lk/blog/2026-08-06-matthew-green-on-anthropic-s-new-cryptanalysis-res) | Opinion |
+| 2026-08-06 | [When Not to Use AI: A Sarcastic Poem Worth Reading](https://induwara.lk/blog/2026-08-06-shawn-smucker-please-use-ai) | Opinion |
+| 2026-08-06 | [86,000 exposed BMCs: your server's hidden second computer](https://induwara.lk/blog/2026-08-06-thousands-of-servers-can-be-backdoored-by-exploiti) | Opinion |
+| 2026-08-05 | [Google Assistant shuts down Sept 4: what it means for you](https://induwara.lk/blog/2026-08-05-google-assistant-will-disappear-from-your-phone-ne) | Opinion |
+| 2026-08-05 | [Ted Lasso Season 4 and the Case for One Anchor Product](https://induwara.lk/blog/2026-08-05-ted-lasso-returns-at-an-important-time-for-apple-t) | Opinion |
 | 2026-08-05 | [EA's $55bn Sale: What a Record Buyout Means for Devs](https://induwara.lk/blog/2026-08-05-the-sale-of-electronic-arts-has-been-finalized) | Opinion |
 | 2026-08-05 | [Korea capped 2x leverage. Retail bought 3x instead.](https://induwara.lk/blog/2026-08-05-after-losses-retail-investors-flock-to-3x-leverage) | Opinion |
 | 2026-08-05 | [A SIMD Viterbi decoder in Rust: reading the benchmarks properly](https://induwara.lk/blog/2026-08-05-show-hn-simd-viterbi-decoder-in-rust) | Opinion |
