@@ -1,11 +1,13 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-265-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-267-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-265 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+267 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-06 | [Nintendo's tariff refund: $300M, and why prices stay up](https://induwara.lk/blog/2026-08-06-nintendo-beats-earnings-thanks-to-us-tariff-refund) | Opinion |
+| 2026-08-06 | [Django and the Case for a Boring Stack on a Small Team](https://induwara.lk/blog/2026-08-06-what-i-love-about-django) | Opinion |
 | 2026-08-06 | [Nashville Seized a Data Center Site. Your API Bill Is Next.](https://induwara.lk/blog/2026-08-06-nashville-uses-eminent-domain-to-block-data-center) | Opinion |
 | 2026-08-06 | [Grokipedia froze in April: the real cost of unmaintained AI](https://induwara.lk/blog/2026-08-06-elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been) | Opinion |
 | 2026-08-06 | [Anthropic's cryptanalysis results: verification is now the job](https://induwara.lk/blog/2026-08-06-matthew-green-on-anthropic-s-new-cryptanalysis-res) | Opinion |
