@@ -1,11 +1,20 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-267-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-276-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-267 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+276 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-13 | [Build Wide, Ship Narrow: Does It Work Without Reviewers?](https://induwara.lk/blog/2026-08-13-build-wide-ship-narrow) | Opinion |
+| 2026-08-13 | [ChatGPT Desktop for Linux: What the Codex Preview Changes](https://induwara.lk/blog/2026-08-13-chatgpt-desktop-codex-desktop-for-linux) | Opinion |
+| 2026-08-13 | [You own Claude's outputs. You still can't train a rival](https://induwara.lk/blog/2026-08-13-if-i-own-claude-s-outputs-why-can-t-i-train-my-own) | Opinion |
+| 2026-08-13 | [What kids get right about AI that most engineers don't](https://induwara.lk/blog/2026-08-13-how-kids-feel-about-ai-in-their-own-words) | Opinion |
+| 2026-08-13 | [Flutter 3.47 unbundles Material and starts dropping Intel Macs](https://induwara.lk/blog/2026-08-13-what-s-new-in-flutter-3-47) | Opinion |
+| 2026-08-13 | [Google Design's Bad App Post: Brand Is Not a Design Review](https://induwara.lk/blog/2026-08-13-google-design-pisses-its-pants-on-twitter-x) | Opinion |
+| 2026-08-13 | [A YC startup's $130K growth job says US-only. Read it anyway](https://induwara.lk/blog/2026-08-12-reflex-yc-w23-is-hiring-growth-and-gtm-roles) | Opinion |
+| 2026-08-13 | [Uber Freight Breach: Your Vendor Is Your Attack Surface](https://induwara.lk/blog/2026-08-12-uber-freight-reportedly-investigating-after-hackin) | Opinion |
+| 2026-08-13 | [Twitch AI training opt-out: what the toggle really covers](https://induwara.lk/blog/2026-08-12-twitch-streamers-can-now-opt-out-from-training-ama) | Opinion |
 | 2026-08-06 | [Nintendo's tariff refund: $300M, and why prices stay up](https://induwara.lk/blog/2026-08-06-nintendo-beats-earnings-thanks-to-us-tariff-refund) | Opinion |
 | 2026-08-06 | [Django and the Case for a Boring Stack on a Small Team](https://induwara.lk/blog/2026-08-06-what-i-love-about-django) | Opinion |
 | 2026-08-06 | [Nashville Seized a Data Center Site. Your API Bill Is Next.](https://induwara.lk/blog/2026-08-06-nashville-uses-eminent-domain-to-block-data-center) | Opinion |
