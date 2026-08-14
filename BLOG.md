@@ -1,11 +1,16 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-276-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-281-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-276 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+281 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-14 | [GLM-5.3: What the Held-Back Weights Actually Tell You](https://induwara.lk/blog/2026-08-14-glm-5-3-frontier-coding-with-emergent-cyber-capabi) | Opinion |
+| 2026-08-14 | [SparrowMap: why the camera, not the cloud, does the thinking](https://induwara.lk/blog/2026-08-14-sparrowmap-cameras-that-watch-government-vehicles) | Opinion |
+| 2026-08-14 | [Bluesky Protocol Services: cheap AT Protocol access](https://induwara.lk/blog/2026-08-14-bluesky-protocol-services) | Opinion |
+| 2026-08-14 | [When your cloud vendor dies, your backup plan dies with it](https://induwara.lk/blog/2026-08-14-pbs-loses-70-years-of-tv-history-after-cloud-stora) | Opinion |
+| 2026-08-14 | [Apple's 15% link-out fee and what it means for indie devs](https://induwara.lk/blog/2026-08-14-apple-and-epic-argue-over-how-much-apple-should-ge) | Opinion |
 | 2026-08-13 | [Build Wide, Ship Narrow: Does It Work Without Reviewers?](https://induwara.lk/blog/2026-08-13-build-wide-ship-narrow) | Opinion |
 | 2026-08-13 | [ChatGPT Desktop for Linux: What the Codex Preview Changes](https://induwara.lk/blog/2026-08-13-chatgpt-desktop-codex-desktop-for-linux) | Opinion |
 | 2026-08-13 | [You own Claude's outputs. You still can't train a rival](https://induwara.lk/blog/2026-08-13-if-i-own-claude-s-outputs-why-can-t-i-train-my-own) | Opinion |
