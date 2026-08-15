@@ -1,11 +1,17 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-281-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-287-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-281 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+287 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-15 | [How to keep up with Hacker News without reading all of it](https://induwara.lk/blog/2026-08-15-ask-hn-how-do-you-keep-up-with-hn-these-days) | Opinion |
+| 2026-08-15 | [AI-Driven Testing Without a Mac: An Android-First Take](https://induwara.lk/blog/2026-08-15-ai-driven-testing) | Opinion |
+| 2026-08-15 | [Magnitude 7.7 in Indonesia: what USGS's free API shows](https://induwara.lk/blog/2026-08-15-magnitude-7-7-earthquake-68-km-nnw-of-ende-indones) | News |
+| 2026-08-15 | [PayPal, Stripe, and the payment rail problem in Sri Lanka](https://induwara.lk/blog/2026-08-15-talks-to-sell-paypal-to-stripe-and-advent-are-heat) | Opinion |
+| 2026-08-15 | [Huge AI Pull Requests Are a Reviewer Tax, Not a Speed Win](https://induwara.lk/blog/2026-08-15-stop-sending-me-huge-prs-a-rant) | Opinion |
+| 2026-08-15 | [The US science funding overhaul, read from Sri Lanka](https://induwara.lk/blog/2026-08-15-the-case-for-overhauling-american-science) | Opinion |
 | 2026-08-14 | [GLM-5.3: What the Held-Back Weights Actually Tell You](https://induwara.lk/blog/2026-08-14-glm-5-3-frontier-coding-with-emergent-cyber-capabi) | Opinion |
 | 2026-08-14 | [SparrowMap: why the camera, not the cloud, does the thinking](https://induwara.lk/blog/2026-08-14-sparrowmap-cameras-that-watch-government-vehicles) | Opinion |
 | 2026-08-14 | [Bluesky Protocol Services: cheap AT Protocol access](https://induwara.lk/blog/2026-08-14-bluesky-protocol-services) | Opinion |
