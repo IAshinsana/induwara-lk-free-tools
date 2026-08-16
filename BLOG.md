@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-287-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-291-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-287 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+291 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-16 | [LLM gender bias hides in how you write, not who you are](https://induwara.lk/blog/2026-08-16-it-s-how-you-ask-gender-associated-linguistic-bias) | Opinion |
+| 2026-08-16 | [A photorealistic Magic card browser and the cost of pretty UI](https://induwara.lk/blog/2026-08-16-oracle-a-photorealistic-browser-for-every-magic-ca) | Opinion |
+| 2026-08-16 | [SugarTrack and the case for offline-first apps in Sri Lanka](https://induwara.lk/blog/2026-08-16-sugartrack-an-offline-android-logbook-for-blood-su) | Opinion |
+| 2026-08-16 | [When Your Open Source Project Lands in a Police Bulletin](https://induwara.lk/blog/2026-08-16-the-government-is-monitoring-anti-flock-tiktok-and) | Opinion |
 | 2026-08-15 | [How to keep up with Hacker News without reading all of it](https://induwara.lk/blog/2026-08-15-ask-hn-how-do-you-keep-up-with-hn-these-days) | Opinion |
 | 2026-08-15 | [AI-Driven Testing Without a Mac: An Android-First Take](https://induwara.lk/blog/2026-08-15-ai-driven-testing) | Opinion |
 | 2026-08-15 | [Magnitude 7.7 in Indonesia: what USGS's free API shows](https://induwara.lk/blog/2026-08-15-magnitude-7-7-earthquake-68-km-nnw-of-ende-indones) | News |
