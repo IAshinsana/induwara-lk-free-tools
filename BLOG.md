@@ -1,11 +1,17 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-291-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-297-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-291 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+297 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-18 | [The agentic SDLC: steal the eval, skip the five agents](https://induwara.lk/blog/2026-08-18-what-does-an-agentic-sdlc-actually-look-like) | Opinion |
+| 2026-08-18 | [US kindergarten vaccination 2026: exemptions are the real signal](https://induwara.lk/blog/2026-08-18-us-vaccination-rates-fall-again-as-exemptions-cont) | Opinion |
+| 2026-08-18 | [Reddit's AI reads posts aloud. The lesson is the curation](https://induwara.lk/blog/2026-08-18-reddit-s-ai-is-turning-posts-into-podcasts-and-sho) | Opinion |
+| 2026-08-18 | [Stripe buying OpenRouter: what it means if you ship AI](https://induwara.lk/blog/2026-08-17-stripe-will-reportedly-acquire-ai-gateway-startup-) | Opinion |
+| 2026-08-18 | [Nvidia's OpenAI backstop shrank. Here's what it signals](https://induwara.lk/blog/2026-08-17-nvidia-dramatically-reduces-amount-of-openai-infra) | Opinion |
+| 2026-08-18 | [OpenAI disbanded its preparedness team. You're the eval team now](https://induwara.lk/blog/2026-08-17-openai-reportedly-disbanded-its-preparedness-team) | Opinion |
 | 2026-08-16 | [LLM gender bias hides in how you write, not who you are](https://induwara.lk/blog/2026-08-16-it-s-how-you-ask-gender-associated-linguistic-bias) | Opinion |
 | 2026-08-16 | [A photorealistic Magic card browser and the cost of pretty UI](https://induwara.lk/blog/2026-08-16-oracle-a-photorealistic-browser-for-every-magic-ca) | Opinion |
 | 2026-08-16 | [SugarTrack and the case for offline-first apps in Sri Lanka](https://induwara.lk/blog/2026-08-16-sugartrack-an-offline-android-logbook-for-blood-su) | Opinion |
