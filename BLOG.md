@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-297-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-301-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-297 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+301 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-19 | [Linear's AI usage data: why 65 PRs a week proves little](https://induwara.lk/blog/2026-08-19-ai-usage-patterns-in-software-teams) | Opinion |
+| 2026-08-19 | [Cursor Origin vs GitHub: what SL developers should do now](https://induwara.lk/blog/2026-08-19-cursor-capitalizes-on-github-frustration-launches-) | Opinion |
+| 2026-08-19 | [Chat SDK's Instagram adapter: the 24-hour window is the spec](https://induwara.lk/blog/2026-08-19-chat-sdk-adds-instagram-adapter) | Opinion |
+| 2026-08-19 | [Arena-M vs $400 drones: why fixed-magazine defences lose](https://induwara.lk/blog/2026-08-19-ukrainian-drones-overwhelm-russian-tanks-new-activ) | Opinion |
 | 2026-08-18 | [The agentic SDLC: steal the eval, skip the five agents](https://induwara.lk/blog/2026-08-18-what-does-an-agentic-sdlc-actually-look-like) | Opinion |
 | 2026-08-18 | [US kindergarten vaccination 2026: exemptions are the real signal](https://induwara.lk/blog/2026-08-18-us-vaccination-rates-fall-again-as-exemptions-cont) | Opinion |
 | 2026-08-18 | [Reddit's AI reads posts aloud. The lesson is the curation](https://induwara.lk/blog/2026-08-18-reddit-s-ai-is-turning-posts-into-podcasts-and-sho) | Opinion |
