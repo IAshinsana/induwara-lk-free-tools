@@ -1,11 +1,17 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-301-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-307-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-301 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+307 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-20 | [Prime Air's real bottleneck isn't flight, it's the neighbours](https://induwara.lk/blog/2026-08-20-amazon-aims-for-delivery-drones-to-reach-500-us-ne) | Opinion |
+| 2026-08-20 | [CHAP: the protocol that logs the human, not the agent](https://induwara.lk/blog/2026-08-20-collaborative-human-agent-protocol-chap) | Opinion |
+| 2026-08-20 | [Zero Data Retention Is Now a Product, Not a Promise](https://induwara.lk/blog/2026-08-20-openai-seeks-to-one-up-anthropic-with-new-customer) | Opinion |
+| 2026-08-20 | [Waymo's cheaper robotaxi is a cost story, not an AI story](https://induwara.lk/blog/2026-08-20-waymo-s-cheaper-next-gen-robotaxi-is-now-open-to-a) | Opinion |
+| 2026-08-20 | [The HoverAir Versa loophole: when a drone is legally a camera](https://induwara.lk/blog/2026-08-20-does-giving-a-camera-wings-dodge-the-fcc-s-drone-b) | Opinion |
+| 2026-08-20 | [NASA calls off the Swift rescue: a lesson in retrofits](https://induwara.lk/blog/2026-08-20-nasa-calls-off-mission-to-rescue-swift-gamma-ray-o) | Opinion |
 | 2026-08-19 | [Linear's AI usage data: why 65 PRs a week proves little](https://induwara.lk/blog/2026-08-19-ai-usage-patterns-in-software-teams) | Opinion |
 | 2026-08-19 | [Cursor Origin vs GitHub: what SL developers should do now](https://induwara.lk/blog/2026-08-19-cursor-capitalizes-on-github-frustration-launches-) | Opinion |
 | 2026-08-19 | [Chat SDK's Instagram adapter: the 24-hour window is the spec](https://induwara.lk/blog/2026-08-19-chat-sdk-adds-instagram-adapter) | Opinion |
