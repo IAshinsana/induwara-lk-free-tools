@@ -1,11 +1,16 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-307-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-312-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-307 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+312 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-21 | [Codex AWS Bedrock cache bug: how a toggle 5x'd a bill](https://induwara.lk/blog/2026-08-21-codex-on-aws-bedrock-bug-causing-10x-charges) | News |
+| 2026-08-21 | [The Genki Manta runs on a Raspberry Pi chip. That's the story.](https://induwara.lk/blog/2026-08-21-genki-s-new-customizable-controller-has-a-big-scre) | Opinion |
+| 2026-08-21 | [ChatGPT's Apple Messages plug-in: read the approval setting](https://induwara.lk/blog/2026-08-21-chatgpt-can-now-send-texts-for-you-with-new-apple-) | Opinion |
+| 2026-08-21 | [OpenAI vs Anthropic: enterprise AI loyalty is near zero](https://induwara.lk/blog/2026-08-21-openai-is-gaining-on-anthropic-with-business-users) | Opinion |
+| 2026-08-21 | [Nevada approved 8,000 robotaxis. Nobody plans to build them](https://induwara.lk/blog/2026-08-21-tesla-uber-and-waymo-all-get-the-ok-to-operate-tho) | Opinion |
 | 2026-08-20 | [Prime Air's real bottleneck isn't flight, it's the neighbours](https://induwara.lk/blog/2026-08-20-amazon-aims-for-delivery-drones-to-reach-500-us-ne) | Opinion |
 | 2026-08-20 | [CHAP: the protocol that logs the human, not the agent](https://induwara.lk/blog/2026-08-20-collaborative-human-agent-protocol-chap) | Opinion |
 | 2026-08-20 | [Zero Data Retention Is Now a Product, Not a Promise](https://induwara.lk/blog/2026-08-20-openai-seeks-to-one-up-anthropic-with-new-customer) | Opinion |
