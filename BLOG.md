@@ -1,11 +1,14 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-312-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-315-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-312 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+315 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-22 | [Engineering maturity isn't years served: 3 belief updates](https://induwara.lk/blog/2026-08-22-three-important-steps-in-my-maturation-process) | Opinion |
+| 2026-08-22 | [Outer Biosciences: the lab is the moat, not the model](https://induwara.lk/blog/2026-08-22-michael-polansky-is-training-an-ai-model-on-skin-t) | Opinion |
+| 2026-08-22 | [Nvidia is buying power, not just selling GPUs](https://induwara.lk/blog/2026-08-22-nvidia-partners-with-data-center-developer-cloverl) | Opinion |
 | 2026-08-21 | [Codex AWS Bedrock cache bug: how a toggle 5x'd a bill](https://induwara.lk/blog/2026-08-21-codex-on-aws-bedrock-bug-causing-10x-charges) | News |
 | 2026-08-21 | [The Genki Manta runs on a Raspberry Pi chip. That's the story.](https://induwara.lk/blog/2026-08-21-genki-s-new-customizable-controller-has-a-big-scre) | Opinion |
 | 2026-08-21 | [ChatGPT's Apple Messages plug-in: read the approval setting](https://induwara.lk/blog/2026-08-21-chatgpt-can-now-send-texts-for-you-with-new-apple-) | Opinion |
