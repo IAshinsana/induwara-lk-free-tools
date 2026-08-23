@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-315-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-319-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-315 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+319 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-23 | [Claude Code effort levels: what the A/B test really shows](https://induwara.lk/blog/2026-08-23-anthropic-appears-to-be-a-b-testing-reduced-effort) | Opinion |
+| 2026-08-23 | [Thinking in Python is free — and 43% of it is patterns](https://induwara.lk/blog/2026-08-23-thinking-in-python-by-bruce-eckel) | Opinion |
+| 2026-08-23 | [Your local LLM isn't dumb. Your inference stack is.](https://induwara.lk/blog/2026-08-23-why-your-local-llm-feels-dumber-than-it-is) | Opinion |
+| 2026-08-23 | [The a16z board-seat probe is a governance lesson, not gossip](https://induwara.lk/blog/2026-08-23-will-the-doj-s-investigation-into-a16z-spook-other) | Opinion |
 | 2026-08-22 | [Engineering maturity isn't years served: 3 belief updates](https://induwara.lk/blog/2026-08-22-three-important-steps-in-my-maturation-process) | Opinion |
 | 2026-08-22 | [Outer Biosciences: the lab is the moat, not the model](https://induwara.lk/blog/2026-08-22-michael-polansky-is-training-an-ai-model-on-skin-t) | Opinion |
 | 2026-08-22 | [Nvidia is buying power, not just selling GPUs](https://induwara.lk/blog/2026-08-22-nvidia-partners-with-data-center-developer-cloverl) | Opinion |
