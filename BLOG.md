@@ -1,11 +1,14 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-319-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-322-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-319 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+322 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-24 | [Training AI on Copyrighted Books: It's the Download That Bites](https://induwara.lk/blog/2026-08-24-is-it-legal-to-train-ai-models-on-copyrighted-book) | Opinion |
+| 2026-08-24 | [Uber's €825M GDPR fine is really about your ban button](https://induwara.lk/blog/2026-08-24-uber-faces-fine-of-nearly-1b-over-automated-driver) | Opinion |
+| 2026-08-24 | [Ox Alpha: what a free stealth AI model really costs](https://induwara.lk/blog/2026-08-24-who-s-behind-the-new-stealth-model-ox-alpha) | Opinion |
 | 2026-08-23 | [Claude Code effort levels: what the A/B test really shows](https://induwara.lk/blog/2026-08-23-anthropic-appears-to-be-a-b-testing-reduced-effort) | Opinion |
 | 2026-08-23 | [Thinking in Python is free — and 43% of it is patterns](https://induwara.lk/blog/2026-08-23-thinking-in-python-by-bruce-eckel) | Opinion |
 | 2026-08-23 | [Your local LLM isn't dumb. Your inference stack is.](https://induwara.lk/blog/2026-08-23-why-your-local-llm-feels-dumber-than-it-is) | Opinion |
