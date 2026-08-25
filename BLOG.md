@@ -1,11 +1,16 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-322-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-327-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-322 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+327 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-25 | [Large-format e-paper: why you salvage instead of buy](https://induwara.lk/blog/2026-08-25-ask-hn-good-large-format-20-inches-touchscreen-e-p) | Opinion |
+| 2026-08-25 | [Thomson Reuters built a frontier model for $40M](https://induwara.lk/blog/2026-08-25-thomson-reuters-launches-its-own-frontier-model) | Opinion |
+| 2026-08-25 | [A self-hosted ebook library with no database at all](https://induwara.lk/blog/2026-08-25-bookshelf-self-hosted-ebook-library-that-runs-on-o) | Tool deep-dive |
+| 2026-08-25 | [Oura's $16B IPO Is a Subscription Story, Not a Ring](https://induwara.lk/blog/2026-08-25-oura-is-reportedly-eyeing-a-september-ipo-that-cou) | Opinion |
+| 2026-08-25 | [Lenovo's bricked Legion Go and the warranty you don't have](https://induwara.lk/blog/2026-08-25-lenovo-confirms-legion-go-issues-after-gamers-repo) | Opinion |
 | 2026-08-24 | [Training AI on Copyrighted Books: It's the Download That Bites](https://induwara.lk/blog/2026-08-24-is-it-legal-to-train-ai-models-on-copyrighted-book) | Opinion |
 | 2026-08-24 | [Uber's €825M GDPR fine is really about your ban button](https://induwara.lk/blog/2026-08-24-uber-faces-fine-of-nearly-1b-over-automated-driver) | Opinion |
 | 2026-08-24 | [Ox Alpha: what a free stealth AI model really costs](https://induwara.lk/blog/2026-08-24-who-s-behind-the-new-stealth-model-ox-alpha) | Opinion |
