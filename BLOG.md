@@ -1,11 +1,16 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-330-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-335-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-330 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+335 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-27 | [Nvidia buying Hugging Face: what it does to your free tier](https://induwara.lk/blog/2026-08-27-nvidia-closes-in-on-hugging-face-acquisition) | Opinion |
+| 2026-08-27 | [The open-source AI CEO: what the code actually teaches](https://induwara.lk/blog/2026-08-27-ceo-fired-developers-to-make-room-for-ai-developer) | Opinion |
+| 2026-08-27 | [Anthropic's $45B Nscale deal: what it means for small builders](https://induwara.lk/blog/2026-08-27-anthropic-continues-compute-gobbling-streak-in-45-) | Opinion |
+| 2026-08-27 | [Meta's $18B settlement makes age verification your problem](https://induwara.lk/blog/2026-08-27-meta-s-18b-child-safety-deal-hinges-on-age-verific) | Opinion |
+| 2026-08-27 | [Instinct raised $350M. The moat is your app permissions](https://induwara.lk/blog/2026-08-27-viral-ai-startup-instinct-has-raised-350-million-a) | Opinion |
 | 2026-08-26 | [Python's six constants follow five different rules](https://induwara.lk/blog/2026-08-26-python-s-pre-declared-constants-are-kinda-weird) | Opinion |
 | 2026-08-26 | [OpenAI's data center chief left. Why builders should care](https://induwara.lk/blog/2026-08-26-openai-loses-a-top-data-center-exec-as-stream-of-h) | Opinion |
 | 2026-08-26 | [Generalist hits $3B: what physical AI means for small teams](https://induwara.lk/blog/2026-08-26-robotics-startup-generalist-reaches-3b-valuation-s) | Opinion |
