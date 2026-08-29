@@ -1,11 +1,14 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-335-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-338-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-335 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+338 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-28 | [Terminal-Bench-Science: AI agents fail 70% of real research](https://induwara.lk/blog/2026-08-28-terminal-bench-science-evaluating-ai-agents-on-sci) | News |
+| 2026-08-28 | [A free AI engineering course that needs no credit card](https://induwara.lk/blog/2026-08-28-ai-engineer-notebooks-free-framework-free-rag-agen) | Opinion |
+| 2026-08-28 | [OpenTIE: The Free C Codebase I'd Hand a Game Dev Student](https://induwara.lk/blog/2026-08-28-show-hn-opentie-and-openxwa-modern-ports-of-tie-fi) | Opinion |
 | 2026-08-27 | [Nvidia buying Hugging Face: what it does to your free tier](https://induwara.lk/blog/2026-08-27-nvidia-closes-in-on-hugging-face-acquisition) | Opinion |
 | 2026-08-27 | [The open-source AI CEO: what the code actually teaches](https://induwara.lk/blog/2026-08-27-ceo-fired-developers-to-make-room-for-ai-developer) | Opinion |
 | 2026-08-27 | [Anthropic's $45B Nscale deal: what it means for small builders](https://induwara.lk/blog/2026-08-27-anthropic-continues-compute-gobbling-streak-in-45-) | Opinion |
