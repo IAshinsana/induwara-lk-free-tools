@@ -1,11 +1,17 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-338-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-344-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-338 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+344 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-29 | [e: the Scheme editor you edit while it is running](https://induwara.lk/blog/2026-08-29-e-is-a-customizable-self-aware-emacs-like-editor-w) | Opinion |
+| 2026-08-29 | [TurboKV: what a Rust key-value store's benchmarks really say](https://induwara.lk/blog/2026-08-29-turbokv-insanely-fast-rust-key-value-store) | Opinion |
+| 2026-08-29 | [StemDeck: free AI stem separation that runs on your laptop](https://induwara.lk/blog/2026-08-29-stemdeck-a-free-open-source-and-local-ai-stem-sepa) | Opinion |
+| 2026-08-29 | [Google AI Overviews now auto-expand. Plan for zero clicks.](https://induwara.lk/blog/2026-08-29-google-further-buries-search-results-under-ai-mode) | Opinion |
+| 2026-08-29 | [A Virtual iPhone on Your Mac: What vphone-cli Really Solves](https://induwara.lk/blog/2026-08-29-boot-a-virtual-iphone-via-apple-s-virtualization-f) | Opinion |
+| 2026-08-29 | [Chinese Automakers Bet on Humanoid Robots: What It Means](https://induwara.lk/blog/2026-08-29-chinese-automakers-are-following-tesla-s-bet-that-) | Opinion |
 | 2026-08-28 | [Terminal-Bench-Science: AI agents fail 70% of real research](https://induwara.lk/blog/2026-08-28-terminal-bench-science-evaluating-ai-agents-on-sci) | News |
 | 2026-08-28 | [A free AI engineering course that needs no credit card](https://induwara.lk/blog/2026-08-28-ai-engineer-notebooks-free-framework-free-rag-agen) | Opinion |
 | 2026-08-28 | [OpenTIE: The Free C Codebase I'd Hand a Game Dev Student](https://induwara.lk/blog/2026-08-28-show-hn-opentie-and-openxwa-modern-ports-of-tie-fi) | Opinion |
