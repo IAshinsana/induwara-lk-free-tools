@@ -1,11 +1,16 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-344-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-349-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-344 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+349 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-30 | [Open OSCAR Server: an open source AIM server in 2026](https://induwara.lk/blog/2026-08-30-open-oscar-server-open-source-server-compatible-wi) | Opinion |
+| 2026-08-30 | [vLLM v0.28.0: the breaking change small GPU users must read](https://induwara.lk/blog/2026-08-30-vllm-v0-28-0) | News |
+| 2026-08-30 | [Sony and Warner sue Anthropic: how you got the data is the case](https://induwara.lk/blog/2026-08-30-sony-music-warner-sue-anthropic-alleging-a-brazen-) | Opinion |
+| 2026-08-30 | [Warp's self-improving AI agents run on a text file](https://induwara.lk/blog/2026-08-30-warp-builds-self-improving-agents-on-claude) | Opinion |
+| 2026-08-30 | [Milo Yiannopoulos deported: what a visa overstay costs](https://induwara.lk/blog/2026-08-30-alt-right-troll-milo-yiannopoulos-has-been-deporte) | Opinion |
 | 2026-08-29 | [e: the Scheme editor you edit while it is running](https://induwara.lk/blog/2026-08-29-e-is-a-customizable-self-aware-emacs-like-editor-w) | Opinion |
 | 2026-08-29 | [TurboKV: what a Rust key-value store's benchmarks really say](https://induwara.lk/blog/2026-08-29-turbokv-insanely-fast-rust-key-value-store) | Opinion |
 | 2026-08-29 | [StemDeck: free AI stem separation that runs on your laptop](https://induwara.lk/blog/2026-08-29-stemdeck-a-free-open-source-and-local-ai-stem-sepa) | Opinion |
