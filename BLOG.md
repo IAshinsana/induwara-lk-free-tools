@@ -1,11 +1,14 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-349-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-352-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-349 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+352 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-08-31 | [Diffusion Language Models: Why Speed Beats Size Now](https://induwara.lk/blog/2026-08-31-how-to-build-a-diffusion-language-model) | Opinion |
+| 2026-08-31 | [Liux Big microcar: the small-team playbook vs Chinese EVs](https://induwara.lk/blog/2026-08-31-liux-s-big-microcar-bets-on-sustainability-to-take) | Opinion |
+| 2026-08-31 | [AI lecture videos you can patch like source code](https://induwara.lk/blog/2026-08-31-show-hn-academa-long-form-stem-lecture-videos-gene) | Opinion |
 | 2026-08-30 | [Open OSCAR Server: an open source AIM server in 2026](https://induwara.lk/blog/2026-08-30-open-oscar-server-open-source-server-compatible-wi) | Opinion |
 | 2026-08-30 | [vLLM v0.28.0: the breaking change small GPU users must read](https://induwara.lk/blog/2026-08-30-vllm-v0-28-0) | News |
 | 2026-08-30 | [Sony and Warner sue Anthropic: how you got the data is the case](https://induwara.lk/blog/2026-08-30-sony-music-warner-sue-anthropic-alleging-a-brazen-) | Opinion |
