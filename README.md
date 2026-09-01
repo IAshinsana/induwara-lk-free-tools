@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-933%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-949%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -48,7 +48,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [EMI Calculator](https://induwara.lk/tools/emi-calculator) — Calculate monthly EMI for any home, car, personal, or education loan. Standard reducing-ba
 - [Mortgage Calculator](https://induwara.lk/tools/mortgage-calculator) — Full mortgage calculator with principal, interest, taxes, insurance, and PMI. Year-by-year
 - [Compound Interest](https://induwara.lk/tools/compound-interest-calculator) — Project the future value of a deposit with periodic contributions, any compounding frequen
-- [LKR Exchange Rate](https://induwara.lk/tools/lkr-exchange-rate) — Live Sri Lankan Rupee exchange rates for USD, AED, EUR, GBP, AUD, QAR and more. Free conve
+- [LKR Exchange Rate](https://induwara.lk/tools/lkr-exchange-rate) — Live Sri Lankan Rupee exchange rates for USD, AED, EUR, GBP, AUD, QAR and more, with a 30-
 - [Currency Converter](https://induwara.lk/tools/currency-converter) — Convert between 60+ currencies at the live mid-market rate. USD-base cross-rate identity, 
 - [Salary Calculator](https://induwara.lk/tools/salary-calculator) — Convert any salary between hourly, daily, weekly, bi-weekly, semi-monthly, monthly, and an
 - [Income Tax (Global)](https://induwara.lk/tools/tax-calculator-global) — Estimate personal income tax in the US, UK, India, Australia, and Canada using each countr
@@ -258,6 +258,20 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL BNPL Installment Planner](https://induwara.lk/tools/sri-lanka-bnpl-installment-calculator) — Split any purchase into KOKO or Mintpay's 3 interest-free installments — exact rupee amoun
 - [SL Water Heater Import Tax](https://induwara.lk/tools/sri-lanka-water-heater-import-tax-calculator) — Estimate the total import tax and landed cost of bringing an electric water heater or geys
 - [SL Water Purifier Import Tax](https://induwara.lk/tools/sri-lanka-water-purifier-import-tax-calculator) — Estimate the total import tax and landed cost of bringing a water purifier or reverse-osmo
+- [Remittance Rate Calculator](https://induwara.lk/tools/sri-lanka-remittance-rate-calculator) — Compare what actually lands in Sri Lanka across Wise, Remitly, Western Union, MoneyGram, G
+- [W-4 Dual-Income Calculator](https://induwara.lk/tools/us-w4-dual-income-withholding-calculator) — Work out Step 2 of your Form W-4 when you and your spouse both work. Runs the IRS Multiple
+- [ITIN Processing Time Estimator](https://induwara.lk/tools/us-itin-processing-time-estimator) — Work out when the IRS should have answered your Form W-7. Enter the date your ITIN applica
+- [EPF Withdrawal TDS Calculator](https://induwara.lk/tools/india-epf-premature-withdrawal-tds-calculator) — Work out the tax on an EPF balance withdrawn before five years of continuous service. Appl
+- [Grama Niladhari Certificate Guide](https://induwara.lk/tools/sri-lanka-grama-niladhari-certificate-guide) — Tell it why you need a Grama Niladhari certificate and it names the right one — income, ch
+- [Cheque Bounce Penalty Calculator](https://induwara.lk/tools/sri-lanka-cheque-bounce-penalty-calculator) — Work out the criminal fine and every statutory deadline for a bounced cheque in Sri Lanka 
+- [Downsizer Super Calculator](https://induwara.lk/tools/australia-downsizer-super-contribution-calculator) — Check every ATO downsizer condition — age 55+, the 10-year ownership test, the CGT main re
+- [TFSA Penalty Calculator](https://induwara.lk/tools/canada-tfsa-over-contribution-penalty-calculator) — Work out the CRA's 1%-per-month tax on an excess TFSA amount month by month, including the
+- [UK NI Number Checker](https://induwara.lk/tools/uk-national-insurance-number-application-checker) — Check whether you can apply for a UK National Insurance number against GOV.UK's three publ
+- [TFN Processing Time Estimator](https://induwara.lk/tools/australia-tfn-processing-time-estimator) — Work out when your Australian tax file number should arrive. Applies the ATO's published 2
+- [Carry-Forward Super Calculator](https://induwara.lk/tools/australia-carry-forward-concessional-contributions-calculator) — Add up unused concessional super cap across the last five financial years, apply the $500,
+- [CRA Instalment Calculator](https://induwara.lk/tools/canada-cra-instalment-payment-calculator) — Run all three CRA-approved instalment methods side by side — no-calculation, prior-year an
+- [SL POA Registration Fee](https://induwara.lk/tools/sri-lanka-power-of-attorney-registration-fee-calculator) — Work out what the Registrar General's Department charges to register a power of attorney i
+- [SL Bank Loan Rates](https://induwara.lk/tools/sri-lanka-bank-loan-interest-rates) — Every housing, personal, vehicle and education loan rate that Sri Lankan banks publish on 
 
 ## Education
 
@@ -508,6 +522,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Water Tank Size Calculator](https://induwara.lk/tools/sri-lanka-water-tank-size-calculator) — Sizes the overhead tank and ground sump a Sri Lankan household needs from occupants and pe
 - [SL Cable Size Calc](https://induwara.lk/tools/sri-lanka-cable-size-calculator) — Find the correct copper or aluminium cable size for an electrical load in Sri Lanka — in b
 - [SL Mobile Network Checker](https://induwara.lk/tools/sri-lanka-mobile-number-network-checker) — Enter any Sri Lankan mobile number to see its network — Dialog, SLT-Mobitel, Hutch or Airt
+- [Pounds to Grams](https://induwara.lk/tools/pounds-to-grams-converter) — Convert pounds to grams using the exact 453.59237 g factor fixed by the 1959 International
+- [Oven Temperature Converter](https://induwara.lk/tools/oven-temperature-converter) — Enter an oven temperature in Fahrenheit, Celsius or gas mark and get all three at once, pl
 
 ## Health
 
