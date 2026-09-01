@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-352-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-356-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-352 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+356 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-01 | [Build American AI: when compute needs a PR campaign](https://induwara.lk/blog/2026-09-01-build-american-ai-data-center-ads) | Opinion |
+| 2026-09-01 | [Alteon's soaring drone: what Bay of Bengal tests mean for us](https://induwara.lk/blog/2026-09-01-lachy-groom-backs-indian-startup-aiming-to-keep-ai) | Opinion |
+| 2026-09-01 | [a16z's $8.5B growth fund: read it as a hardware signal](https://induwara.lk/blog/2026-09-01-a16z-brings-growth-fund-to-8-5b-days-after-launchi) | Opinion |
+| 2026-09-01 | [Polymarket's $1B round is buying regulation, not tech](https://induwara.lk/blog/2026-09-01-polymarket-reportedly-raises-300-million-from-dona) | Opinion |
 | 2026-08-31 | [Diffusion Language Models: Why Speed Beats Size Now](https://induwara.lk/blog/2026-08-31-how-to-build-a-diffusion-language-model) | Opinion |
 | 2026-08-31 | [Liux Big microcar: the small-team playbook vs Chinese EVs](https://induwara.lk/blog/2026-08-31-liux-s-big-microcar-bets-on-sustainability-to-take) | Opinion |
 | 2026-08-31 | [AI lecture videos you can patch like source code](https://induwara.lk/blog/2026-08-31-show-hn-academa-long-form-stem-lecture-videos-gene) | Opinion |
