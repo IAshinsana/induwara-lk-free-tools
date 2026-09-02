@@ -1,11 +1,17 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-356-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-362-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-356 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+362 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-02 | [AfterQuery's $3.2B: expert judgement is the AI moat](https://induwara.lk/blog/2026-09-02-afterquery-reportedly-becomes-y-combinator-s-faste) | Opinion |
+| 2026-09-02 | [LLM inference tuning: which knobs are free, which cost you](https://induwara.lk/blog/2026-09-02-the-efficient-frontier-of-llm-inference) | Opinion |
+| 2026-09-02 | [Claude Fable 5.1: the reasoning dial has a cliff, not a slope](https://induwara.lk/blog/2026-09-02-claude-fable-5-1-made-me-a-nice-animated-pelican) | Opinion |
+| 2026-09-02 | [Apple Maps' Lake America rename is a data-trust lesson](https://induwara.lk/blog/2026-09-02-apple-follows-google-in-adopting-trump-s-lake-amer) | Opinion |
+| 2026-09-02 | [Google's $40M-per-character AI deal is a price list](https://induwara.lk/blog/2026-09-02-google-needs-hollywood-more-than-the-studios-need-) | Opinion |
+| 2026-09-02 | [JioHotstar goes global in UK, Canada, Singapore — without sports](https://induwara.lk/blog/2026-09-02-reliance-s-jiohotstar-takes-its-streaming-empire-g) | Opinion |
 | 2026-09-01 | [Build American AI: when compute needs a PR campaign](https://induwara.lk/blog/2026-09-01-build-american-ai-data-center-ads) | Opinion |
 | 2026-09-01 | [Alteon's soaring drone: what Bay of Bengal tests mean for us](https://induwara.lk/blog/2026-09-01-lachy-groom-backs-indian-startup-aiming-to-keep-ai) | Opinion |
 | 2026-09-01 | [a16z's $8.5B growth fund: read it as a hardware signal](https://induwara.lk/blog/2026-09-01-a16z-brings-growth-fund-to-8-5b-days-after-launchi) | Opinion |
