@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-362-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-366-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-362 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+366 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-03 | [Google keeps its ad business: what the ruling changes](https://induwara.lk/blog/2026-09-03-google-spared-from-ad-business-breakup-but-judge-o) | Opinion |
+| 2026-09-03 | [RonanRx (YC S26): the software is in the supply chain](https://induwara.lk/blog/2026-09-03-launch-hn-ronanrx-yc-s26-personalized-peptides-and) | Opinion |
+| 2026-09-03 | [Console sold for $500M for automating the IT help desk](https://induwara.lk/blog/2026-09-03-palo-alto-networks-paid-500m-for-thrive-backed-con) | Opinion |
+| 2026-09-03 | [Uber's London robotaxi: no lidar, no map, no geofence](https://induwara.lk/blog/2026-09-03-uber-beats-waymo-as-first-to-launch-robotaxis-in-l) | Opinion |
 | 2026-09-02 | [AfterQuery's $3.2B: expert judgement is the AI moat](https://induwara.lk/blog/2026-09-02-afterquery-reportedly-becomes-y-combinator-s-faste) | Opinion |
 | 2026-09-02 | [LLM inference tuning: which knobs are free, which cost you](https://induwara.lk/blog/2026-09-02-the-efficient-frontier-of-llm-inference) | Opinion |
 | 2026-09-02 | [Claude Fable 5.1: the reasoning dial has a cliff, not a slope](https://induwara.lk/blog/2026-09-02-claude-fable-5-1-made-me-a-nice-animated-pelican) | Opinion |
