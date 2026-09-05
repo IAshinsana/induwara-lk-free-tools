@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-368-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-372-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-368 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+372 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-05 | [Cutting Claude Code token usage 90%: Spotify's routing trick](https://induwara.lk/blog/2026-09-05-portal-by-spotify-cut-my-claude-code-token-usage-b) | Opinion |
+| 2026-09-05 | [GPT-6 Astra: the harness now matters more than the model](https://induwara.lk/blog/2026-09-04-openai-soft-releases-gpt-6-astra) | Opinion |
+| 2026-09-05 | [Wikipedia's Union Vote and What It Means for Remote Devs](https://induwara.lk/blog/2026-09-04-wikipedia-workers-unionize-for-the-first-time) | Opinion |
+| 2026-09-05 | [Crusoe's $30B valuation is a bet on power, not AI](https://induwara.lk/blog/2026-09-04-crusoe-reportedly-raises-3b-at-a-30b-valuation) | Opinion |
 | 2026-09-03 | [Belkin's semi-solid-state power banks: is 3x life worth $70?](https://induwara.lk/blog/2026-09-03-belkin-introduces-its-first-longer-lasting-semi-so) | Opinion |
 | 2026-09-03 | [Nango's remote hiring: what it means for Sri Lankan devs](https://induwara.lk/blog/2026-09-03-nango-yc-w23-is-hiring-across-eng-product-and-gtm-) | Opinion |
 | 2026-09-03 | [Google keeps its ad business: what the ruling changes](https://induwara.lk/blog/2026-09-03-google-spared-from-ad-business-breakup-but-judge-o) | Opinion |
