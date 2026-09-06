@@ -1,11 +1,16 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-372-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-377-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-372 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+377 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-06 | [Seattle Times sues OpenAI: what it means for SL builders](https://induwara.lk/blog/2026-09-06-seattle-times-and-newsday-are-the-latest-publicati) | Opinion |
+| 2026-09-05 | [Oura's IPO shows the smart ring moat isn't the sensors](https://induwara.lk/blog/2026-09-05-oura-is-going-public-but-these-smart-ring-companie) | Opinion |
+| 2026-09-05 | [OpenAI's wiki incident: your site is the test environment](https://induwara.lk/blog/2026-09-05-openai-admits-to-german-wiki-incident) | Opinion |
+| 2026-09-05 | [Marvel's 42-hour Doomsday watch list is an onboarding doc](https://induwara.lk/blog/2026-09-05-marvel-has-assigned-42-hours-of-homework-before-av) | Opinion |
+| 2026-09-05 | [GPT-6 Astra code review: 2.3 points better, 2.5x the price](https://induwara.lk/blog/2026-09-05-gpt-6-astra-in-code-review-gains-privacy-and-cost) | Opinion |
 | 2026-09-05 | [Cutting Claude Code token usage 90%: Spotify's routing trick](https://induwara.lk/blog/2026-09-05-portal-by-spotify-cut-my-claude-code-token-usage-b) | Opinion |
 | 2026-09-05 | [GPT-6 Astra: the harness now matters more than the model](https://induwara.lk/blog/2026-09-04-openai-soft-releases-gpt-6-astra) | Opinion |
 | 2026-09-05 | [Wikipedia's Union Vote and What It Means for Remote Devs](https://induwara.lk/blog/2026-09-04-wikipedia-workers-unionize-for-the-first-time) | Opinion |
