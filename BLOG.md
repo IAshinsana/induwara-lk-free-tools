@@ -1,11 +1,18 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-377-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-384-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-377 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+384 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-07 | [48 People, 800,000 Data Points: Reading the Vegan Aging Study](https://induwara.lk/blog/2026-09-07-four-weeks-of-a-vegan-diet-alter-signs-of-inflamma) | Opinion |
+| 2026-09-06 | [Pigeon: a signed pass for what your sub-agent may do](https://induwara.lk/blog/2026-09-06-pigeon-a-signed-pass-for-what-a-sub-agent-may-do) | Opinion |
+| 2026-09-06 | [Isar Aerospace reached orbit on flight two: a builder's read](https://induwara.lk/blog/2026-09-06-isar-aerospace-reaches-orbit-and-deploys-payloads-) | Opinion |
+| 2026-09-06 | [AI tools don't transform work. Naming the problem does.](https://induwara.lk/blog/2026-09-06-ai-tools-and-transformation) | Opinion |
+| 2026-09-06 | [Git-native agent memory: OKF puts context in your repo](https://induwara.lk/blog/2026-09-06-okf-agent-memory-git-native-persistent-memory-for-) | Opinion |
+| 2026-09-06 | [Cloud in a Bottle: self-hosting's real problem was never install](https://induwara.lk/blog/2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-t) | Opinion |
+| 2026-09-06 | [NYC and LA Banned Classroom AI. Builders Should Pay Attention](https://induwara.lk/blog/2026-09-06-america-s-two-largest-school-districts-impose-ai-m) | Opinion |
 | 2026-09-06 | [Seattle Times sues OpenAI: what it means for SL builders](https://induwara.lk/blog/2026-09-06-seattle-times-and-newsday-are-the-latest-publicati) | Opinion |
 | 2026-09-05 | [Oura's IPO shows the smart ring moat isn't the sensors](https://induwara.lk/blog/2026-09-05-oura-is-going-public-but-these-smart-ring-companie) | Opinion |
 | 2026-09-05 | [OpenAI's wiki incident: your site is the test environment](https://induwara.lk/blog/2026-09-05-openai-admits-to-german-wiki-incident) | Opinion |
