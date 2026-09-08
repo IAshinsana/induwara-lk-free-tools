@@ -1,11 +1,16 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-384-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-389-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-384 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+389 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-08 | [Le Creuset x Star Trek: Prices and What the Space Stunt Teaches](https://induwara.lk/blog/2026-09-08-le-creuset-x-star-trek-collection-prices-availabil) | Opinion |
+| 2026-09-07 | [Jensen Huang says AGI has arrived. Watch the GPU count](https://induwara.lk/blog/2026-09-07-nvidia-s-jensen-huang-says-agi-has-arrived-and-con) | Opinion |
+| 2026-09-07 | [Ponytail's lazy senior rules: cheaper AI code, real caveats](https://induwara.lk/blog/2026-09-07-ponytail-lazy-senior-engineer-skill) | Opinion |
+| 2026-09-07 | [Phil Schiller's App Store exit is a warning for indie devs](https://induwara.lk/blog/2026-09-07-phil-schiller-s-app-store-exit-reportedly-driven-b) | Opinion |
+| 2026-09-07 | [A Python interpreter in 1024 bytes is a compiler course](https://induwara.lk/blog/2026-09-07-making-a-python-interpreter-in-1024-bytes) | Opinion |
 | 2026-09-07 | [48 People, 800,000 Data Points: Reading the Vegan Aging Study](https://induwara.lk/blog/2026-09-07-four-weeks-of-a-vegan-diet-alter-signs-of-inflamma) | Opinion |
 | 2026-09-06 | [Pigeon: a signed pass for what your sub-agent may do](https://induwara.lk/blog/2026-09-06-pigeon-a-signed-pass-for-what-a-sub-agent-may-do) | Opinion |
 | 2026-09-06 | [Isar Aerospace reached orbit on flight two: a builder's read](https://induwara.lk/blog/2026-09-06-isar-aerospace-reaches-orbit-and-deploys-payloads-) | Opinion |
