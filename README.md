@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-950%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-948%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -270,7 +270,6 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [TFN Processing Time Estimator](https://induwara.lk/tools/australia-tfn-processing-time-estimator) — Work out when your Australian tax file number should arrive. Applies the ATO's published 2
 - [Carry-Forward Super Calculator](https://induwara.lk/tools/australia-carry-forward-concessional-contributions-calculator) — Add up unused concessional super cap across the last five financial years, apply the $500,
 - [CRA Instalment Calculator](https://induwara.lk/tools/canada-cra-instalment-payment-calculator) — Run all three CRA-approved instalment methods side by side — no-calculation, prior-year an
-- [SL POA Registration Fee](https://induwara.lk/tools/sri-lanka-power-of-attorney-registration-fee-calculator) — Work out what the Registrar General's Department charges to register a power of attorney i
 - [SL Bank Loan Rates](https://induwara.lk/tools/sri-lanka-bank-loan-interest-rates) — Every housing, personal, vehicle and education loan rate that Sri Lankan banks publish on 
 
 ## Education
@@ -643,7 +642,6 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Morse Code Translator](https://induwara.lk/tools/morse-code-translator) — Translate text to International Morse code and decode Morse back to text in your browser, 
 - [Keyword Density Checker](https://induwara.lk/tools/keyword-density-checker) — Paste any article to instantly see word and phrase frequency, keyword density percentages,
 - [N-gram Generator](https://induwara.lk/tools/ai-n-gram-generator) — Generate word or character n-grams (unigrams to 5-grams) from any text with a ranked frequ
-- [Lexical Diversity Calculator](https://induwara.lk/tools/lexical-diversity-calculator) — Paste any text and score its vocabulary richness with the standard linguistics measures — 
 
 ## Image
 
