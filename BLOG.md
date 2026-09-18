@@ -1,11 +1,15 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-403-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-407-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-403 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+407 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-18 | [Waymo chose Singapore because Singapore wrote the test](https://induwara.lk/blog/2026-09-18-waymo-says-singapore-will-be-its-next-internationa) | Opinion |
+| 2026-09-18 | [Waymo's flood fix: shrink the map, not just the model](https://induwara.lk/blog/2026-09-17-waymo-restarts-san-antonio-service-5-months-after-) | Opinion |
+| 2026-09-18 | [Harbor evals on Vercel Sandbox: benchmarking without a big machine](https://induwara.lk/blog/2026-09-17-run-terminal-bench-and-other-harbor-evals-on-verce) | Opinion |
+| 2026-09-18 | [Rogue AI agents are a supply-chain problem, not sci-fi](https://induwara.lk/blog/2026-09-17-the-ai-slowdown-debate-crashed-salesforce-s-party) | Opinion |
 | 2026-09-09 | [Opus 4.8 Dynamic Workflows: Do You Need a Subagent Swarm?](https://induwara.lk/blog/2026-05-28-anthropic-releases-opus-4-8-with-new-dynamic-workf) | Opinion |
 | 2026-09-09 | [Anthropic's IPO: What It Means If You Build on AI](https://induwara.lk/blog/2026-06-02-anthropic-files-to-go-public) | Opinion |
 | 2026-09-09 | [The Meta AI Hack Is a Warning About Agent Security](https://induwara.lk/blog/2026-06-07-the-meta-hack-shows-there-s-more-to-ai-security-th) | Opinion |
