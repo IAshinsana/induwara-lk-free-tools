@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-956%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-958%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -344,6 +344,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [UGC Approved Degree Check](https://induwara.lk/tools/sri-lanka-ugc-approved-degree-checker) — Check whether a Sri Lankan campus, institute or university can award a recognised degree —
 - [OUSL Course Finder](https://induwara.lk/tools/open-university-sri-lanka-course-finder) — Enter your O/L results, A/L stream and anything else you hold, and see which of the 158 Op
 - [NCoE Eligibility Checker](https://induwara.lk/tools/sri-lanka-ncoe-eligibility-checker) — Check every Ministry of Education rule for the three-year National Diploma in Teaching at 
+- [Law College Entrance Check](https://induwara.lk/tools/sri-lanka-law-college-entrance-exam-checker) — Check whether you meet the Sri Lanka Law College entrance rules — citizenship, the 17-year
+- [Nursing Training Check](https://induwara.lk/tools/sri-lanka-nursing-training-eligibility-checker) — Check whether you meet every published criterion of the Ministry of Health's student nursi
 
 ## Developer
 
