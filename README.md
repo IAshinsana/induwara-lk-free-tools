@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-948%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-956%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -271,6 +271,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Carry-Forward Super Calculator](https://induwara.lk/tools/australia-carry-forward-concessional-contributions-calculator) — Add up unused concessional super cap across the last five financial years, apply the $500,
 - [CRA Instalment Calculator](https://induwara.lk/tools/canada-cra-instalment-payment-calculator) — Run all three CRA-approved instalment methods side by side — no-calculation, prior-year an
 - [SL Bank Loan Rates](https://induwara.lk/tools/sri-lanka-bank-loan-interest-rates) — Every housing, personal, vehicle and education loan rate that Sri Lankan banks publish on 
+- [Imported Phone Price](https://induwara.lk/tools/sri-lanka-imported-phone-price-calculator) — Start from a phone model and get its real Sri Lankan price. Converts the manufacturer's la
+- [Star Trek Le Creuset Price](https://induwara.lk/tools/star-trek-le-creuset-sri-lanka-price-calculator) — Every piece in the Le Creuset x Star Trek 60th-anniversary collection priced in rupees, wi
+- [Govt Employee Leave](https://induwara.lk/tools/sri-lanka-government-employee-leave-calculator) — Work out a Sri Lankan public officer's leave position under Chapter XII of the Establishme
 
 ## Education
 
@@ -336,6 +339,11 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Australia Student Visa Funds](https://induwara.lk/tools/australia-student-visa-financial-requirement-calculator) — Work out the exact funds you must prove for an Australian Subclass 500 student visa — 12-m
 - [Adam Optimizer Calculator](https://induwara.lk/tools/ai-adam-optimizer-calculator) — Compute one or more steps of the Adam optimizer from a gradient and the standard hyperpara
 - [ACCA & CIMA Cost Calculator](https://induwara.lk/tools/sri-lanka-acca-cima-cost-calculator) — Add up the total official ACCA or CIMA body fees to qualify in Sri Lanka — registration, s
+- [SL Exam Time Table](https://induwara.lk/tools/sri-lanka-exam-timetable) — Official Department of Examinations dates for Sri Lanka's G.C.E. O/L, G.C.E. A/L and Grade
+- [SLIATE HND Eligibility](https://induwara.lk/tools/sri-lanka-sliate-hnd-eligibility-checker) — Enter your A/L stream, three subject grades and O/L results, and see every SLIATE Higher N
+- [UGC Approved Degree Check](https://induwara.lk/tools/sri-lanka-ugc-approved-degree-checker) — Check whether a Sri Lankan campus, institute or university can award a recognised degree —
+- [OUSL Course Finder](https://induwara.lk/tools/open-university-sri-lanka-course-finder) — Enter your O/L results, A/L stream and anything else you hold, and see which of the 158 Op
+- [NCoE Eligibility Checker](https://induwara.lk/tools/sri-lanka-ncoe-eligibility-checker) — Check every Ministry of Education rule for the three-year National Diploma in Teaching at 
 
 ## Developer
 
@@ -382,6 +390,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SMAPE Calculator](https://induwara.lk/tools/smape-calculator) — Compute the Symmetric Mean Absolute Percentage Error between actual and forecast values, w
 - [MASE Calculator](https://induwara.lk/tools/mase-calculator) — Compute the Mean Absolute Scaled Error (MASE) for forecasts, scaled against the in-sample 
 - [.htaccess Generator](https://induwara.lk/tools/htaccess-generator) — Build a valid Apache .htaccess file from toggles — force HTTPS, www/non-www canonicalisati
+- [Decompiler Comparison](https://induwara.lk/tools/decompiler-comparison) — Compare Kuna, IDA Pro, Ghidra, angr, Binary Ninja, r2dec and more on measured DecBench acc
 
 ## Utility
 
@@ -505,7 +514,6 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [TOTP / 2FA Generator](https://induwara.lk/tools/totp-authenticator-generator) — Turn a Base32 secret into the live 6- or 8-digit TOTP an authenticator app would show righ
 - [Syllable Counter](https://induwara.lk/tools/syllable-counter) — Count the syllables in any word, sentence, or poem with a per-word breakdown, hyphenated b
 - [Hora Nakath Calculator](https://induwara.lk/tools/sri-lanka-hora-calculator) — Shows all 24 planetary Horas (Subha Hora) for any date and Sri Lankan city — each hour's r
-- [Mobile Network Finder](https://induwara.lk/tools/sri-lanka-mobile-number-operator-finder) — Paste any Sri Lankan mobile number to instantly find its network (Dialog, Mobitel, Hutch),
 - [SL Rainwater Harvesting Calc](https://induwara.lk/tools/sri-lanka-rainwater-harvesting-calculator) — Estimate how many litres of rainwater your roof can collect per year in Sri Lanka from roo
 - [Presidential Preference Calc](https://induwara.lk/tools/sri-lanka-presidential-election-preference-calculator) — Work out who wins a Sri Lankan presidential election under the contingent-vote rules: test
 - [AI Chatbot Age Checker](https://induwara.lk/tools/ai-chatbot-age-requirement-checker) — Enter an age and country to see which AI chatbots — ChatGPT, Claude, Gemini, Copilot, Perp
@@ -523,6 +531,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL Mobile Network Checker](https://induwara.lk/tools/sri-lanka-mobile-number-network-checker) — Enter any Sri Lankan mobile number to see its network — Dialog, SLT-Mobitel, Hutch or Airt
 - [Pounds to Grams](https://induwara.lk/tools/pounds-to-grams-converter) — Convert pounds to grams using the exact 453.59237 g factor fixed by the 1959 International
 - [Oven Temperature Converter](https://induwara.lk/tools/oven-temperature-converter) — Enter an oven temperature in Fahrenheit, Celsius or gas mark and get all three at once, pl
+- [Govt Job Eligibility](https://induwara.lk/tools/sri-lanka-government-job-eligibility-checker) — Enter your qualification and your age on the closing date and see which of 14 all-island S
+- [Police & Army Eligibility](https://induwara.lk/tools/sri-lanka-police-army-recruitment-eligibility-checker) — Enter your date of birth, sex, height, weight, chest and exam results and see which of ten
 
 ## Health
 
@@ -532,7 +542,6 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Ovulation Calculator](https://induwara.lk/tools/ovulation-calculator) — Predict your ovulation day, six-day fertile window, most-fertile days, next period dates, 
 - [Heart Rate Zones](https://induwara.lk/tools/heart-rate-zone-calculator) — Find your maximum heart rate and the five training zones in exact bpm — recovery, fat-burn
 - [Calories Burned Calculator](https://induwara.lk/tools/calories-burned-calculator) — Estimate how many calories you burn walking, running, cycling, swimming, the gym, cricket,
-- [Ideal Weight Calculator](https://induwara.lk/tools/ideal-weight-calculator) — Work out your ideal body weight from height and sex using all four clinical formulas — Dev
 - [A1C Calculator](https://induwara.lk/tools/a1c-calculator) — Convert HbA1c to estimated average blood glucose in mg/dL and mmol/L (and back) using the 
 - [eGFR Kidney Function Calc](https://induwara.lk/tools/egfr-calculator) — Estimate kidney function (eGFR) from serum creatinine, age and sex using the race-free CKD
 - [BSA Calculator](https://induwara.lk/tools/body-surface-area-calculator) — Calculate body surface area in m² from height and weight using all five published formulas
@@ -705,6 +714,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [EU Blue Card Eligibility](https://induwara.lk/tools/eu-blue-card-eligibility-checker) — Check whether you meet the EU Blue Card qualification, 6-month contract, and country-speci
 - [Japan SSW Eligibility Checker](https://induwara.lk/tools/japan-specified-skilled-worker-eligibility-checker) — Check if you qualify for Japan's Specified Skilled Worker (SSW / Tokutei Ginou) work visa.
 - [Express Entry Proof of Funds](https://induwara.lk/tools/canada-express-entry-proof-of-funds-calculator) — Work out the exact settlement funds you must show for Canada Express Entry (FSW/FST) by fa
+- [Driving Written Exam Practice](https://induwara.lk/tools/sri-lanka-driving-license-written-exam-practice) — A free, timed practice run of the Department of Motor Traffic written examination: 154 que
+- [Bus Route Finder](https://induwara.lk/tools/sri-lanka-bus-route-number-finder) — Search every gazetted inter-provincial bus route in Sri Lanka by town pair or route number
 
 ## AI
 
@@ -896,9 +907,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Precision@K & Recall@K](https://induwara.lk/tools/ai-precision-recall-at-k-calculator) — Compute Precision@K, Recall@K, F1@K and Hit Rate@K for a retriever, search ranker or RAG p
 - [AI Subscription Price (LKR)](https://induwara.lk/tools/sri-lanka-ai-subscription-price-calculator) — Find the real Sri Lankan rupee price of ChatGPT Plus, Claude Pro, Gemini Advanced, GitHub 
 - [AI Website Builder Compare](https://induwara.lk/tools/ai-website-builder-comparison) — Compare 8 leading AI website builders — v0, Bolt.new, Lovable, Framer, Durable, Wix, Hosti
-- [Confusion Matrix Calc](https://induwara.lk/tools/ai-confusion-matrix-calculator) — Enter the four counts of a binary classifier's confusion matrix (TP, FP, FN, TN) and insta
 - [LR Scheduler Calculator](https://induwara.lk/tools/ai-learning-rate-scheduler-calculator) — Compute and plot the exact per-step learning rate for the common deep-learning schedules —
-- [WER Calculator](https://induwara.lk/tools/ai-word-error-rate-calculator) — Compare a reference transcript against a model hypothesis and get the exact Word Error Rat
 - [Elo Rating Calculator](https://induwara.lk/tools/ai-elo-rating-calculator) — Compute Elo the way LLM leaderboards do: win probability from two ratings, updated ratings
 - [AI Cost Per User](https://induwara.lk/tools/ai-cost-per-user-calculator) — Turn model token prices into LLM cost per active user, break-even subscription price, and 
 - [AI Model Release Timeline](https://induwara.lk/tools/ai-model-release-timeline) — Filterable timeline of every major AI model launch — GPT, Claude, Gemini, Llama, Mistral, 
@@ -956,7 +965,6 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Zero-Shot Image Classifier](https://induwara.lk/tools/ai-zero-shot-image-classifier) — Upload an image and type your own list of labels — CLIP ranks how well the picture matches
 - [AI Language Support](https://induwara.lk/tools/ai-model-language-support-checker) — See which AI models officially support Sinhala, Tamil or any of 100+ languages — for chat,
 - [Information Gain Calc](https://induwara.lk/tools/information-gain-calculator) — Compute the information gain and gain ratio of a decision-tree split from class counts, wi
-- [MCC Calculator](https://induwara.lk/tools/ai-matthews-correlation-coefficient-calculator) — Compute the Matthews Correlation Coefficient (MCC / phi coefficient) for a binary classifi
 - [Balanced Accuracy Calc](https://induwara.lk/tools/balanced-accuracy-calculator) — Compute balanced accuracy (the macro-average of per-class recall) from a binary confusion 
 - [Gemini → Claude Converter](https://induwara.lk/tools/ai-gemini-to-anthropic-converter) — Convert a Google Gemini generateContent request or response into the equivalent Anthropic 
 - [Focal Loss Calculator](https://induwara.lk/tools/ai-focal-loss-calculator) — Compute focal loss FL(p_t) = −α_t(1 − p_t)^γ ln(p_t) for binary and multiclass predictions
