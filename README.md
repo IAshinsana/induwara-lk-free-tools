@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-958%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-962%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -274,6 +274,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Imported Phone Price](https://induwara.lk/tools/sri-lanka-imported-phone-price-calculator) — Start from a phone model and get its real Sri Lankan price. Converts the manufacturer's la
 - [Star Trek Le Creuset Price](https://induwara.lk/tools/star-trek-le-creuset-sri-lanka-price-calculator) — Every piece in the Le Creuset x Star Trek 60th-anniversary collection priced in rupees, wi
 - [Govt Employee Leave](https://induwara.lk/tools/sri-lanka-government-employee-leave-calculator) — Work out a Sri Lankan public officer's leave position under Chapter XII of the Establishme
+- [SL FD Rates Comparison](https://induwara.lk/tools/sri-lanka-fixed-deposit-rates-comparison) — Every rupee fixed deposit rate Sri Lankan banks publish on their own websites, ranked by t
 
 ## Education
 
@@ -346,6 +347,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [NCoE Eligibility Checker](https://induwara.lk/tools/sri-lanka-ncoe-eligibility-checker) — Check every Ministry of Education rule for the three-year National Diploma in Teaching at 
 - [Law College Entrance Check](https://induwara.lk/tools/sri-lanka-law-college-entrance-exam-checker) — Check whether you meet the Sri Lanka Law College entrance rules — citizenship, the 17-year
 - [Nursing Training Check](https://induwara.lk/tools/sri-lanka-nursing-training-eligibility-checker) — Check whether you meet every published criterion of the Ministry of Health's student nursi
+- [University Course Eligibility](https://induwara.lk/tools/sri-lanka-university-course-eligibility-checker) — Enter your three A/L subjects, grades and Common General Paper mark and see every UGC stat
+- [NDT Eligibility Checker](https://induwara.lk/tools/sri-lanka-ndt-eligibility-checker) — Enter your A/L sitting year, three subject grades, date of birth and O/L English result, a
 
 ## Developer
 
@@ -662,7 +665,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 ## Travel
 
 - [Airport Tax Calculator](https://induwara.lk/tools/sri-lanka-airport-tax-calculator) — Calculate Embarkation Levy + Passenger Service Charge for departures from Sri Lanka. Per-p
-- [Bus Fare](https://induwara.lk/tools/sri-lanka-bus-fare-calculator) — Estimate the legal NTC bus fare for any route in Sri Lanka by distance and class — Normal,
+- [Bus Fare](https://induwara.lk/tools/sri-lanka-bus-fare-calculator) — The NTC bus fares in force from 6 July 2026: inter-provincial route prices in normal, semi
 - [Cultural Triangle Fee](https://induwara.lk/tools/sri-lanka-cultural-triangle-entry-fee-calculator) — Work out the gate cost for Sigiriya, Polonnaruwa, Anuradhapura, Dambulla and the rest of S
 - [Baggage Allowance](https://induwara.lk/tools/sri-lanka-customs-baggage-allowance-calculator) — Find your duty-free concession at Bandaranaike International Airport and estimate the cust
 - [Licence Eligibility](https://induwara.lk/tools/sri-lanka-driving-license-class-eligibility-checker) — Find out which of Sri Lanka's 13 driving licence classes you can apply for — based on your
@@ -679,7 +682,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Parcel Import Duty](https://induwara.lk/tools/sri-lanka-parcel-import-duty-calculator) — Estimate Sri Lanka Customs Duty, Cess, PAL, Surcharge, VAT and SSCL on parcels from Amazon
 - [Tuk-Tuk Fare](https://induwara.lk/tools/sri-lanka-three-wheeler-fare-calculator) — Calculate the gazetted legal maximum three-wheeler fare in Sri Lanka — flag-down, per-km, 
 - [Traffic Fines](https://induwara.lk/tools/sri-lanka-traffic-fine-calculator) — Look up the Sri Lanka spot fine for any traffic offence — licence, insurance, helmet, seat
-- [Train Fare](https://induwara.lk/tools/sri-lanka-train-fare-calculator) — Calculate the exact Sri Lanka Railways train fare for any route, class, and train type. In
+- [Train Fare](https://induwara.lk/tools/sri-lanka-train-fare-calculator) — The ticket price Sri Lanka Railways publishes for any route in 1st, 2nd and 3rd class, wit
 - [Emission Test Fee](https://induwara.lk/tools/sri-lanka-vehicle-emission-test-fee-calculator) — Find the exact VET fee for your vehicle class — motorcycle, car, van, lorry, bus, or prime
 - [Vehicle Reg Fee](https://induwara.lk/tools/sri-lanka-vehicle-first-registration-fee-calculator) — Calculate the DMT first-registration fee, number plate, smart-card CR, and late-registrati
 - [Vehicle Import Tax](https://induwara.lk/tools/sri-lanka-vehicle-import-tax-calculator) — Estimate the landed cost of importing a car, SUV or van to Sri Lanka. Customs Duty, Excise
@@ -693,7 +696,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL Road Distance Calc](https://induwara.lk/tools/sri-lanka-road-distance-calculator) — Find the road distance and estimated drive time between any two major Sri Lankan towns. Co
 - [SL Tourist VAT Refund](https://induwara.lk/tools/sri-lanka-tourist-vat-refund-calculator) — Estimate the cash VAT refund a tourist can claim at Colombo airport under Sri Lanka's Tour
 - [Intl Driving Permit (IDP) Fee](https://induwara.lk/tools/sri-lanka-international-driving-permit-fee-calculator) — Find the AA Ceylon cost of an International Driving Permit, whether it is recognised in yo
-- [Train Timetable](https://induwara.lk/tools/sri-lanka-train-timetable) — Pick two Sri Lanka Railways stations and see every direct train between them — departure a
+- [Train Timetable](https://induwara.lk/tools/sri-lanka-train-timetable) — Pick two Sri Lanka Railways stations and see the direct long-distance trains between them 
 - [SL Speed Limit Finder](https://induwara.lk/tools/sri-lanka-speed-limit-finder) — Find the legal speed limit in Sri Lanka for your vehicle and road type — expressway, open 
 - [SL Visa Overstay Fine](https://induwara.lk/tools/sri-lanka-visa-overstay-penalty-calculator) — Work out exactly what you owe the Sri Lanka Department of Immigration for overstaying your
 - [US Green Card Lottery Check](https://induwara.lk/tools/sri-lanka-us-green-card-lottery-eligibility-checker) — Check whether you qualify for the US Diversity Visa (green card lottery) from Sri Lanka — 
@@ -718,6 +721,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Express Entry Proof of Funds](https://induwara.lk/tools/canada-express-entry-proof-of-funds-calculator) — Work out the exact settlement funds you must show for Canada Express Entry (FSW/FST) by fa
 - [Driving Written Exam Practice](https://induwara.lk/tools/sri-lanka-driving-license-written-exam-practice) — A free, timed practice run of the Department of Motor Traffic written examination: 154 que
 - [Bus Route Finder](https://induwara.lk/tools/sri-lanka-bus-route-number-finder) — Search every gazetted inter-provincial bus route in Sri Lanka by town pair or route number
+- [Ongoing Vehicle Number](https://induwara.lk/tools/sri-lanka-ongoing-vehicle-registration-number) — Find the ongoing vehicle registration number the Department of Motor Traffic is issuing, a
 
 ## AI
 
