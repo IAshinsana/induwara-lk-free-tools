@@ -1,23 +1,25 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-407-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-409-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-407 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+409 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-22 | [Hosted AI video workflows: what Mux Robots is really selling](https://induwara.lk/blog/2026-09-22-sponsor-mux-turn-your-video-into-context) | Opinion |
+| 2026-09-22 | [AI won't buy your laptop, but it will pick which one you buy](https://induwara.lk/blog/2026-09-22-the-man-who-built-apple-s-stores-doesn-t-buy-silic) | Opinion |
 | 2026-09-18 | [Waymo chose Singapore because Singapore wrote the test](https://induwara.lk/blog/2026-09-18-waymo-says-singapore-will-be-its-next-internationa) | Opinion |
 | 2026-09-18 | [Waymo's flood fix: shrink the map, not just the model](https://induwara.lk/blog/2026-09-17-waymo-restarts-san-antonio-service-5-months-after-) | Opinion |
 | 2026-09-18 | [Harbor evals on Vercel Sandbox: benchmarking without a big machine](https://induwara.lk/blog/2026-09-17-run-terminal-bench-and-other-harbor-evals-on-verce) | Opinion |
 | 2026-09-18 | [Rogue AI agents are a supply-chain problem, not sci-fi](https://induwara.lk/blog/2026-09-17-the-ai-slowdown-debate-crashed-salesforce-s-party) | Opinion |
-| 2026-09-09 | [Opus 4.8 Dynamic Workflows: Do You Need a Subagent Swarm?](https://induwara.lk/blog/2026-05-28-anthropic-releases-opus-4-8-with-new-dynamic-workf) | Opinion |
-| 2026-09-09 | [Anthropic's IPO: What It Means If You Build on AI](https://induwara.lk/blog/2026-06-02-anthropic-files-to-go-public) | Opinion |
-| 2026-09-09 | [The Meta AI Hack Is a Warning About Agent Security](https://induwara.lk/blog/2026-06-07-the-meta-hack-shows-there-s-more-to-ai-security-th) | Opinion |
-| 2026-09-09 | [Microsoft Repos Got Hacked. Your Dependencies Aren't Safe.](https://induwara.lk/blog/2026-06-09-microsoft-s-open-source-tools-were-hacked-to-steal) | Opinion |
-| 2026-09-09 | [Is Surfshark's 87% off VPN deal worth it from Sri Lanka?](https://induwara.lk/blog/2026-05-16-surfshark-promo-codes-87-off-may-2026) | Opinion |
-| 2026-09-09 | [White House 'Build the Wall' Game Pulled: A Clone-Risk Lesson](https://induwara.lk/blog/2026-09-09-white-house-takes-down-build-the-wall-game-after-t) | Opinion |
-| 2026-09-09 | [Claude token theft: your AI subscription is now worth stealing](https://induwara.lk/blog/2026-09-09-hackers-are-stealing-claude-tokens-from-subscriber) | Opinion |
 | 2026-09-09 | [Cognition's $48B valuation: what it means for devs in Sri Lanka](https://induwara.lk/blog/2026-09-09-cognition-hits-48b-valuation-signaling-investors-b) | Opinion |
+| 2026-09-09 | [Claude token theft: your AI subscription is now worth stealing](https://induwara.lk/blog/2026-09-09-hackers-are-stealing-claude-tokens-from-subscriber) | Opinion |
+| 2026-09-09 | [White House 'Build the Wall' Game Pulled: A Clone-Risk Lesson](https://induwara.lk/blog/2026-09-09-white-house-takes-down-build-the-wall-game-after-t) | Opinion |
+| 2026-09-09 | [Microsoft Repos Got Hacked. Your Dependencies Aren't Safe.](https://induwara.lk/blog/2026-06-09-microsoft-s-open-source-tools-were-hacked-to-steal) | Opinion |
+| 2026-09-09 | [The Meta AI Hack Is a Warning About Agent Security](https://induwara.lk/blog/2026-06-07-the-meta-hack-shows-there-s-more-to-ai-security-th) | Opinion |
+| 2026-09-09 | [Anthropic's IPO: What It Means If You Build on AI](https://induwara.lk/blog/2026-06-02-anthropic-files-to-go-public) | Opinion |
+| 2026-09-09 | [Opus 4.8 Dynamic Workflows: Do You Need a Subagent Swarm?](https://induwara.lk/blog/2026-05-28-anthropic-releases-opus-4-8-with-new-dynamic-workf) | Opinion |
+| 2026-09-09 | [Is Surfshark's 87% off VPN deal worth it from Sri Lanka?](https://induwara.lk/blog/2026-05-16-surfshark-promo-codes-87-off-may-2026) | Opinion |
 | 2026-09-08 | [Reversible computing: the chip that recycles its own heat](https://induwara.lk/blog/2026-09-08-this-founder-is-teaching-chips-how-to-recycle-thei) | Opinion |
 | 2026-09-08 | [Xiaomi 18 Fold: the foldable spec war just moved to silicon](https://induwara.lk/blog/2026-09-08-xiaomi-s-wide-foldable-promises-more-power-than-sa) | Opinion |
 | 2026-09-08 | [Arm Mali G2-Ultra NX: What AI-Native Mobile Graphics Means for Us](https://induwara.lk/blog/2026-09-08-arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-game) | Opinion |
