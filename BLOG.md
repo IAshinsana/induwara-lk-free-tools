@@ -1,11 +1,12 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-411-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-412-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-411 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+412 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-09-22 | [Morphotonics raised €40M because AI's bottleneck is the wire](https://induwara.lk/blog/2026-09-22-morphotonics-raises-40m-to-expand-its-display-tech) | Opinion |
 | 2026-09-22 | [The Robin Williams AI video proves detection already lost](https://induwara.lk/blog/2026-09-22-robin-williams-daughter-to-fans-creating-ai-videos) | Opinion |
 | 2026-09-22 | [Meta Muse 0-day: a config bug with agent-sized blast radius](https://induwara.lk/blog/2026-09-22-muse-meta-s-extraordinarily-privileged-ai-assistan) | Opinion |
 | 2026-09-22 | [Hosted AI video workflows: what Mux Robots is really selling](https://induwara.lk/blog/2026-09-22-sponsor-mux-turn-your-video-into-context) | Opinion |
