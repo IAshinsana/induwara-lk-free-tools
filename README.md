@@ -533,7 +533,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [CSS Flexbox Generator](https://induwara.lk/tools/css-flexbox-generator) — Interactive CSS Flexbox playground: toggle every flex-container and flex-item property wit
 - [Water Tank Size Calculator](https://induwara.lk/tools/sri-lanka-water-tank-size-calculator) — Sizes the overhead tank and ground sump a Sri Lankan household needs from occupants and pe
 - [SL Cable Size Calc](https://induwara.lk/tools/sri-lanka-cable-size-calculator) — Find the correct copper or aluminium cable size for an electrical load in Sri Lanka — in b
-- [SL Mobile Network Checker](https://induwara.lk/tools/sri-lanka-mobile-number-network-checker) — Enter any Sri Lankan mobile number to see its network — Dialog, SLT-Mobitel, Hutch or Airt
+- [SL 07X Prefix List](https://induwara.lk/tools/sri-lanka-mobile-number-network-checker) — The full TRCSL 07X prefix list: which operator each of 070-078 was allocated to, which cod
 - [Pounds to Grams](https://induwara.lk/tools/pounds-to-grams-converter) — Convert pounds to grams using the exact 453.59237 g factor fixed by the 1959 International
 - [Oven Temperature Converter](https://induwara.lk/tools/oven-temperature-converter) — Enter an oven temperature in Fahrenheit, Celsius or gas mark and get all three at once, pl
 - [Govt Job Eligibility](https://induwara.lk/tools/sri-lanka-government-job-eligibility-checker) — Enter your qualification and your age on the closing date and see which of 14 all-island S
