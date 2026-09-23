@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-962%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-965%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -141,7 +141,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [CEB TOU Tariff Calculator](https://induwara.lk/tools/sri-lanka-tou-tariff-calculator) — Check if a CEB or LECO Time-of-Use electricity meter saves you money. Split your usage int
 - [SL Loan Eligibility Calc](https://induwara.lk/tools/sri-lanka-loan-eligibility-calculator) — Find the maximum housing, vehicle, personal or education loan you qualify for in Sri Lanka
 - [SL Withholding Tax (WHT)](https://induwara.lk/tools/sri-lanka-withholding-tax-calculator) — Calculate the withholding tax / Advance Income Tax (AIT) deducted at source on Sri Lankan 
-- [Govt Salary Increase 2025/27](https://induwara.lk/tools/sri-lanka-government-salary-increase-calculator) — See how your public-sector basic salary rises across the three phases of Public Administra
+- [Govt Salary Increase 2025/27](https://induwara.lk/tools/sri-lanka-government-salary-increase-calculator) — Work out the basic salary actually payable to you at each phase of Public Administration C
 - [Govt Salary Scale Finder](https://induwara.lk/tools/sri-lanka-public-service-salary-scale-finder) — Look up the official Sri Lankan public-service salary scale for any salary code (MN-1, MA-
 - [SL Bank SWIFT Code Finder](https://induwara.lk/tools/sri-lanka-bank-swift-code-finder) — Find the official SWIFT/BIC code for any licensed Sri Lankan bank to receive money from ab
 - [Motorcycle Import Tax](https://induwara.lk/tools/sri-lanka-motorcycle-import-tax-calculator) — Estimate the landed cost and every tax line — CID, excise, PAL, SSCL and VAT — for importi
@@ -396,6 +396,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [MASE Calculator](https://induwara.lk/tools/mase-calculator) — Compute the Mean Absolute Scaled Error (MASE) for forecasts, scaled against the in-sample 
 - [.htaccess Generator](https://induwara.lk/tools/htaccess-generator) — Build a valid Apache .htaccess file from toggles — force HTTPS, www/non-www canonicalisati
 - [Decompiler Comparison](https://induwara.lk/tools/decompiler-comparison) — Compare Kuna, IDA Pro, Ghidra, angr, Binary Ninja, r2dec and more on measured DecBench acc
+- [OpenTIE Setup Checker](https://induwara.lk/tools/opentie-compatibility-checker) — Tells you in one screen whether OpenTIE — the open-source Star Wars: TIE Fighter reimpleme
 
 ## Utility
 
@@ -538,6 +539,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Oven Temperature Converter](https://induwara.lk/tools/oven-temperature-converter) — Enter an oven temperature in Fahrenheit, Celsius or gas mark and get all three at once, pl
 - [Govt Job Eligibility](https://induwara.lk/tools/sri-lanka-government-job-eligibility-checker) — Enter your qualification and your age on the closing date and see which of 14 all-island S
 - [Police & Army Eligibility](https://induwara.lk/tools/sri-lanka-police-army-recruitment-eligibility-checker) — Enter your date of birth, sex, height, weight, chest and exam results and see which of ten
+- [Open OSCAR Server Setup](https://induwara.lk/tools/open-oscar-server-setup-checker) — Pick your AIM or ICQ client and your host machine, and get the port that client must reach
 
 ## Health
 
@@ -665,11 +667,11 @@ Selected tools are also available as standalone open-source projects (MIT licens
 ## Travel
 
 - [Airport Tax Calculator](https://induwara.lk/tools/sri-lanka-airport-tax-calculator) — Calculate Embarkation Levy + Passenger Service Charge for departures from Sri Lanka. Per-p
-- [Bus Fare](https://induwara.lk/tools/sri-lanka-bus-fare-calculator) — The NTC bus fares in force from 6 July 2026: inter-provincial route prices in normal, semi
+- [Bus Fare](https://induwara.lk/tools/sri-lanka-bus-fare-calculator) — The NTC bus fares in force from 6 July 2026: 55 inter-provincial route prices in normal, s
 - [Cultural Triangle Fee](https://induwara.lk/tools/sri-lanka-cultural-triangle-entry-fee-calculator) — Work out the gate cost for Sigiriya, Polonnaruwa, Anuradhapura, Dambulla and the rest of S
 - [Baggage Allowance](https://induwara.lk/tools/sri-lanka-customs-baggage-allowance-calculator) — Find your duty-free concession at Bandaranaike International Airport and estimate the cust
 - [Licence Eligibility](https://induwara.lk/tools/sri-lanka-driving-license-class-eligibility-checker) — Find out which of Sri Lanka's 13 driving licence classes you can apply for — based on your
-- [Driving Licence Fee](https://induwara.lk/tools/sri-lanka-driving-license-fee-calculator) — Calculate the full DMT driving licence fee in Sri Lanka — issue, trial, NTMI medical, fore
+- [Driving Licence Fee](https://induwara.lk/tools/sri-lanka-driving-license-fee-calculator) — Every DMT driving licence levy in Sri Lanka, normal and same-day service: new licence, add
 - [Licence Validity](https://induwara.lk/tools/sri-lanka-driving-license-validity-calculator) — Find the exact expiry date of your Sri Lankan driving licence by class, issue date, and ag
 - [Dual Citizenship Fee](https://induwara.lk/tools/sri-lanka-dual-citizenship-fee-calculator) — Estimate the full Sri Lankan dual citizenship application cost in LKR and USD — principal,
 - [ETA Visa Fee](https://induwara.lk/tools/sri-lanka-eta-visa-fee-calculator) — Work out the exact Sri Lanka ETA visa cost in USD and LKR — tourist, business, transit — b
@@ -722,6 +724,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Driving Written Exam Practice](https://induwara.lk/tools/sri-lanka-driving-license-written-exam-practice) — A free, timed practice run of the Department of Motor Traffic written examination: 154 que
 - [Bus Route Finder](https://induwara.lk/tools/sri-lanka-bus-route-number-finder) — Search every gazetted inter-provincial bus route in Sri Lanka by town pair or route number
 - [Ongoing Vehicle Number](https://induwara.lk/tools/sri-lanka-ongoing-vehicle-registration-number) — Find the ongoing vehicle registration number the Department of Motor Traffic is issuing, a
+- [SL Beach Finder](https://induwara.lk/tools/sri-lanka-beach-finder) — Pick any of 51 named Sri Lankan beaches and any month to see whether the sea is calm, mixe
 
 ## AI
 
