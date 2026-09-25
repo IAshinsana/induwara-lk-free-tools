@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-979%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-983%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -277,6 +277,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL FD Rates Comparison](https://induwara.lk/tools/sri-lanka-fixed-deposit-rates-comparison) — Every rupee fixed deposit rate Sri Lankan banks publish on their own websites, ranked by t
 - [ARR & Run-Rate Calc](https://induwara.lk/tools/annual-recurring-revenue-calculator) — Turn customers, price and billing mix into MRR, ARR, revenue run rate and ARPU — then solv
 - [Land Registry Finder](https://induwara.lk/tools/sri-lanka-land-registry-finder) — Find which of Sri Lanka's 50 Land Registries holds the deed for a piece of land, with that
+- [Surekuma Pension Calc](https://induwara.lk/tools/sri-lanka-self-employed-pension-calculator) — Price the Social Security Board's Surekuma pension for anyone self-employed: the premium f
 
 ## Education
 
@@ -358,6 +359,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [External Degree Finder](https://induwara.lk/tools/sri-lanka-external-degree-finder) — Enter your A/L result, O/L passes and preferred field, and see every state-university exte
 - [Private University Fees](https://induwara.lk/tools/sri-lanka-private-university-fee-comparison) — Pick a field of study and your entry qualification, and see every recognised non-state deg
 - [SL Postgraduate Course Fees](https://induwara.lk/tools/sri-lanka-postgraduate-course-fee-comparison) — Compare the published fee of a taught postgraduate programme — MBA, MSc, MA, Master's or p
+- [SLMC School Checker](https://induwara.lk/tools/slmc-recognised-medical-school-checker) — Check whether a foreign medical or dental school is on the Sri Lanka Medical Council's rec
 
 ## Developer
 
@@ -550,6 +552,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Police & Army Eligibility](https://induwara.lk/tools/sri-lanka-police-army-recruitment-eligibility-checker) — Enter your date of birth, sex, height, weight, chest and exam results and see which of ten
 - [Open OSCAR Server Setup](https://induwara.lk/tools/open-oscar-server-setup-checker) — Pick your AIM or ICQ client and your host machine, and get the port that client must reach
 - [Internet Packages](https://induwara.lk/tools/sri-lanka-internet-package-comparison) — Every published SLT-Mobitel and Dialog home broadband package converted from its advertise
+- [Local Authority Finder](https://induwara.lk/tools/sri-lanka-local-authority-finder) — Find which of Sri Lanka's 341 local authorities your town falls under — Municipal Council,
 
 ## Health
 
@@ -739,6 +742,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Highway Bus Timetable](https://induwara.lk/tools/sri-lanka-highway-bus-timetable) — The actual departure times NTC prints for Southern Expressway buses — Matara, Galle, Tanga
 - [Embassy & Consulate Finder](https://induwara.lk/tools/sri-lanka-embassy-consulate-finder) — Find the Sri Lankan embassy, high commission or consulate that covers the country you are 
 - [Zoo Entry Fee](https://induwara.lk/tools/sri-lanka-zoo-entry-fee-calculator) — Price a whole group's entry to Dehiwala Zoo, the Pinnawala Elephant Orphanage, Pinnawala O
+- [Botanical Garden Tickets](https://induwara.lk/tools/sri-lanka-botanical-garden-ticket-price-calculator) — Price a whole party's entry to any of the six Sri Lankan botanical gardens — Peradeniya, H
 
 ## AI
 
