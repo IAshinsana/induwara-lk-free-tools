@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-965%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-979%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -275,6 +275,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Star Trek Le Creuset Price](https://induwara.lk/tools/star-trek-le-creuset-sri-lanka-price-calculator) — Every piece in the Le Creuset x Star Trek 60th-anniversary collection priced in rupees, wi
 - [Govt Employee Leave](https://induwara.lk/tools/sri-lanka-government-employee-leave-calculator) — Work out a Sri Lankan public officer's leave position under Chapter XII of the Establishme
 - [SL FD Rates Comparison](https://induwara.lk/tools/sri-lanka-fixed-deposit-rates-comparison) — Every rupee fixed deposit rate Sri Lankan banks publish on their own websites, ranked by t
+- [ARR & Run-Rate Calc](https://induwara.lk/tools/annual-recurring-revenue-calculator) — Turn customers, price and billing mix into MRR, ARR, revenue run rate and ARPU — then solv
+- [Land Registry Finder](https://induwara.lk/tools/sri-lanka-land-registry-finder) — Find which of Sri Lanka's 50 Land Registries holds the deed for a piece of land, with that
 
 ## Education
 
@@ -288,6 +290,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Mahapola Scholarship](https://induwara.lk/tools/sri-lanka-mahapola-scholarship-calculator) — Check Mahapola Merit and Bursary eligibility, the current monthly stipend, and total payou
 - [NVQ Level Lookup](https://induwara.lk/tools/sri-lanka-nvq-qualification-level-lookup) — Find your NVQ level, its academic equivalent (O/L, A/L, Diploma, Degree), the jobs it qual
 - [O/L Pass Check](https://induwara.lk/tools/sri-lanka-ol-exam-pass-calculator) — Enter your nine GCE O/L grades and instantly see whether you passed O/L, qualified for A/L
+- [O/L Subject Selection](https://induwara.lk/tools/sri-lanka-ol-subject-selection-checker) — Every G.C.E. O/L subject in the three official categories, plus a checker that says whethe
 - [School Calendar](https://induwara.lk/tools/sri-lanka-school-term-calendar) — Official Ministry of Education 2026 school term dates for Sri Lankan government schools. C
 - [University Cutoff](https://induwara.lk/tools/sri-lanka-university-cutoff-finder) — Enter your A/L Z-score, stream and district to see which Sri Lankan state-university cours
 - [IELTS Band Score Calculator](https://induwara.lk/tools/ielts-band-score-calculator) — Calculate your IELTS overall band from the four section scores using the official averagin
@@ -349,6 +352,12 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Nursing Training Check](https://induwara.lk/tools/sri-lanka-nursing-training-eligibility-checker) — Check whether you meet every published criterion of the Ministry of Health's student nursi
 - [University Course Eligibility](https://induwara.lk/tools/sri-lanka-university-course-eligibility-checker) — Enter your three A/L subjects, grades and Common General Paper mark and see every UGC stat
 - [NDT Eligibility Checker](https://induwara.lk/tools/sri-lanka-ndt-eligibility-checker) — Enter your A/L sitting year, three subject grades, date of birth and O/L English result, a
+- [KDU Fee & Eligibility Checker](https://induwara.lk/tools/sri-lanka-kdu-course-fee-eligibility-checker) — Every KDU Intake 44 day-scholar course fee — total, per academic year and the application 
+- [National School Finder](https://induwara.lk/tools/sri-lanka-national-school-finder) — Search all 396 national schools in Sri Lanka by name, province, district or education zone
+- [Vocational Course Finder](https://induwara.lk/tools/sri-lanka-vocational-course-finder) — Finished O/L? See which NVQ courses you can enrol in right now at VTA, NAITA, a Technical 
+- [External Degree Finder](https://induwara.lk/tools/sri-lanka-external-degree-finder) — Enter your A/L result, O/L passes and preferred field, and see every state-university exte
+- [Private University Fees](https://induwara.lk/tools/sri-lanka-private-university-fee-comparison) — Pick a field of study and your entry qualification, and see every recognised non-state deg
+- [SL Postgraduate Course Fees](https://induwara.lk/tools/sri-lanka-postgraduate-course-fee-comparison) — Compare the published fee of a taught postgraduate programme — MBA, MSc, MA, Master's or p
 
 ## Developer
 
@@ -540,6 +549,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Govt Job Eligibility](https://induwara.lk/tools/sri-lanka-government-job-eligibility-checker) — Enter your qualification and your age on the closing date and see which of 14 all-island S
 - [Police & Army Eligibility](https://induwara.lk/tools/sri-lanka-police-army-recruitment-eligibility-checker) — Enter your date of birth, sex, height, weight, chest and exam results and see which of ten
 - [Open OSCAR Server Setup](https://induwara.lk/tools/open-oscar-server-setup-checker) — Pick your AIM or ICQ client and your host machine, and get the port that client must reach
+- [Internet Packages](https://induwara.lk/tools/sri-lanka-internet-package-comparison) — Every published SLT-Mobitel and Dialog home broadband package converted from its advertise
 
 ## Health
 
@@ -725,6 +735,10 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Bus Route Finder](https://induwara.lk/tools/sri-lanka-bus-route-number-finder) — Search every gazetted inter-provincial bus route in Sri Lanka by town pair or route number
 - [Ongoing Vehicle Number](https://induwara.lk/tools/sri-lanka-ongoing-vehicle-registration-number) — Find the ongoing vehicle registration number the Department of Motor Traffic is issuing, a
 - [SL Beach Finder](https://induwara.lk/tools/sri-lanka-beach-finder) — Pick any of 51 named Sri Lankan beaches and any month to see whether the sea is calm, mixe
+- [Korea EPS-TOPIK Checker](https://induwara.lk/tools/sri-lanka-korea-eps-topik-eligibility-checker) — Check whether you may sit Sri Lanka's Special EPS-TOPIK examination for South Korea — the 
+- [Highway Bus Timetable](https://induwara.lk/tools/sri-lanka-highway-bus-timetable) — The actual departure times NTC prints for Southern Expressway buses — Matara, Galle, Tanga
+- [Embassy & Consulate Finder](https://induwara.lk/tools/sri-lanka-embassy-consulate-finder) — Find the Sri Lankan embassy, high commission or consulate that covers the country you are 
+- [Zoo Entry Fee](https://induwara.lk/tools/sri-lanka-zoo-entry-fee-calculator) — Price a whole group's entry to Dehiwala Zoo, the Pinnawala Elephant Orphanage, Pinnawala O
 
 ## AI
 
