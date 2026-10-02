@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1018%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1019%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -285,6 +285,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [CIDA Grade & Fee](https://induwara.lk/tools/sri-lanka-cida-contractor-grade-fee-calculator) — Which CIDA grade can bid for a contract worth Rs X, and what does that grade cost to regis
 - [Money Order Fee](https://induwara.lk/tools/sri-lanka-money-order-fee-calculator) — Work out the exact commission Sri Lanka Post charges to issue a money order, whether the c
 - [Permit & Grant Land Checker](https://induwara.lk/tools/sri-lanka-permit-land-checker) — Tells the holder of Sri Lankan state land — an annual permit under the Land Development Or
+- [Lecturer Salary Calculator](https://induwara.lk/tools/sri-lanka-university-lecturer-salary-calculator) — Work out what an academic in a Sri Lankan state university is paid, from the official U-AC
 
 ## Education
 
