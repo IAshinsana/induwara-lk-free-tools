@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1015%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1018%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -775,6 +775,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Japan Work Visa Route](https://induwara.lk/tools/sri-lanka-japan-work-visa-route-checker) — Find out which of the three official routes to a Japanese work visa — TITP, SSW or ESI — i
 - [Museum Entrance Fee](https://induwara.lk/tools/sri-lanka-museum-entrance-fee-calculator) — Price a whole party’s admission to any of the eleven museums run by the Department of Nati
 - [DMT Office Finder](https://induwara.lk/tools/sri-lanka-motor-traffic-office-finder) — Which Department of Motor Traffic office serves your district, its address and telephone n
+- [Driving Medical (NTMI)](https://induwara.lk/tools/sri-lanka-driving-license-medical-fee-finder) — What the National Transport Medical Institute charges for the medical fitness certificate 
+- [Road Signs Finder](https://induwara.lk/tools/sri-lanka-road-signs-finder) — Identify any Sri Lankan road sign from what you can actually see — its shape, its colour a
+- [SLTB Depot Finder](https://induwara.lk/tools/sri-lanka-sltb-bus-depot-finder) — Look up any SLTB (CTB) bus depot by town, depot name or the code painted on the bus board 
 
 ## AI
 
