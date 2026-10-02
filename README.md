@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1002%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1015%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -282,6 +282,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [ETF Benefits Checker](https://induwara.lk/tools/sri-lanka-etf-benefits-checker) — Find out which of the ETF Board's eleven welfare schemes you qualify for — death and perma
 - [RTI Fees & Deadlines](https://induwara.lk/tools/sri-lanka-rti-fee-deadline-calculator) — Enter the date your Right to Information request reached the public authority and get ever
 - [NBRO Clearance Fee](https://induwara.lk/tools/sri-lanka-nbro-landslide-clearance-fee-calculator) — Tells you whether your building site needs National Building Research Organisation landsli
+- [CIDA Grade & Fee](https://induwara.lk/tools/sri-lanka-cida-contractor-grade-fee-calculator) — Which CIDA grade can bid for a contract worth Rs X, and what does that grade cost to regis
+- [Money Order Fee](https://induwara.lk/tools/sri-lanka-money-order-fee-calculator) — Work out the exact commission Sri Lanka Post charges to issue a money order, whether the c
+- [Permit & Grant Land Checker](https://induwara.lk/tools/sri-lanka-permit-land-checker) — Tells the holder of Sri Lankan state land — an annual permit under the Land Development Or
 
 ## Education
 
@@ -368,6 +371,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Education Zone Finder](https://induwara.lk/tools/sri-lanka-zonal-education-office-finder) — Find which of Sri Lanka's 100 zonal education offices covers your town or school, the divi
 - [Teacher Efficiency Bar Check](https://induwara.lk/tools/sri-lanka-teacher-efficiency-bar-exam-checker) — Tells a Sri Lankan government teacher which Efficiency Bar examination their grade require
 - [New Curriculum Checker](https://induwara.lk/tools/sri-lanka-new-school-curriculum-checker) — The 2026 reforms started in Grades 1 and 6 only. Enter your child's grade and school year 
+- [Grade 2–11 Admission Marks](https://induwara.lk/tools/sri-lanka-grade-2-to-11-school-admission-marks-calculator) — Scores a government school transfer application for Grades 2–4 (out of 50) or Grades 7–11 
+- [Foreign Scholarship Checker](https://induwara.lk/tools/sri-lanka-foreign-scholarship-eligibility-checker) — Check, programme by programme, which government-channelled foreign scholarships you qualif
+- [Teacher Transfer Checker](https://induwara.lk/tools/sri-lanka-teacher-transfer-eligibility-checker) — Check whether the 8-year rule puts you on the compulsory national school teacher transfer 
 
 ## Developer
 
@@ -472,7 +478,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Reload Tax](https://induwara.lk/tools/sri-lanka-mobile-reload-tax-calculator) — Find out exactly how much of your Dialog, Mobitel, Hutch, or Airtel reload becomes airtime
 - [Number to Words](https://induwara.lk/tools/sri-lanka-number-to-words-converter) — Free converter that spells any LKR amount in English, Sinhala, and Tamil — exact cheque fo
 - [Remittance Limit](https://induwara.lk/tools/sri-lanka-outward-remittance-limit-calculator) — How much can a Sri Lankan resident send abroad? Check the AD cap, CBSL approval gate, LKR 
-- [Postal Code Finder](https://induwara.lk/tools/sri-lanka-postal-code-finder) — Free Sri Lanka postal code finder. Look up the 5-digit ZIP for any city, suburb, or post o
+- [Postal Code Finder](https://induwara.lk/tools/sri-lanka-postal-code-finder) — Free Sri Lanka postal code finder: look up the 5-digit ZIP for any town, city, suburb or p
 - [Post Rate](https://induwara.lk/tools/sri-lanka-post-rate-calculator) — Work out exactly what Sri Lanka Post will charge for any letter, parcel, registered item o
 - [Public Holidays](https://induwara.lk/tools/sri-lanka-public-holidays-calendar) — Every gazetted Sri Lanka public, bank and mercantile holiday for 2026 with English, Sinhal
 - [Nekath 2026](https://induwara.lk/tools/sri-lanka-sinhala-tamil-new-year-nekath) — Government Astrologer's nekath times for Sri Lanka's 2026 Aluth Avurudda / Puthandu: dawn,
@@ -567,6 +573,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL Divorce Checker](https://induwara.lk/tools/sri-lanka-divorce-procedure-checker) — Three regimes govern divorce in Sri Lanka, and the register your marriage was entered in d
 - [SL Marriage Checker](https://induwara.lk/tools/sri-lanka-marriage-procedure-checker) — Work out which register your marriage goes into — General, Kandyan or Muslim — whether you
 - [Birth Certificate Correction](https://induwara.lk/tools/sri-lanka-birth-certificate-correction-checker) — Tells you which of the Registrar General's eight birth forms your case needs — B7, B8, B9,
+- [Labour Office Finder](https://induwara.lk/tools/sri-lanka-labour-office-finder) — Find the Department of Labour office for your district — all 79 offices with phone numbers
 
 ## Health
 
@@ -694,7 +701,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 ## Travel
 
 - [Airport Tax Calculator](https://induwara.lk/tools/sri-lanka-airport-tax-calculator) — Calculate Embarkation Levy + Passenger Service Charge for departures from Sri Lanka. Per-p
-- [Bus Fare](https://induwara.lk/tools/sri-lanka-bus-fare-calculator) — The NTC bus fares in force from 6 July 2026: 55 inter-provincial route prices in normal, s
+- [Bus Fare](https://induwara.lk/tools/sri-lanka-bus-fare-calculator) — The NTC bus fares in force from 6 July 2026: the complete inter-provincial price list — al
 - [Cultural Triangle Fee](https://induwara.lk/tools/sri-lanka-cultural-triangle-entry-fee-calculator) — Work out the gate cost for Sigiriya, Polonnaruwa, Anuradhapura, Dambulla and the rest of S
 - [Baggage Allowance](https://induwara.lk/tools/sri-lanka-customs-baggage-allowance-calculator) — Find your duty-free concession at Bandaranaike International Airport and estimate the cust
 - [Licence Eligibility](https://induwara.lk/tools/sri-lanka-driving-license-class-eligibility-checker) — Find out which of Sri Lanka's 13 driving licence classes you can apply for — based on your
@@ -762,6 +769,12 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Inter-Provincial Bus Times](https://induwara.lk/tools/sri-lanka-interprovincial-bus-timetable) — The departure, stop and arrival times NTC prints for normal-road inter-provincial buses — 
 - [Adam's Peak Season Planner](https://induwara.lk/tools/sri-lanka-adams-peak-season-planner) — Check whether the Sri Pada pilgrimage season is open on your date, get the exact Unduvap-t
 - [Visa Fees for Sri Lankans](https://induwara.lk/tools/visa-fee-calculator-for-sri-lankans) — What a visa really costs a Sri Lankan passport holder in rupees — the UK, US, Schengen, Ca
+- [Pet Import Checker](https://induwara.lk/tools/sri-lanka-pet-import-permit-checker) — Works backwards from your flight date to every deadline the Department of Animal Productio
+- [Lotus Tower Ticket Price](https://induwara.lk/tools/sri-lanka-lotus-tower-ticket-price-calculator) — Price a whole party's visit to the Colombo Lotus Tower (Nelum Kuluna) at the official port
+- [Railway Parcel Charges](https://induwara.lk/tools/sri-lanka-railway-parcel-charge-calculator) — Work out what Sri Lanka Railways charges to send a parcel between any two stations, straig
+- [Japan Work Visa Route](https://induwara.lk/tools/sri-lanka-japan-work-visa-route-checker) — Find out which of the three official routes to a Japanese work visa — TITP, SSW or ESI — i
+- [Museum Entrance Fee](https://induwara.lk/tools/sri-lanka-museum-entrance-fee-calculator) — Price a whole party’s admission to any of the eleven museums run by the Department of Nati
+- [DMT Office Finder](https://induwara.lk/tools/sri-lanka-motor-traffic-office-finder) — Which Department of Motor Traffic office serves your district, its address and telephone n
 
 ## AI
 
