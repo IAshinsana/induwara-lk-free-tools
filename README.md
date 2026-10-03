@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1019%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1029%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -286,6 +286,11 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Money Order Fee](https://induwara.lk/tools/sri-lanka-money-order-fee-calculator) — Work out the exact commission Sri Lanka Post charges to issue a money order, whether the c
 - [Permit & Grant Land Checker](https://induwara.lk/tools/sri-lanka-permit-land-checker) — Tells the holder of Sri Lankan state land — an annual permit under the Land Development Or
 - [Lecturer Salary Calculator](https://induwara.lk/tools/sri-lanka-university-lecturer-salary-calculator) — Work out what an academic in a Sri Lankan state university is paid, from the official U-AC
+- [CBSL Licensed Finance Check](https://induwara.lk/tools/sri-lanka-licensed-finance-company-checker) — Type any finance company, bank, leasing or microfinance company and see whether the Centra
+- [Import Control License Check](https://induwara.lk/tools/sri-lanka-import-control-license-checker) — Search all 1,802 lines of the Department of Imports and Exports Control's own control list
+- [Salary & Pension Dates](https://induwara.lk/tools/sri-lanka-salary-pension-payment-dates) — The General Treasury's scheduled payment dates for government servants, teachers, armed fo
+- [Pension Life Certificate](https://induwara.lk/tools/sri-lanka-pension-life-certificate-checker) — How many days are left to submit a government pensioner's annual life certificate, which o
+- [SLBFE Agency Checker](https://induwara.lk/tools/slbfe-registered-agency-checker) — Search all 1,054 agencies on the SLBFE licensed foreign-employment register by name, labou
 
 ## Education
 
@@ -375,6 +380,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Grade 2–11 Admission Marks](https://induwara.lk/tools/sri-lanka-grade-2-to-11-school-admission-marks-calculator) — Scores a government school transfer application for Grades 2–4 (out of 50) or Grades 7–11 
 - [Foreign Scholarship Checker](https://induwara.lk/tools/sri-lanka-foreign-scholarship-eligibility-checker) — Check, programme by programme, which government-channelled foreign scholarships you qualif
 - [Teacher Transfer Checker](https://induwara.lk/tools/sri-lanka-teacher-transfer-eligibility-checker) — Check whether the 8-year rule puts you on the compulsory national school teacher transfer 
+- [Govt Exam Calendar](https://induwara.lk/tools/sri-lanka-government-exam-calendar) — Every 2026 public-service examination the Department of Examinations has scheduled — Effic
+- [Technical College Courses](https://induwara.lk/tools/sri-lanka-technical-college-course-finder) — Every course the Department of Technical Education and Training runs — all 1,000 offerings
+- [University Intake](https://induwara.lk/tools/sri-lanka-university-intake-checker) — See how many students the UGC admits to each Sri Lankan state-university course each year,
 
 ## Developer
 
@@ -779,6 +787,8 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Driving Medical (NTMI)](https://induwara.lk/tools/sri-lanka-driving-license-medical-fee-finder) — What the National Transport Medical Institute charges for the medical fitness certificate 
 - [Road Signs Finder](https://induwara.lk/tools/sri-lanka-road-signs-finder) — Identify any Sri Lankan road sign from what you can actually see — its shape, its colour a
 - [SLTB Depot Finder](https://induwara.lk/tools/sri-lanka-sltb-bus-depot-finder) — Look up any SLTB (CTB) bus depot by town, depot name or the code painted on the bus board 
+- [Railway Station Finder](https://induwara.lk/tools/sri-lanka-railway-station-finder) — Every Sri Lanka Railways station: its telephone number as a one-tap call, its line, its ra
+- [Railway Rooms & Bungalows](https://induwara.lk/tools/sri-lanka-railway-retiring-room-bungalow-charges) — What a night in Sri Lankan government railway accommodation actually costs: all 34 publish
 
 ## AI
 
