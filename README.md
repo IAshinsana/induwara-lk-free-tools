@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1029%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1030%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -291,6 +291,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Salary & Pension Dates](https://induwara.lk/tools/sri-lanka-salary-pension-payment-dates) — The General Treasury's scheduled payment dates for government servants, teachers, armed fo
 - [Pension Life Certificate](https://induwara.lk/tools/sri-lanka-pension-life-certificate-checker) — How many days are left to submit a government pensioner's annual life certificate, which o
 - [SLBFE Agency Checker](https://induwara.lk/tools/slbfe-registered-agency-checker) — Search all 1,054 agencies on the SLBFE licensed foreign-employment register by name, labou
+- [Samurdhi Bank Loan](https://induwara.lk/tools/sri-lanka-samurdhi-bank-loan-calculator) — What a Samurdhi Community Based Bank loan actually costs. Enter the amount, the repayment 
 
 ## Education
 
