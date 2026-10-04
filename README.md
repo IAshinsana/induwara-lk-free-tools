@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1037%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1041%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -588,6 +588,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [SL Marriage Checker](https://induwara.lk/tools/sri-lanka-marriage-procedure-checker) — Work out which register your marriage goes into, General, Kandyan or Muslim, whether you s
 - [Birth Certificate Correction](https://induwara.lk/tools/sri-lanka-birth-certificate-correction-checker) — Tells you which of the Registrar General's eight birth forms your case needs, B7, B8, B9, 
 - [Labour Office Finder](https://induwara.lk/tools/sri-lanka-labour-office-finder) — Find the Department of Labour office for your district — all 79 offices with phone numbers
+- [Legal Age Checker](https://induwara.lk/tools/sri-lanka-legal-age-checker) — The legal age for every activity Sri Lankan law fixes one for: being sold alcohol or tobac
 
 ## Health
 
@@ -797,6 +798,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [BIA Airport Taxi Fare](https://induwara.lk/tools/sri-lanka-airport-taxi-fare-calculator) — The official AASL fixed air-conditioned taxi fare from Bandaranaike International Airport 
 - [Passport Office Finder](https://induwara.lk/tools/sri-lanka-passport-office-finder) — Find where to give fingerprints and hand in a Sri Lankan passport application, that counte
 - [Tourist Arrivals by Country](https://induwara.lk/tools/sri-lanka-tourist-arrivals) — How many tourists came to Sri Lanka, from where, and in which month. Pick any of 192 sourc
+- [Tourist SIM Comparison](https://induwara.lk/tools/sri-lanka-tourist-sim-comparison) — Enter your trip length and the data you expect to use, and see what every published Sri La
+- [Foreign Driving Licence](https://induwara.lk/tools/sri-lanka-foreign-driving-license-checker) — Tells you which of the three official routes applies to your foreign licence: a permanent 
+- [Road Number Finder](https://induwara.lk/tools/sri-lanka-road-number-finder) — Look up any of the 773 gazetted national highways by route number, by town, or by a pair o
 
 ## AI
 
