@@ -490,7 +490,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [LP Gas Price](https://induwara.lk/tools/sri-lanka-lp-gas-price-calculator) — Look up the current CAA max retail price for Litro and Laugfs LP gas cylinders in Sri Lank
 - [Medicine Price](https://induwara.lk/tools/sri-lanka-medicine-price-lookup) — Look up the legal Maximum Retail Price (MRP) of essential medicines in Sri Lanka. Type a b
 - [Reload Tax](https://induwara.lk/tools/sri-lanka-mobile-reload-tax-calculator) — Find out exactly how much of your Dialog, Mobitel, Hutch, or Airtel reload becomes airtime
-- [Number to Words](https://induwara.lk/tools/sri-lanka-number-to-words-converter) — Free converter that spells any LKR amount in English, Sinhala, and Tamil, exact cheque for
+- [Number to Words](https://induwara.lk/tools/sri-lanka-number-to-words-converter) — Write any LKR cheque amount in words: English, Sinhala and Tamil, exact bank format with "
 - [Remittance Limit](https://induwara.lk/tools/sri-lanka-outward-remittance-limit-calculator) — How much can a Sri Lankan resident send abroad? Check the AD cap, CBSL approval gate, LKR 
 - [Postal Code Finder](https://induwara.lk/tools/sri-lanka-postal-code-finder) — Free Sri Lanka postal code finder: look up the 5-digit ZIP for any town, city, suburb or p
 - [Post Rate](https://induwara.lk/tools/sri-lanka-post-rate-calculator) — Work out exactly what Sri Lanka Post will charge for any letter, parcel, registered item o
@@ -701,7 +701,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Slug Generator](https://induwara.lk/tools/slug-generator) — Turn any title into a clean, SEO-friendly URL slug. Handles Sinhala, Tamil, accented Latin
 - [Random Text Generator](https://induwara.lk/tools/random-text-generator) — Generate random English words, sentences, paragraphs, names, or writing prompts in one cli
 - [Readability Checker](https://induwara.lk/tools/readability-checker) — Paste any text and score its readability with six standard formulas, Flesch Reading Ease, 
-- [Sinhala Unicode Converter](https://induwara.lk/tools/sinhala-unicode-converter) — Convert Sinhala text between legacy fonts (FM-Abhaya family) and proper Sinhala Unicode, b
+- [Sinhala Unicode Converter](https://induwara.lk/tools/sinhala-unicode-converter) — Unicode to FM Abhaya and FM Malithi, and FM fonts back to Sinhala Unicode. Both directions
 - [Tamil Unicode Converter](https://induwara.lk/tools/tamil-unicode-converter) — Convert Tamil text between legacy fonts (Bamini, TSCII) and proper Tamil Unicode, both dir
 - [Singlish to Sinhala](https://induwara.lk/tools/singlish-to-sinhala-converter) — Convert phonetic English (Singlish) into correct Sinhala Unicode in real time, entirely in
 - [Morse Code Translator](https://induwara.lk/tools/morse-code-translator) — Translate text to International Morse code and decode Morse back to text in your browser, 
