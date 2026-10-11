@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1041%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1044%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -388,6 +388,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Hotel School Course Finder](https://induwara.lk/tools/sri-lanka-hotel-school-course-finder) — Enter your age, qualification, trade and nearest college, and see which SLITHM programmes 
 - [ERPM Exam Checker](https://induwara.lk/tools/sri-lanka-erpm-exam-checker) — Enter your seven ERPM subject marks and see whether you passed Part I theory or Part II OS
 - [Paramedical Course Checker](https://induwara.lk/tools/sri-lanka-paramedical-training-eligibility-checker) — Enter your O/L and A/L grades, age, sex and height and see which of the eight Ministry of 
+- [IT Certification Cost Calculator](https://induwara.lk/tools/sri-lanka-it-certification-exam-cost-calculator) — What an AWS, Microsoft, CompTIA, Cisco, Red Hat, Google Cloud or Kubernetes exam actually 
+- [AWS vs Azure Path Planner](https://induwara.lk/tools/aws-vs-azure-certification-path-sri-lanka) — Pick your goal and get the exact exam sequence on each cloud, from AZ-900 to AZ-104 or AWS
+- [Pearson VUE Centres SL](https://induwara.lk/tools/pearson-vue-test-centres-sri-lanka) — Every Pearson VUE authorised test centre in Sri Lanka with its address, phone number and d
 
 ## Developer
 
