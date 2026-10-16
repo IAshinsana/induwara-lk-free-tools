@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1048%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1060%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -295,6 +295,11 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Street Line Certificate](https://induwara.lk/tools/sri-lanka-street-line-certificate-checker) — Find out if you need a street line and non-vesting certificate, who issues it, what docume
 - [EPF & ETF Balance Check](https://induwara.lk/tools/sri-lanka-epf-etf-balance-check) — Find out which official channel will actually give you your EPF or ETF balance today. Answ
 - [Poshana Malla Rs 45,000](https://induwara.lk/tools/sri-lanka-pregnant-mother-nutrition-allowance-checker) — Check whether you qualify for the Rs 45,000 poshana malla nutrition allowance for pregnant
+- [Land Price Index (Colombo)](https://induwara.lk/tools/sri-lanka-land-price-index-calculator) — Restate what you paid for land in the Colombo District at the latest Central Bank Land Val
+- [Police Salary Calculator](https://induwara.lk/tools/sri-lanka-police-salary-calculator) — Find a Sri Lanka Police officer's monthly salary from their rank and salary step under Pub
+- [Language Allowance Checker](https://induwara.lk/tools/sri-lanka-language-allowance-checker) — Enter your service level, appointment date and language medium to get the exact date by wh
+- [Food Price Tracker](https://induwara.lk/tools/sri-lanka-food-price-tracker) — The latest official Sri Lankan retail price for 122 food items, with the weekly and yearly
+- [Betting & Gaming Levy](https://induwara.lk/tools/sri-lanka-betting-gaming-levy-calculator) — Work out the full Betting and Gaming Levy bill for a Sri Lankan casino or bookmaker: the a
 
 ## Education
 
@@ -394,6 +399,9 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [AWS vs Azure Path Planner](https://induwara.lk/tools/aws-vs-azure-certification-path-sri-lanka) — Pick your goal and get the exact exam sequence on each cloud, from AZ-900 to AZ-104 or AWS
 - [Pearson VUE Centres SL](https://induwara.lk/tools/pearson-vue-test-centres-sri-lanka) — Every Pearson VUE authorised test centre in Sri Lanka with its address, phone number and d
 - [Cyber Security Courses Sri Lanka](https://induwara.lk/tools/sri-lanka-cyber-security-course-cost-comparator) — Every route into cyber security in Sri Lanka with its published cost: state and private de
+- [AAT Exemption Checker](https://induwara.lk/tools/sri-lanka-aat-exemption-checker) — Pick the qualification you already hold, A/L passes, a UGC degree, HNDA, HNDBF, NCAT, NDA,
+- [CA Sri Lanka Exemptions](https://induwara.lk/tools/ca-sri-lanka-exemption-checker) — Pick the qualification you hold, a state or SLIIT accounting degree, HNDA, AAT Sri Lanka o
+- [Population by District](https://induwara.lk/tools/sri-lanka-population-by-district) — Look up any of Sri Lanka's 25 districts or 9 provinces and get its Census 2024 population,
 
 ## Developer
 
@@ -808,6 +816,10 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Foreign Driving Licence](https://induwara.lk/tools/sri-lanka-foreign-driving-license-checker) — Tells you which of the three official routes applies to your foreign licence: a permanent 
 - [Road Number Finder](https://induwara.lk/tools/sri-lanka-road-number-finder) — Look up any of the 773 gazetted national highways by route number, by town, or by a pair o
 - [Passport Validity](https://induwara.lk/tools/sri-lanka-passport-validity-checker) — Work out when your Sri Lankan passport expires, how much validity is left today, and wheth
+- [Railway Warrant Checker](https://induwara.lk/tools/sri-lanka-railway-warrant-checker) — How many railway warrants you get this financial year, which class the warrant may be writ
+- [Perahera Dates Calendar](https://induwara.lk/tools/sri-lanka-perahera-calendar) — Every major Sri Lankan perahera date for the year you pick, with the Kandy Esala Perahera 
+- [Heritage Ticket Checker](https://induwara.lk/tools/sri-lanka-heritage-site-ticket-checker) — Find which Central Cultural Fund ticket you qualify for at Sigiriya, Dambulla, Polonnaruwa
+- [Wildlife Bungalow Cost](https://induwara.lk/tools/sri-lanka-wildlife-bungalow-cost-calculator) — Price a night in a Department of Wildlife Conservation circuit bungalow or campsite: the g
 
 ## AI
 
