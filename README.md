@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1060%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1061%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -739,7 +739,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Dual Citizenship Fee](https://induwara.lk/tools/sri-lanka-dual-citizenship-fee-calculator) — Estimate the full Sri Lankan dual citizenship application cost in LKR and USD, principal, 
 - [ETA Visa Fee](https://induwara.lk/tools/sri-lanka-eta-visa-fee-calculator) — Work out the exact Sri Lanka ETA visa cost in USD and LKR, tourist, business, transit, bro
 - [EV Charging Cost](https://induwara.lk/tools/sri-lanka-ev-charging-cost-calculator) — Work out the monthly LKR cost of charging an EV at home in Sri Lanka on the CEB D-1 or D-T
-- [Expressway Toll](https://induwara.lk/tools/sri-lanka-expressway-toll-calculator) — Calculate the exact RDA-gazetted toll for any trip on Sri Lanka's expressway network, Sout
+- [Expressway Toll](https://induwara.lk/tools/sri-lanka-expressway-toll-calculator) — Look up the gazetted expressway user fee for any trip in Sri Lanka: Southern (E01), Outer 
 - [Fuel Cost](https://induwara.lk/tools/sri-lanka-fuel-cost-calculator) — Calculate the petrol or diesel cost of any trip in Sri Lanka using the latest Ceylon Petro
 - [Fuel Efficiency](https://induwara.lk/tools/sri-lanka-fuel-efficiency-calculator) — Work out your vehicle's real fuel economy from fill-up data in km/l, L/100km and mpg, then
 - [Phone Import Tax](https://induwara.lk/tools/sri-lanka-mobile-phone-import-tax-calculator) — Estimate the all-in landed cost of importing a phone to Sri Lanka, Customs Duty, Cess, PAL
@@ -820,6 +820,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Perahera Dates Calendar](https://induwara.lk/tools/sri-lanka-perahera-calendar) — Every major Sri Lankan perahera date for the year you pick, with the Kandy Esala Perahera 
 - [Heritage Ticket Checker](https://induwara.lk/tools/sri-lanka-heritage-site-ticket-checker) — Find which Central Cultural Fund ticket you qualify for at Sigiriya, Dambulla, Polonnaruwa
 - [Wildlife Bungalow Cost](https://induwara.lk/tools/sri-lanka-wildlife-bungalow-cost-calculator) — Price a night in a Department of Wildlife Conservation circuit bungalow or campsite: the g
+- [Emission Test Centres](https://induwara.lk/tools/sri-lanka-emission-test-centre-finder) — All 476 authorised vehicle emission testing centres in Sri Lanka, both LAUGFS Eco Sri and 
 
 ## AI
 
