@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1063%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1064%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -300,6 +300,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Language Allowance Checker](https://induwara.lk/tools/sri-lanka-language-allowance-checker) — Enter your service level, appointment date and language medium to get the exact date by wh
 - [Food Price Tracker](https://induwara.lk/tools/sri-lanka-food-price-tracker) — The latest official Sri Lankan retail price for 122 food items, with the weekly and yearly
 - [Betting & Gaming Levy](https://induwara.lk/tools/sri-lanka-betting-gaming-levy-calculator) — Work out the full Betting and Gaming Levy bill for a Sri Lankan casino or bookmaker: the a
+- [Sri Lanka National Debt](https://induwara.lk/tools/sri-lanka-national-debt-tracker) — How much the Sri Lankan government owes, for every year from 1990 to 2025: the total, the 
 
 ## Education
 
