@@ -500,7 +500,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Random Name Generator](https://induwara.lk/tools/random-name-generator) — Generate random first and last names filtered by origin (English, Sinhala, Tamil, Spanish,
 - [SL Land Area Converter](https://induwara.lk/tools/sri-lanka-land-area-converter) — Convert Sri Lankan land area between perches, square feet, square metres, roods, acres, he
 - [Branch Code Finder](https://induwara.lk/tools/sri-lanka-bank-branch-code-finder) — Look up the LankaPay branch code, SLIPS routing, and SWIFT BIC for any Sri Lankan bank bra
-- [DS Division Finder](https://induwara.lk/tools/sri-lanka-divisional-secretariat-finder) — Find any Divisional Secretariat in Sri Lanka by province and district, or search all 331 D
+- [DS Office Finder](https://induwara.lk/tools/sri-lanka-divisional-secretariat-finder) — Find your Divisional Secretariat office in Sri Lanka, see the 27 services it provides, and
 - [SL House Building Cost](https://induwara.lk/tools/sri-lanka-house-construction-cost-calculator) — Estimate the cost to build a house in Sri Lanka from floor area and finish grade, a low–mi
 - [LP Gas Price](https://induwara.lk/tools/sri-lanka-lp-gas-price-calculator) — Look up the current CAA max retail price for Litro and Laugfs LP gas cylinders in Sri Lank
 - [Medicine Price](https://induwara.lk/tools/sri-lanka-medicine-price-lookup) — Look up the legal Maximum Retail Price (MRP) of essential medicines in Sri Lanka. Type a b
