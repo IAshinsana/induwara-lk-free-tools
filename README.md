@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1062%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1063%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -822,6 +822,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Wildlife Bungalow Cost](https://induwara.lk/tools/sri-lanka-wildlife-bungalow-cost-calculator) — Price a night in a Department of Wildlife Conservation circuit bungalow or campsite: the g
 - [Emission Test Centres](https://induwara.lk/tools/sri-lanka-emission-test-centre-finder) — All 476 authorised vehicle emission testing centres in Sri Lanka, both LAUGFS Eco Sri and 
 - [Metro Bus Fare Calculator](https://induwara.lk/tools/sri-lanka-metro-bus-fare-calculator) — The published Lanka Metro Transit fare in rupees between any two stops on all seven Colomb
+- [Passport Photo Studio Finder](https://induwara.lk/tools/sri-lanka-passport-photo-studio-finder) — Search all 1,410 photo studios the Department of Immigration authorizes for Sri Lankan pas
 
 ## AI
 
