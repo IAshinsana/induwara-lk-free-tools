@@ -808,7 +808,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Driving Medical (NTMI)](https://induwara.lk/tools/sri-lanka-driving-license-medical-fee-finder) — What the National Transport Medical Institute charges for the medical fitness certificate 
 - [Road Signs Finder](https://induwara.lk/tools/sri-lanka-road-signs-finder) — Identify any Sri Lankan road sign from what you can actually see — its shape, its colour a
 - [SLTB Depot Finder](https://induwara.lk/tools/sri-lanka-sltb-bus-depot-finder) — Look up any SLTB (CTB) bus depot by town, depot name or the code painted on the bus board 
-- [Railway Station Finder](https://induwara.lk/tools/sri-lanka-railway-station-finder) — Every Sri Lanka Railways station: its telephone number as a one-tap call, its line, its ra
+- [Railway Station Finder](https://induwara.lk/tools/sri-lanka-railway-station-finder) — Every Sri Lanka Railways line and station: all nine line tables in rail order, the station
 - [Railway Rooms & Bungalows](https://induwara.lk/tools/sri-lanka-railway-retiring-room-bungalow-charges) — What a night in Sri Lankan government railway accommodation actually costs: all 34 publish
 - [BIA Airport Taxi Fare](https://induwara.lk/tools/sri-lanka-airport-taxi-fare-calculator) — The official AASL fixed air-conditioned taxi fare from Bandaranaike International Airport 
 - [Passport Office Finder](https://induwara.lk/tools/sri-lanka-passport-office-finder) — Find where to give fingerprints and hand in a Sri Lankan passport application, that counte
