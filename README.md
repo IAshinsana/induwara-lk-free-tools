@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1064%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1066%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -301,6 +301,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Food Price Tracker](https://induwara.lk/tools/sri-lanka-food-price-tracker) — The latest official Sri Lankan retail price for 122 food items, with the weekly and yearly
 - [Betting & Gaming Levy](https://induwara.lk/tools/sri-lanka-betting-gaming-levy-calculator) — Work out the full Betting and Gaming Levy bill for a Sri Lankan casino or bookmaker: the a
 - [Sri Lanka National Debt](https://induwara.lk/tools/sri-lanka-national-debt-tracker) — How much the Sri Lankan government owes, for every year from 1990 to 2025: the total, the 
+- [Port Demurrage Calculator](https://induwara.lk/tools/sri-lanka-port-demurrage-charge-calculator) — Work out the SLPA occupation charge on a container, vehicle or cargo held at Colombo port.
 
 ## Education
 
@@ -604,6 +605,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Birth Certificate Correction](https://induwara.lk/tools/sri-lanka-birth-certificate-correction-checker) — Tells you which of the Registrar General's eight birth forms your case needs, B7, B8, B9, 
 - [Labour Office Finder](https://induwara.lk/tools/sri-lanka-labour-office-finder) — Find the Department of Labour office for your district — all 79 offices with phone numbers
 - [Legal Age Checker](https://induwara.lk/tools/sri-lanka-legal-age-checker) — The legal age for every activity Sri Lankan law fixes one for: being sold alcohol or tobac
+- [SL Mobile Dial Codes](https://induwara.lk/tools/sri-lanka-mobile-dial-code-finder) — Every dial code Dialog, Mobitel, Hutch and Airtel publish, with the menu options to press 
 
 ## Health
 
