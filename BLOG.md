@@ -1,11 +1,13 @@
 # induwara.lk — Blog
 
-[![Articles](https://img.shields.io/badge/Articles-412-8957e5?style=for-the-badge)](https://induwara.lk/blog)
+[![Articles](https://img.shields.io/badge/Articles-414-8957e5?style=for-the-badge)](https://induwara.lk/blog)
 
-412 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
+414 published articles. Read them all at **[https://induwara.lk/blog](https://induwara.lk/blog)**.
 
 | Date | Article | Category |
 |---|---|---|
+| 2026-10-26 | [Sri Lanka fuel prices in 2026: every CEYPETCO revision since March](https://induwara.lk/blog/2026-10-26-sri-lanka-fuel-prices-2026-every-revision) | Guide |
+| 2026-10-26 | [Sri Lanka electricity bill 2026: one extra unit can cost Rs 2,030](https://induwara.lk/blog/2026-10-26-sri-lanka-electricity-bill-one-extra-unit) | Guide |
 | 2026-09-22 | [Morphotonics raised €40M because AI's bottleneck is the wire](https://induwara.lk/blog/2026-09-22-morphotonics-raises-40m-to-expand-its-display-tech) | Opinion |
 | 2026-09-22 | [The Robin Williams AI video proves detection already lost](https://induwara.lk/blog/2026-09-22-robin-williams-daughter-to-fans-creating-ai-videos) | Opinion |
 | 2026-09-22 | [Meta Muse 0-day: a config bug with agent-sized blast radius](https://induwara.lk/blog/2026-09-22-muse-meta-s-extraordinarily-privileged-ai-assistan) | Opinion |
