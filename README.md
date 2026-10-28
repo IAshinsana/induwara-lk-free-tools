@@ -1,6 +1,6 @@
 # induwara.lk — Free Sri Lanka Tools & Calculators
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1066%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-1068%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools) [![No signup](https://img.shields.io/badge/No_signup-required-8957e5?style=for-the-badge)](https://induwara.lk)
 
 A growing collection of **free, no-signup** online tools and calculators for Sri Lanka — tax, EPF/ETF, gratuity, electricity & water bills, NIC decoder, A/L Z-score, plus online code compilers (Python, Java, C++, SQL…) and an end-to-end encrypted secret chat.
 
@@ -606,6 +606,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Labour Office Finder](https://induwara.lk/tools/sri-lanka-labour-office-finder) — Find the Department of Labour office for your district — all 79 offices with phone numbers
 - [Legal Age Checker](https://induwara.lk/tools/sri-lanka-legal-age-checker) — The legal age for every activity Sri Lankan law fixes one for: being sold alcohol or tobac
 - [SL Mobile Dial Codes](https://induwara.lk/tools/sri-lanka-mobile-dial-code-finder) — Every dial code Dialog, Mobitel, Hutch and Airtel publish, with the menu options to press 
+- [SL Timber Permit Checker](https://induwara.lk/tools/sri-lanka-timber-transport-permit-checker) — Check whether moving a timber load in Sri Lanka needs a Forest Department transport permit
 
 ## Health
 
@@ -826,6 +827,7 @@ Selected tools are also available as standalone open-source projects (MIT licens
 - [Emission Test Centres](https://induwara.lk/tools/sri-lanka-emission-test-centre-finder) — All 476 authorised vehicle emission testing centres in Sri Lanka, both LAUGFS Eco Sri and 
 - [Metro Bus Fare Calculator](https://induwara.lk/tools/sri-lanka-metro-bus-fare-calculator) — The published Lanka Metro Transit fare in rupees between any two stops on all seven Colomb
 - [Passport Photo Studio Finder](https://induwara.lk/tools/sri-lanka-passport-photo-studio-finder) — Search all 1,410 photo studios the Department of Immigration authorizes for Sri Lankan pas
+- [SL Plug Adapter Checker](https://induwara.lk/tools/sri-lanka-plug-adapter-checker) — Pick the country your device came from and find out whether its plug fits a Sri Lankan soc
 
 ## AI
 
